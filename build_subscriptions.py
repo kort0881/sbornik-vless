@@ -15,7 +15,10 @@ PROTOCOLS = [
     ("TUIC", "tuic"),
 ]
 
-def split_to_chunks(src_path, prefix, chunk_size=5000):
+CHUNK_SIZE = 1000  # максимум 1000 строк в одной подписке
+
+
+def split_to_chunks(src_path, prefix, chunk_size=CHUNK_SIZE):
     if not os.path.exists(src_path):
         return []
 
@@ -27,7 +30,7 @@ def split_to_chunks(src_path, prefix, chunk_size=5000):
 
     urls = []
     for i in range(0, len(lines), chunk_size):
-        chunk = lines[i:i+chunk_size]
+        chunk = lines[i:i + chunk_size]
         idx = i // chunk_size + 1
         filename = f"{prefix}_{idx:03d}.txt"
         full_path = os.path.join(BASE_PATH, filename)
@@ -42,6 +45,7 @@ def split_to_chunks(src_path, prefix, chunk_size=5000):
         urls.append(raw_url)
 
     return urls
+
 
 def main():
     subs_lines = []
@@ -66,6 +70,7 @@ def main():
         f.write("\n".join(subs_lines).strip() + "\n")
 
     print(f"✅ Обновлён {subs_path}")
+
 
 if __name__ == "__main__":
     main()
