@@ -1,6 +1,3 @@
-Менять нужно только env в последнем шаге:
-
-```yaml
 name: sbornik-vless
 
 on:
@@ -42,4 +39,3 @@ jobs:
           TELEGRAM_PRIVATE_CHANNEL: ${{ secrets.TELEGRAM_PRIVATE_CHANNEL }}
           TELEGRAM_DRY_RUN: "1"   # теперь НИЧЕГО не уходит в Телеграм
         run: python subscriptions_poster.py
-```
