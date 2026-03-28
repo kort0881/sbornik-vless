@@ -11,9 +11,8 @@ BOT_TOKEN_PUBLIC = os.environ.get("TELEGRAM_BOT_TOKEN_PUBLIC")
 BOT_TOKEN_PRIVATE = os.environ.get("TELEGRAM_BOT_TOKEN")
 PRIVATE_CHANNEL = os.environ.get("TELEGRAM_PRIVATE_CHANNEL")
 
-# Публичный канал можно захардкодить или вынести в ENV
-# Если используешь numeric ID, подставь его сюда
-PUBLIC_CHANNEL = "@vlesstrojan"
+# Публичный канал: numeric ID
+PUBLIC_CHANNEL = -1002287416438
 
 # Файл subscriptions в репо sbornik-vless
 SUBSCRIPTIONS_URL = (
@@ -51,19 +50,6 @@ def load_subscriptions_raw():
 
 
 def parse_subscriptions_blocks(subscriptions_text: str):
-    """
-    Формат ожидается такой (пример):
-
-    === VLESS ===
-    https://.../vless_001.txt
-    https://.../vless_002.txt
-
-    === VMESS ===
-    https://.../vmess_001.txt
-    ...
-
-    Все URL берём как есть (полные, не короткие).
-    """
     blocks = {}
     current = None
 
@@ -80,7 +66,6 @@ def parse_subscriptions_blocks(subscriptions_text: str):
             continue
 
         if current is None:
-            # строки до первого блока игнорируем
             continue
 
         if line.startswith("http"):
@@ -90,11 +75,6 @@ def parse_subscriptions_blocks(subscriptions_text: str):
 
 
 def build_keyboard(blocks, max_buttons=50):
-    """
-    Берём первые max_buttons ссылок по порядку протоколов и URL.
-    Текст кнопки: 📥 PROTO 001
-    URL — полный, как в файле subscriptions.
-    """
     buttons = []
     flat = []
 
@@ -122,9 +102,6 @@ def build_keyboard(blocks, max_buttons=50):
 
 
 def build_private_text(blocks):
-    """
-    Короткий обзор по протоколам + подсказка, что ссылки в кнопках.
-    """
     order = ["VLESS", "VMESS", "TROJAN", "SS", "HYSTERIA", "HYSTERIA2", "HY2", "TUIC"]
 
     header = (
@@ -193,7 +170,7 @@ def main():
 
     print(f"📦 Всего ссылок в subscriptions: {total_urls}\n")
 
-    # Общая клавиатура (используем и там, и там)
+    # Одна клавиатура для обоих постов
     keyboard = build_keyboard(blocks, max_buttons=50)
 
     # ---------- ПУБЛИЧНЫЙ КАНАЛ ----------
@@ -216,7 +193,8 @@ def main():
         "disable_web_page_preview": True,
     }
     if keyboard:
-        payload_public["reply_markup"] = {"inline_keyboard": keyboard[:10]}
+        # в паблик только первые 10 кнопок
+        payload_public["reply_markup"] = {"inline_keyboard": build_keyboard(blocks, max_buttons=10)}
 
     ok_pub = send_message_json(BOT_TOKEN_PUBLIC, PUBLIC_CHANNEL, payload_public)
     if ok_pub:
