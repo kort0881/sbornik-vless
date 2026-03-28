@@ -1,0 +1,28 @@
+name: sbornik-vless
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # каждый час (UTC)
+  workflow_dispatch:
+
+jobs:
+  sbornik-vless-job:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Run sbornik main.py
+        run: python main.py
+
+      - name: Post to Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_PRIVATE_CHANNEL: ${{ secrets.TELEGRAM_PRIVATE_CHANNEL }}
+        run: python telegram_post.py
