@@ -1,3 +1,6 @@
+Менять нужно только env в последнем шаге:
+
+```yaml
 name: sbornik-vless
 
 on:
@@ -8,6 +11,7 @@ on:
 jobs:
   sbornik-vless-job:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
 
@@ -36,5 +40,6 @@ jobs:
           TELEGRAM_BOT_TOKEN_PUBLIC: ${{ secrets.TELEGRAM_BOT_TOKEN_PUBLIC }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_PRIVATE_CHANNEL: ${{ secrets.TELEGRAM_PRIVATE_CHANNEL }}
-          TELEGRAM_DRY_RUN: "0"   # поставь "1", если хочешь погонять без отправки
+          TELEGRAM_DRY_RUN: "1"   # теперь НИЧЕГО не уходит в Телеграм
         run: python subscriptions_poster.py
+```
