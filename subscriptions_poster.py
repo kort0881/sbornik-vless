@@ -179,10 +179,8 @@ def main():
     public_text = (
         "🔥 <b>Подписочные ссылки sbornik-vless</b>\n\n"
         f"📅 <code>{datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}</code>\n\n"
-        + WARNING_TEXT.replace("\n", "<br>")
-        + "<br>"
-        + CLIENTS.replace("\n", "<br>")
-        + "<br>"
+        + WARNING_TEXT
+        + CLIENTS
         + TAGS
     )
 
@@ -194,7 +192,9 @@ def main():
     }
     if keyboard:
         # в паблик только первые 10 кнопок
-        payload_public["reply_markup"] = {"inline_keyboard": build_keyboard(blocks, max_buttons=10)}
+        payload_public["reply_markup"] = {
+            "inline_keyboard": build_keyboard(blocks, max_buttons=10)
+        }
 
     ok_pub = send_message_json(BOT_TOKEN_PUBLIC, PUBLIC_CHANNEL, payload_public)
     if ok_pub:
