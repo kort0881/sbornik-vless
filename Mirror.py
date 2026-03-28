@@ -7,7 +7,6 @@ import requests
 import urllib.parse
 import base64
 import json
-import re
 
 BASE_PATH = os.path.dirname(os.path.abspath(__file__))
 BASE_DIR = os.path.join(BASE_PATH, "githubmirror")
@@ -16,6 +15,9 @@ CLEAN_DIR = os.path.join(BASE_DIR, "clean")
 NEW_BY_PROTO_DIR = os.path.join(NEW_DIR, "by_protocol")
 
 PROTOCOLS = ["vless", "vmess", "trojan", "ss", "hysteria", "hysteria2", "hy2", "tuic"]
+
+# DRY-RUN режим: MIRROR_DRY_RUN=1 — только собираем и печатаем статистику, файлы не пишем
+DRY_RUN = os.environ.get("MIRROR_DRY_RUN", "0") == "1"
 
 # ✅ НОВЫЙ СПИСОК ИСТОЧНИКОВ (объединённый, уникальный, только raw‑ссылки)
 URLS_BASE = [
@@ -183,6 +185,7 @@ URLS_BASE = [
 CONFIG_SOURCES_FILE = os.path.join(BASE_PATH, "config_sources.json")
 CHUNK_SIZE = 500
 
+
 def load_all_urls():
     urls = set(URLS_BASE)
     if os.path.exists(CONFIG_SOURCES_FILE):
@@ -196,12 +199,17 @@ def load_all_urls():
             print(f"⚠️ Не удалось прочитать config_sources.json: {e}")
     return sorted(urls)
 
+
 def clean_start():
+    if DRY_RUN:
+        print("⚙️ MIRROR_DRY_RUN=1 — файловую систему не трогаем")
+        return
     if os.path.exists(BASE_DIR):
         shutil.rmtree(BASE_DIR)
     os.makedirs(NEW_DIR, exist_ok=True)
     os.makedirs(CLEAN_DIR, exist_ok=True)
     os.makedirs(NEW_BY_PROTO_DIR, exist_ok=True)
+
 
 def protocol_of(line: str):
     for p in PROTOCOLS:
@@ -209,14 +217,18 @@ def protocol_of(line: str):
             return p
     return None
 
+
 def extract_host_port_scheme(line: str):
     try:
         u = urllib.parse.urlparse(line)
         return u.hostname, u.port or 443, u.scheme
-    except:
+    except Exception:
         return None, None, None
 
+
 def write_chunks_by_protocol(base_dir: str, protocol: str, items: list, chunk_size: int = 500):
+    if DRY_RUN:
+        return
     proto_dir = os.path.join(base_dir, protocol)
     os.makedirs(proto_dir, exist_ok=True)
     for start in range(0, len(items), chunk_size):
@@ -224,6 +236,7 @@ def write_chunks_by_protocol(base_dir: str, protocol: str, items: list, chunk_si
         part_num = start // chunk_size + 1
         with open(os.path.join(proto_dir, f"{protocol}_{part_num:03d}.txt"), "w", encoding="utf-8") as f:
             f.write("\n".join(part))
+
 
 def main():
     clean_start()
@@ -243,8 +256,8 @@ def main():
 
             if "://" not in content:
                 try:
-                    content = base64.b64decode(content + "==").decode('utf-8', errors='ignore')
-                except:
+                    content = base64.b64decode(content + "==").decode("utf-8", errors="ignore")
+                except Exception:
                     pass
 
             lines = content.splitlines()
@@ -266,8 +279,9 @@ def main():
 
     all_keys_list = sorted(all_keys)
 
-    with open(os.path.join(NEW_DIR, "all_new.txt"), "w", encoding="utf-8") as f:
-        f.write("\n".join(all_keys_list))
+    if not DRY_RUN:
+        with open(os.path.join(NEW_DIR, "all_new.txt"), "w", encoding="utf-8") as f:
+            f.write("\n".join(all_keys_list))
 
     # Группировка по протоколам (сырые, без geo-фильтров)
     raw_buckets = {p: [] for p in PROTOCOLS}
@@ -294,21 +308,23 @@ def main():
             clean_keys.append(line)
 
     # Запись чистых файлов по протоколам
-    for p in PROTOCOLS:
-        items = [k for k in clean_keys if protocol_of(k) == p]
-        if items:
-            with open(os.path.join(CLEAN_DIR, f"{p}.txt"), "w", encoding="utf-8") as f:
-                f.write("\n".join(items))
+    if not DRY_RUN:
+        for p in PROTOCOLS:
+            items = [k for k in clean_keys if protocol_of(k) == p]
+            if items:
+                with open(os.path.join(CLEAN_DIR, f"{p}.txt"), "w", encoding="utf-8") as f:
+                    f.write("\n".join(items))
 
-    print(f"\n✅ ГОТОВО!")
+    print("\n✅ ГОТОВО!")
     print(f"   📥 Всего ключей: {len(all_keys_list)}")
     print(f"   🔗 Уникальных IP:PORT:SCHEME: {len(clean_keys)}")
 
-    print(f"\n📊 По протоколам:")
+    print("\n📊 По протоколам:")
     for p in PROTOCOLS:
         count = len([k for k in clean_keys if protocol_of(k) == p])
         if count > 0:
             print(f"   {p}: {count}")
+
 
 if __name__ == "__main__":
     main()
