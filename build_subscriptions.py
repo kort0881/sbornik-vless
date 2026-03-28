@@ -3,6 +3,8 @@ import os
 
 BASE_PATH = os.path.dirname(os.path.abspath(__file__))
 FINAL_DIR = os.path.join(BASE_PATH, "configs", "final")
+SUBS_DIR = os.path.join(BASE_PATH, "subs")
+os.makedirs(SUBS_DIR, exist_ok=True)
 
 PROTOCOLS = [
     ("VLESS", "vless"),
@@ -16,6 +18,7 @@ PROTOCOLS = [
 ]
 
 CHUNK_SIZE = 1000
+
 
 def split_to_chunks(src_path, prefix, chunk_size=CHUNK_SIZE):
     print(f"🔎 Читаем {src_path}")
@@ -36,14 +39,14 @@ def split_to_chunks(src_path, prefix, chunk_size=CHUNK_SIZE):
         chunk = lines[i:i + chunk_size]
         idx = i // chunk_size + 1
         filename = f"{prefix}_{idx:03d}.txt"
-        full_path = os.path.join(BASE_PATH, filename)
+        full_path = os.path.join(SUBS_DIR, filename)
         print(f"  💾 Пишем {len(chunk)} строк в {full_path}")
         with open(full_path, "w", encoding="utf-8") as out:
             out.write("\n".join(chunk) + "\n")
 
         raw_url = (
             "https://raw.githubusercontent.com/"
-            "kort0881/sbornik-vless/refs/heads/main/"
+            "kort0881/sbornik-vless/refs/heads/main/subs/"
             + filename
         )
         urls.append(raw_url)
@@ -54,19 +57,18 @@ def split_to_chunks(src_path, prefix, chunk_size=CHUNK_SIZE):
 
 def main():
     print("=" * 60)
-    print(f"🚀 Запуск генератора подписок")
+    print("🚀 Запуск генератора подписок")
     print("=" * 60)
     print(f"📁 BASE_PATH = {BASE_PATH}")
     print(f"📁 FINAL_DIR = {FINAL_DIR}")
-    
-    # Проверка существования директории
+
     if not os.path.exists(FINAL_DIR):
         print(f"\n❌ ОШИБКА: Директория {FINAL_DIR} не существует!")
         print(f"\n📂 Содержимое BASE_PATH:")
         for item in os.listdir(BASE_PATH):
             print(f"   - {item}")
         return
-    
+
     print(f"\n📂 Содержимое FINAL_DIR:")
     final_files = os.listdir(FINAL_DIR)
     if not final_files:
@@ -75,7 +77,7 @@ def main():
         full_path = os.path.join(FINAL_DIR, item)
         size = os.path.getsize(full_path)
         print(f"   - {item} ({size} байт)")
-    
+
     print("\n" + "=" * 60)
     subs_lines = []
     total_configs = 0
