@@ -12,6 +12,7 @@ BOT_TOKEN_PRIVATE = os.environ.get("TELEGRAM_BOT_TOKEN")
 PRIVATE_CHANNEL = os.environ.get("TELEGRAM_PRIVATE_CHANNEL")
 
 # Публичный канал можно захардкодить или вынести в ENV
+# Если используешь numeric ID, подставь его сюда
 PUBLIC_CHANNEL = "@vlesstrojan"
 
 # Файл subscriptions в репо sbornik-vless
@@ -21,11 +22,11 @@ SUBSCRIPTIONS_URL = (
 )
 
 WARNING_TEXT = (
-    "⚠️ Материал взят из открытых источников сети Интернет.\\n"
-    "Информация предоставляется в ознакомительных целях.\\n"
-    "Все данные получены легальными методами.\\n\\n"
+    "⚠️ Материал взят из открытых источников сети Интернет.\n"
+    "Информация предоставляется в ознакомительных целях.\n"
+    "Все данные получены легальными методами.\n\n"
 )
-CLIENTS = "Клиенты: v2rayNG · Clash · Hiddify · Shadowrocket\\n"
+CLIENTS = "Клиенты: v2rayNG · Clash · Hiddify · Shadowrocket\n"
 TAGS = "#прокси #v2ray #vmess #vless #shadowsocks #vpn"
 
 
@@ -88,7 +89,7 @@ def parse_subscriptions_blocks(subscriptions_text: str):
     return blocks
 
 
-def build_public_keyboard(blocks, max_buttons=10):
+def build_keyboard(blocks, max_buttons=50):
     """
     Берём первые max_buttons ссылок по порядку протоколов и URL.
     Текст кнопки: 📥 PROTO 001
@@ -122,43 +123,33 @@ def build_public_keyboard(blocks, max_buttons=10):
 
 def build_private_text(blocks):
     """
-    Формируем аккуратный текст для приватного канала:
-
-    🔹 VLESS (3)
-    1) url
-    2) url
-    ...
-
-    🔹 VMESS (1)
-    ...
+    Короткий обзор по протоколам + подсказка, что ссылки в кнопках.
     """
-    lines = []
     order = ["VLESS", "VMESS", "TROJAN", "SS", "HYSTERIA", "HYSTERIA2", "HY2", "TUIC"]
 
     header = (
-        "🔐 <b>Подписочные ссылки sbornik-vless</b>\\n\\n"
-        f"📅 <code>{datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}</code>\\n\\n"
+        "🔐 <b>Подписочные ссылки sbornik-vless</b>\n\n"
+        f"📅 <code>{datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}</code>\n\n"
     )
-    lines.append(header)
+    lines = [header]
 
     for proto in order:
         urls = blocks.get(proto, [])
         if not urls:
             continue
-        lines.append(f"🔹 <b>{proto}</b> ({len(urls)})")
-        for idx, url in enumerate(urls, start=1):
-            lines.append(f"{idx}) <code>{url}</code>")
-        lines.append("")
+        lines.append(f"🔹 <b>{proto}</b> — {len(urls)} подписок")
 
     if len(lines) == 1:
         lines.append("Нет подписок.")
 
-    return "\\n".join(lines)
+    lines.append("\nНиже — все подписки кнопками 👇")
+
+    return "\n".join(lines)
 
 
 def send_message_json(bot_token, chat_id, payload):
     if DRY_RUN:
-        print(f"\\n[DRY_RUN] sendMessage -> {chat_id}")
+        print(f"\n[DRY_RUN] sendMessage -> {chat_id}")
         print(payload)
         return True
 
@@ -187,9 +178,9 @@ def main():
         print("❌ TELEGRAM_PRIVATE_CHANNEL не установлен")
         return 1
 
-    print("\\n" + "=" * 70)
+    print("\n" + "=" * 70)
     print(" " * 20 + "📤 sbornik-vless SUBSCRIPTIONS POSTER")
-    print("=" * 70 + "\\n")
+    print("=" * 70 + "\n")
 
     subs_raw = load_subscriptions_raw()
     if not subs_raw:
@@ -200,22 +191,23 @@ def main():
         blocks = parse_subscriptions_blocks(subs_raw)
         total_urls = sum(len(v) for v in blocks.values())
 
-    print(f"📦 Всего ссылок в subscriptions: {total_urls}\\n")
+    print(f"📦 Всего ссылок в subscriptions: {total_urls}\n")
+
+    # Общая клавиатура (используем и там, и там)
+    keyboard = build_keyboard(blocks, max_buttons=50)
 
     # ---------- ПУБЛИЧНЫЙ КАНАЛ ----------
     print("📢 Публичный канал:", PUBLIC_CHANNEL)
 
     public_text = (
-        "🔥 <b>Подписочные ссылки sbornik-vless</b>\\n\\n"
-        f"📅 <code>{datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}</code>\\n\\n"
-        + WARNING_TEXT.replace("\\n", "<br>")
+        "🔥 <b>Подписочные ссылки sbornik-vless</b>\n\n"
+        f"📅 <code>{datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}</code>\n\n"
+        + WARNING_TEXT.replace("\n", "<br>")
         + "<br>"
-        + CLIENTS.replace("\\n", "<br>")
+        + CLIENTS.replace("\n", "<br>")
         + "<br>"
         + TAGS
     )
-
-    keyboard = build_public_keyboard(blocks, max_buttons=10)
 
     payload_public = {
         "chat_id": PUBLIC_CHANNEL,
@@ -224,7 +216,7 @@ def main():
         "disable_web_page_preview": True,
     }
     if keyboard:
-        payload_public["reply_markup"] = {"inline_keyboard": keyboard}
+        payload_public["reply_markup"] = {"inline_keyboard": keyboard[:10]}
 
     ok_pub = send_message_json(BOT_TOKEN_PUBLIC, PUBLIC_CHANNEL, payload_public)
     if ok_pub:
@@ -233,7 +225,7 @@ def main():
         print("❌ Ошибка при отправке публичного поста")
 
     # ---------- ПРИВАТНЫЙ КАНАЛ ----------
-    print("\\n🔒 Приватный канал:", PRIVATE_CHANNEL)
+    print("\n🔒 Приватный канал:", PRIVATE_CHANNEL)
 
     private_text = build_private_text(blocks)
 
@@ -244,15 +236,18 @@ def main():
         "disable_web_page_preview": True,
     }
 
+    if keyboard:
+        payload_private["reply_markup"] = {"inline_keyboard": keyboard}
+
     ok_priv = send_message_json(BOT_TOKEN_PRIVATE, PRIVATE_CHANNEL, payload_private)
     if ok_priv:
         print("✅ Приватный пост отправлен")
     else:
         print("❌ Ошибка при отправке приватного поста")
 
-    print("\\n" + "=" * 70)
+    print("\n" + "=" * 70)
     print("✅ Скрипт завершил работу")
-    print("=" * 70 + "\\n")
+    print("=" * 70 + "\n")
     return 0
 
 
