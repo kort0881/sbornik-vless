@@ -18,11 +18,23 @@ jobs:
       - name: Install deps
         run: pip install requests
 
+      # опционально: Mirror с DRY_RUN, если нужно
+      # - name: Run Mirror.py (dry)
+      #   env:
+      #     MIRROR_DRY_RUN: "1"
+      #   run: python Mirror.py
+
       - name: Run sbornik main.py
         run: python main.py
 
-      - name: Post to Telegram
+      # здесь твой скрипт, который собирает subscriptions
+      # - name: Build subscriptions file
+      #   run: python build_subscriptions.py
+
+      - name: Post subscriptions to Telegram
         env:
+          TELEGRAM_BOT_TOKEN_PUBLIC: ${{ secrets.TELEGRAM_BOT_TOKEN_PUBLIC }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_PRIVATE_CHANNEL: ${{ secrets.TELEGRAM_PRIVATE_CHANNEL }}
-        run: python telegram_post.py
+          TELEGRAM_DRY_RUN: "0"   # поставь "1", если хочешь погонять без отправки
+        run: python subscriptions_poster.py
