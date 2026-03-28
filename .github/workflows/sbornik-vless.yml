@@ -38,7 +38,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add subscriptions vless_*.txt vmess_*.txt trojan_*.txt ss_*.txt hysteria2_*.txt hy2_*.txt tuic_*.txt || true
+          git add subscriptions subs/*.txt || true
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
