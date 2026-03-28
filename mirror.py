@@ -1,12 +1,17 @@
 #!/usr/bin/env python3
-# Mirror.py — NO GEO FILTERS
+# Mirror.py — Оптимизированная версия
 
 import os
 import shutil
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 import urllib.parse
 import base64
 import json
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from typing import Set, List, Tuple, Dict
+import time
 
 BASE_PATH = os.path.dirname(os.path.abspath(__file__))
 BASE_DIR = os.path.join(BASE_PATH, "githubmirror")
@@ -15,11 +20,13 @@ CLEAN_DIR = os.path.join(BASE_DIR, "clean")
 NEW_BY_PROTO_DIR = os.path.join(NEW_DIR, "by_protocol")
 
 PROTOCOLS = ["vless", "vmess", "trojan", "ss", "hysteria", "hysteria2", "hy2", "tuic"]
-
-# DRY-RUN режим: MIRROR_DRY_RUN=1 — только собираем и печатаем статистику, файлы не пишем
 DRY_RUN = os.environ.get("MIRROR_DRY_RUN", "0") == "1"
 
-# ✅ НОВЫЙ СПИСОК ИСТОЧНИКОВ (объединённый, уникальный, только raw‑ссылки)
+# Настройки производительности
+MAX_WORKERS = 20  # Количество параллельных потоков
+TIMEOUT = 10  # Сокращён таймаут
+CHUNK_SIZE = 500
+
 URLS_BASE = [
     "https://raw.githubusercontent.com/Airuop/archive/6aefdedc2cde21ff91bd14105393cda477c6ae21/donated/2309/230916_0501M.txt",
     "https://raw.githubusercontent.com/Airuop/archive/6aefdedc2cde21ff91bd14105393cda477c6ae21/donated/2309/230923_2310M.txt",
@@ -183,26 +190,40 @@ URLS_BASE = [
 ]
 
 CONFIG_SOURCES_FILE = os.path.join(BASE_PATH, "config_sources.json")
-CHUNK_SIZE = 500
 
 
-def load_all_urls():
+def create_session() -> requests.Session:
+    """Создаёт сессию с повторными попытками и connection pooling"""
+    session = requests.Session()
+    retry = Retry(
+        total=2,
+        backoff_factor=0.3,
+        status_forcelist=[500, 502, 503, 504],
+        allowed_methods=["GET"]
+    )
+    adapter = HTTPAdapter(max_retries=retry, pool_connections=100, pool_maxsize=100)
+    session.mount('http://', adapter)
+    session.mount('https://', adapter)
+    return session
+
+
+def load_all_urls() -> List[str]:
+    """Загружает все URL из базового списка и config_sources.json"""
     urls = set(URLS_BASE)
     if os.path.exists(CONFIG_SOURCES_FILE):
         try:
             with open(CONFIG_SOURCES_FILE, "r", encoding="utf-8") as f:
                 data = json.load(f)
-                for u in data:
-                    if isinstance(u, str) and u.strip():
-                        urls.add(u.strip())
+                urls.update(u.strip() for u in data if isinstance(u, str) and u.strip())
         except Exception as e:
-            print(f"⚠️ Не удалось прочитать config_sources.json: {e}")
+            print(f"⚠️ Ошибка чтения config_sources.json: {e}")
     return sorted(urls)
 
 
 def clean_start():
+    """Очищает и создаёт директории"""
     if DRY_RUN:
-        print("⚙️ MIRROR_DRY_RUN=1 — файловую систему не трогаем")
+        print("⚙️ MIRROR_DRY_RUN=1 — файловая система не изменяется")
         return
     if os.path.exists(BASE_DIR):
         shutil.rmtree(BASE_DIR)
@@ -211,14 +232,16 @@ def clean_start():
     os.makedirs(NEW_BY_PROTO_DIR, exist_ok=True)
 
 
-def protocol_of(line: str):
+def protocol_of(line: str) -> str:
+    """Определяет протокол из строки"""
     for p in PROTOCOLS:
         if line.startswith(p + "://"):
             return p
     return None
 
 
-def extract_host_port_scheme(line: str):
+def extract_host_port_scheme(line: str) -> Tuple[str, int, str]:
+    """Извлекает хост, порт и схему из URL"""
     try:
         u = urllib.parse.urlparse(line)
         return u.hostname, u.port or 443, u.scheme
@@ -226,11 +249,51 @@ def extract_host_port_scheme(line: str):
         return None, None, None
 
 
-def write_chunks_by_protocol(base_dir: str, protocol: str, items: list, chunk_size: int = 500):
+def decode_content(content: str) -> str:
+    """Пытается декодировать base64 если это необходимо"""
+    if "://" not in content:
+        try:
+            return base64.b64decode(content + "==").decode("utf-8", errors="ignore")
+        except Exception:
+            pass
+    return content
+
+
+def fetch_url(session: requests.Session, url: str, index: int, total: int) -> Tuple[int, Set[str]]:
+    """Загружает один URL и возвращает найденные конфиги"""
+    keys = set()
+    try:
+        r = session.get(url, timeout=TIMEOUT)
+        if r.status_code != 200:
+            print(f"{index}/{total} ❌ HTTP {r.status_code}: {url[:80]}")
+            return 0, keys
+
+        content = decode_content(r.text.strip())
+        
+        for line in content.splitlines():
+            line = line.strip()
+            if protocol_of(line):
+                keys.add(line)
+
+        print(f"{index}/{total} ✅ {len(keys)} конфигов")
+        return len(keys), keys
+
+    except requests.Timeout:
+        print(f"{index}/{total} ⏱️ Timeout: {url[:80]}")
+    except Exception as e:
+        print(f"{index}/{total} ⚠️ {type(e).__name__}: {url[:80]}")
+    
+    return 0, keys
+
+
+def write_chunks_by_protocol(base_dir: str, protocol: str, items: List[str], chunk_size: int = 500):
+    """Записывает конфиги по чанкам"""
     if DRY_RUN:
         return
+    
     proto_dir = os.path.join(base_dir, protocol)
     os.makedirs(proto_dir, exist_ok=True)
+    
     for start in range(0, len(items), chunk_size):
         part = items[start:start + chunk_size]
         part_num = start // chunk_size + 1
@@ -239,65 +302,52 @@ def write_chunks_by_protocol(base_dir: str, protocol: str, items: list, chunk_si
 
 
 def main():
+    start_time = time.time()
     clean_start()
-    all_keys = set()
-
+    
     urls = load_all_urls()
-    print(f"🚀 Старт: всего источников (старые + новые): {len(urls)}")
-
-    for i, url in enumerate(urls, 1):
-        try:
-            r = requests.get(url, timeout=15)
-            if r.status_code != 200:
-                print(f"{i}/{len(urls)} ❌ HTTP {r.status_code}")
-                continue
-
-            content = r.text.strip()
-
-            if "://" not in content:
-                try:
-                    content = base64.b64decode(content + "==").decode("utf-8", errors="ignore")
-                except Exception:
-                    pass
-
-            lines = content.splitlines()
-            added_local = 0
-
-            for line in lines:
-                line = line.strip()
-                if not protocol_of(line):
-                    continue
-
-                if line not in all_keys:
-                    all_keys.add(line)
-                    added_local += 1
-
-            print(f"{i}/{len(urls)}: ✅ {added_local} добавлено")
-
-        except Exception as e:
-            print(f"{i}/{len(urls)} ⚠️ Ошибка: {e}")
-
+    print(f"🚀 Начало сбора из {len(urls)} источников")
+    print(f"⚙️ Параллельных потоков: {MAX_WORKERS}, таймаут: {TIMEOUT}с\n")
+    
+    all_keys = set()
+    session = create_session()
+    
+    # Параллельная загрузка
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = {
+            executor.submit(fetch_url, session, url, i, len(urls)): url 
+            for i, url in enumerate(urls, 1)
+        }
+        
+        for future in as_completed(futures):
+            try:
+                count, keys = future.result()
+                all_keys.update(keys)
+            except Exception as e:
+                print(f"⚠️ Ошибка в потоке: {e}")
+    
     all_keys_list = sorted(all_keys)
-
+    
+    # Запись всех конфигов
     if not DRY_RUN:
         with open(os.path.join(NEW_DIR, "all_new.txt"), "w", encoding="utf-8") as f:
             f.write("\n".join(all_keys_list))
-
-    # Группировка по протоколам (сырые, без geo-фильтров)
+    
+    # Группировка по протоколам (без geo-фильтров)
     raw_buckets = {p: [] for p in PROTOCOLS}
     for line in all_keys_list:
         p = protocol_of(line)
         if p:
             raw_buckets[p].append(line)
-
+    
     for p, items in raw_buckets.items():
         if items:
             write_chunks_by_protocol(NEW_BY_PROTO_DIR, p, items, CHUNK_SIZE)
-
+    
     # Дедупликация по IP:PORT:SCHEME
     seen_ip = set()
     clean_keys = []
-
+    
     for line in all_keys_list:
         host, port, scheme = extract_host_port_scheme(line)
         if not host:
@@ -306,29 +356,31 @@ def main():
         if key not in seen_ip:
             seen_ip.add(key)
             clean_keys.append(line)
-
-    # Запись чистых файлов по протоколам
+    
+    # Запись чистых файлов
     if not DRY_RUN:
         for p in PROTOCOLS:
             items = [k for k in clean_keys if protocol_of(k) == p]
             if items:
                 with open(os.path.join(CLEAN_DIR, f"{p}.txt"), "w", encoding="utf-8") as f:
                     f.write("\n".join(items))
-
-    print("\n✅ ГОТОВО!")
-    print(f"   📥 Всего ключей: {len(all_keys_list)}")
+    
+    elapsed = time.time() - start_time
+    
+    print(f"\n✅ ГОТОВО за {elapsed:.1f}с!")
+    print(f"   📥 Всего конфигов: {len(all_keys_list)}")
     print(f"   🔗 Уникальных IP:PORT:SCHEME: {len(clean_keys)}")
-
-    print("\n📊 По протоколам:")
+    print(f"   ⚡ Скорость: {len(urls)/elapsed:.1f} источников/сек\n")
+    
+    print("📊 Статистика по протоколам:")
     for p in PROTOCOLS:
         count = len([k for k in clean_keys if protocol_of(k) == p])
         if count > 0:
-            print(f"   {p}: {count}")
+            print(f"   {p:12s}: {count:6d}")
 
 
 if __name__ == "__main__":
     main()
-
 
 
 
