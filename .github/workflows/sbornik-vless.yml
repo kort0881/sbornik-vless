@@ -30,7 +30,7 @@ jobs:
           TELEGRAM_BOT_TOKEN_PUBLIC: ${{ secrets.TELEGRAM_BOT_TOKEN_PUBLIC }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_PRIVATE_CHANNEL: ${{ secrets.TELEGRAM_PRIVATE_CHANNEL }}
-          TELEGRAM_DRY_RUN: "1"
+          # TELEGRAM_DRY_RUN не ставим, по умолчанию "0" -> реальные отправки
         run: python subscriptions_poster.py
 
       - name: Commit subscriptions and chunks
@@ -41,7 +41,7 @@ jobs:
           git add subscriptions subs/*.txt || true
           if git diff --cached --quiet; then
             echo "No changes to commit"
-          else
+          else:
             git commit -m "Update subscriptions and chunks"
             git push
           fi
