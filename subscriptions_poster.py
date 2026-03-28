@@ -86,7 +86,8 @@ def build_keyboard(blocks, max_buttons=50):
 
     for proto, idx, url in flat[:max_buttons]:
         text = f"📥 {proto} {idx:03d}"
-        buttons.append({"text": text, "url": url})
+        # копирующие кнопки
+        buttons.append({"text": text, "copy_text": {"text": url}})
 
     keyboard = []
     row = []
@@ -191,7 +192,7 @@ def main():
         "disable_web_page_preview": True,
     }
     if keyboard:
-        # в паблик только первые 10 кнопок
+        # в паблик только первые 10 кнопок (тоже с copy_text)
         payload_public["reply_markup"] = {
             "inline_keyboard": build_keyboard(blocks, max_buttons=10)
         }
