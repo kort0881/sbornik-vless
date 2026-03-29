@@ -2,7 +2,7 @@ name: sbornik-vless
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */10 * * *"
   workflow_dispatch:
 
 jobs:
@@ -41,6 +41,7 @@ jobs:
           git add subscriptions subs/*.txt || true
           if git diff --cached --quiet; then
             echo "No changes to commit"
-          else:
+          else
             git commit -m "Update subscriptions and chunks"
             git push
+          fi
