@@ -1,3 +1,2 @@
 hysteria2://56e1f11c-1217-46ab-b127-6afbc23bafba@208.87.243.155:443/?insecure=0&sni=20-24-33-134.nhost.00cdn.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B603-hy2
-hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-hysteria2://cc601892-caf7-4068-bbcf-60191e1d12f2@gby5e0a.accccggggdns.top:41234?insecure=1&sni=bing.com#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2012
+hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
