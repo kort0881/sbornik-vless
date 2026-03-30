@@ -2,7 +2,7 @@ name: sbornik-vless
 
 on:
   schedule:
-    - cron: "0 */10 * * *"
+    - cron: "0 */8 * * *"
   workflow_dispatch:
 
 jobs:
