@@ -1,2 +1,2 @@
 hysteria2://56e1f11c-1217-46ab-b127-6afbc23bafba@208.87.243.155:443/?insecure=0&sni=20-24-33-134.nhost.00cdn.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B603-hy2
-hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
