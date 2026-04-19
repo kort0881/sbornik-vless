@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Mirror.py — Оптимизированная версия
+# Mirror.py — Оптимизированная версия с устойчивыми сетевыми запросами
 
 import os
 import shutil
@@ -23,8 +23,8 @@ PROTOCOLS = ["vless", "vmess", "trojan", "ss", "hysteria", "hysteria2", "hy2", "
 DRY_RUN = os.environ.get("MIRROR_DRY_RUN", "0") == "1"
 
 # Настройки производительности
-MAX_WORKERS = 20  # Количество параллельных потоков
-TIMEOUT = 10  # Сокращён таймаут
+MAX_WORKERS = int(os.environ.get("MIRROR_MAX_WORKERS", "20"))
+TIMEOUT = int(os.environ.get("MIRROR_TIMEOUT", "10"))
 CHUNK_SIZE = 500
 
 URLS_BASE = [
@@ -133,7 +133,7 @@ URLS_BASE = [
     "https://raw.githubusercontent.com/sajad-sajadi/V2ray-Collector/raw/main/output/protocols/vmess.txt",
     "https://raw.githubusercontent.com/Sajad-meow/free-vmess/0a2bf5319c9bec099ebbaa5e0d9bbc8414116880/vp.txt",
     "https://raw.githubusercontent.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt",
-    "https://raw.githubusercontent.com/sami-soft/v2rayN_proxy/447a8383ec54f243cbeee05196a9093cf60a2ebf/new2.txt",
+    "https://raw.githubusercontent.com/sami-soft/v2rayN_proxy/447a8383ec54f243cbeee05196a9093cf60a2eb/new2.txt",
     "https://raw.githubusercontent.com/satrom/V2SSR/master/SSR/Sub.txt",
     "https://raw.githubusercontent.com/satrom/V2SSR/master/V2RAY/Sub.txt",
     "https://raw.githubusercontent.com/Saviorhoss/V2ray2/dbb72f8ab0c06fd5bf98d639789b07c818770ee3/hysteria.txt",
@@ -193,22 +193,27 @@ CONFIG_SOURCES_FILE = os.path.join(BASE_PATH, "config_sources.json")
 
 
 def create_session() -> requests.Session:
-    """Создаёт сессию с повторными попытками и connection pooling"""
+    """Создаёт сессию с повторными попытками и connection pooling (устойчиво к временным DNS/сетевым сбоям)."""
     session = requests.Session()
     retry = Retry(
-        total=2,
-        backoff_factor=0.3,
+        total=5,                # больше попыток
+        connect=5,
+        read=5,
+        backoff_factor=0.8,     # экспоненциальный backoff: 0.8, 1.6, 3.2, ...
         status_forcelist=[500, 502, 503, 504],
-        allowed_methods=["GET"]
+        allowed_methods=["GET"],
+        raise_on_status=False
     )
     adapter = HTTPAdapter(max_retries=retry, pool_connections=100, pool_maxsize=100)
-    session.mount('http://', adapter)
-    session.mount('https://', adapter)
+    session.mount("http://", adapter)
+    session.mount("https://", adapter)
+    # Явный заголовок user-agent — иногда помогает при редких блокировках
+    session.headers.update({"User-Agent": "githubmirror/1.0 (+https://github.com/igareck)"})
     return session
 
 
 def load_all_urls() -> List[str]:
-    """Загружает все URL из базового списка и config_sources.json"""
+    """Загружает все URL из базового списка и config_sources.json."""
     urls = set(URLS_BASE)
     if os.path.exists(CONFIG_SOURCES_FILE):
         try:
@@ -221,7 +226,7 @@ def load_all_urls() -> List[str]:
 
 
 def clean_start():
-    """Очищает и создаёт директории"""
+    """Очищает и создаёт директории."""
     if DRY_RUN:
         print("⚙️ MIRROR_DRY_RUN=1 — файловая система не изменяется")
         return
@@ -233,7 +238,7 @@ def clean_start():
 
 
 def protocol_of(line: str) -> str:
-    """Определяет протокол из строки"""
+    """Определяет протокол из строки."""
     for p in PROTOCOLS:
         if line.startswith(p + "://"):
             return p
@@ -241,7 +246,7 @@ def protocol_of(line: str) -> str:
 
 
 def extract_host_port_scheme(line: str) -> Tuple[str, int, str]:
-    """Извлекает хост, порт и схему из URL"""
+    """Извлекает хост, порт и схему из URL."""
     try:
         u = urllib.parse.urlparse(line)
         return u.hostname, u.port or 443, u.scheme
@@ -250,7 +255,7 @@ def extract_host_port_scheme(line: str) -> Tuple[str, int, str]:
 
 
 def decode_content(content: str) -> str:
-    """Пытается декодировать base64 если это необходимо"""
+    """Пытается декодировать base64, если это необходимо."""
     if "://" not in content:
         try:
             return base64.b64decode(content + "==").decode("utf-8", errors="ignore")
@@ -260,40 +265,49 @@ def decode_content(content: str) -> str:
 
 
 def fetch_url(session: requests.Session, url: str, index: int, total: int) -> Tuple[int, Set[str]]:
-    """Загружает один URL и возвращает найденные конфиги"""
-    keys = set()
-    try:
-        r = session.get(url, timeout=TIMEOUT)
-        if r.status_code != 200:
-            print(f"{index}/{total} ❌ HTTP {r.status_code}: {url[:80]}")
-            return 0, keys
+    """Загружает один URL и возвращает найденные конфиги, с локальными retry на случай DNS/сетевых сбоев."""
+    keys: Set[str] = set()
+    max_local_retries = 3
+    for attempt in range(1, max_local_retries + 1):
+        try:
+            r = session.get(url, timeout=TIMEOUT)
+            if r.status_code != 200:
+                print(f"{index}/{total} ❌ HTTP {r.status_code}: {url[:80]}")
+                return 0, keys
 
-        content = decode_content(r.text.strip())
-        
-        for line in content.splitlines():
-            line = line.strip()
-            if protocol_of(line):
-                keys.add(line)
+            content = decode_content(r.text.strip())
+            for line in content.splitlines():
+                line = line.strip()
+                if protocol_of(line):
+                    keys.add(line)
 
-        print(f"{index}/{total} ✅ {len(keys)} конфигов")
-        return len(keys), keys
+            print(f"{index}/{total} ✅ {len(keys)} конфигов")
+            return len(keys), keys
 
-    except requests.Timeout:
-        print(f"{index}/{total} ⏱️ Timeout: {url[:80]}")
-    except Exception as e:
-        print(f"{index}/{total} ⚠️ {type(e).__name__}: {url[:80]}")
-    
+        except requests.Timeout:
+            print(f"{index}/{total} ⏱️ Timeout (попытка {attempt}/{max_local_retries}): {url[:80]}")
+        except requests.ConnectionError as e:
+            # В т.ч. socket.gaierror [Errno -3] Temporary failure in name resolution
+            print(f"{index}/{total} 🌐 ConnectionError (попытка {attempt}/{max_local_retries}): {url[:80]} — {e}")
+        except Exception as e:
+            print(f"{index}/{total} ⚠️ {type(e).__name__} (попытка {attempt}/{max_local_retries}): {url[:80]} — {e}")
+            break
+
+        if attempt < max_local_retries:
+            sleep_sec = 1.5 * attempt
+            time.sleep(sleep_sec)
+
     return 0, keys
 
 
 def write_chunks_by_protocol(base_dir: str, protocol: str, items: List[str], chunk_size: int = 500):
-    """Записывает конфиги по чанкам"""
+    """Записывает конфиги по чанкам."""
     if DRY_RUN:
         return
-    
+
     proto_dir = os.path.join(base_dir, protocol)
     os.makedirs(proto_dir, exist_ok=True)
-    
+
     for start in range(0, len(items), chunk_size):
         part = items[start:start + chunk_size]
         part_num = start // chunk_size + 1
@@ -304,50 +318,50 @@ def write_chunks_by_protocol(base_dir: str, protocol: str, items: List[str], chu
 def main():
     start_time = time.time()
     clean_start()
-    
+
     urls = load_all_urls()
     print(f"🚀 Начало сбора из {len(urls)} источников")
     print(f"⚙️ Параллельных потоков: {MAX_WORKERS}, таймаут: {TIMEOUT}с\n")
-    
-    all_keys = set()
+
+    all_keys: Set[str] = set()
     session = create_session()
-    
+
     # Параллельная загрузка
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         futures = {
-            executor.submit(fetch_url, session, url, i, len(urls)): url 
+            executor.submit(fetch_url, session, url, i, len(urls)): url
             for i, url in enumerate(urls, 1)
         }
-        
+
         for future in as_completed(futures):
             try:
                 count, keys = future.result()
                 all_keys.update(keys)
             except Exception as e:
                 print(f"⚠️ Ошибка в потоке: {e}")
-    
+
     all_keys_list = sorted(all_keys)
-    
+
     # Запись всех конфигов
     if not DRY_RUN:
         with open(os.path.join(NEW_DIR, "all_new.txt"), "w", encoding="utf-8") as f:
             f.write("\n".join(all_keys_list))
-    
+
     # Группировка по протоколам (без geo-фильтров)
-    raw_buckets = {p: [] for p in PROTOCOLS}
+    raw_buckets: Dict[str, List[str]] = {p: [] for p in PROTOCOLS}
     for line in all_keys_list:
         p = protocol_of(line)
         if p:
             raw_buckets[p].append(line)
-    
+
     for p, items in raw_buckets.items():
         if items:
             write_chunks_by_protocol(NEW_BY_PROTO_DIR, p, items, CHUNK_SIZE)
-    
+
     # Дедупликация по IP:PORT:SCHEME
     seen_ip = set()
-    clean_keys = []
-    
+    clean_keys: List[str] = []
+
     for line in all_keys_list:
         host, port, scheme = extract_host_port_scheme(line)
         if not host:
@@ -356,7 +370,7 @@ def main():
         if key not in seen_ip:
             seen_ip.add(key)
             clean_keys.append(line)
-    
+
     # Запись чистых файлов
     if not DRY_RUN:
         for p in PROTOCOLS:
@@ -364,14 +378,15 @@ def main():
             if items:
                 with open(os.path.join(CLEAN_DIR, f"{p}.txt"), "w", encoding="utf-8") as f:
                     f.write("\n".join(items))
-    
+
     elapsed = time.time() - start_time
-    
+
     print(f"\n✅ ГОТОВО за {elapsed:.1f}с!")
     print(f"   📥 Всего конфигов: {len(all_keys_list)}")
     print(f"   🔗 Уникальных IP:PORT:SCHEME: {len(clean_keys)}")
-    print(f"   ⚡ Скорость: {len(urls)/elapsed:.1f} источников/сек\n")
-    
+    if elapsed > 0:
+        print(f"   ⚡ Скорость: {len(urls)/elapsed:.1f} источников/сек\n")
+
     print("📊 Статистика по протоколам:")
     for p in PROTOCOLS:
         count = len([k for k in clean_keys if protocol_of(k) == p])
