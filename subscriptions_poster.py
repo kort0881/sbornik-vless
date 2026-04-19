@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import os
 import sys
+import time
 import requests
 from datetime import datetime
 
@@ -125,24 +126,49 @@ def build_private_text(blocks):
     return "\n".join(lines)
 
 
-def send_message_json(bot_token, chat_id, payload):
+def send_message_json(bot_token, chat_id, payload, max_retries: int = 3) -> bool:
+    """Отправка сообщения в Telegram с ретраями и экспоненциальным backoff."""
     if DRY_RUN:
         print(f"\n[DRY_RUN] sendMessage -> {chat_id}")
         print(payload)
         return True
 
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
-    resp = requests.post(url, json=payload, timeout=30)
-    try:
-        j = resp.json()
-    except Exception:
-        print(f"❌ Telegram response decode error: {resp.text[:300]}")
-        return False
 
-    if not j.get("ok"):
-        print(f"❌ Telegram error: {j.get('description')}")
-        return False
-    return True
+    for attempt in range(1, max_retries + 1):
+        try:
+            resp = requests.post(url, json=payload, timeout=30)
+            try:
+                j = resp.json()
+            except Exception:
+                print(f"❌ Telegram response decode error (попытка {attempt}/{max_retries}): {resp.text[:300]}")
+                j = None
+
+            if resp.status_code != 200 or not j or not j.get("ok"):
+                desc = j.get("description") if isinstance(j, dict) else resp.text[:200]
+                print(
+                    f"❌ Telegram error (попытка {attempt}/{max_retries}): "
+                    f"HTTP {resp.status_code}, {desc}"
+                )
+            else:
+                return True
+
+        except (requests.ConnectionError, requests.Timeout) as e:
+            # сюда попадает и socket.gaierror -> NameResolutionError внутри requests
+            print(
+                f"🌐 Ошибка сети/таймаута при отправке в Telegram "
+                f"(попытка {attempt}/{max_retries}): {type(e).__name__}: {e}"
+            )
+        except Exception as e:
+            print(f"⚠️ Неожиданная ошибка при отправке в Telegram (попытка {attempt}/{max_retries}): {e}")
+            break
+
+        if attempt < max_retries:
+            delay = 2 * attempt
+            print(f"⏳ Повторная попытка через {delay}с...")
+            time.sleep(delay)
+
+    return False
 
 
 def main():
@@ -201,7 +227,7 @@ def main():
     if ok_pub:
         print("✅ Публичный пост отправлен")
     else:
-        print("❌ Ошибка при отправке публичного поста")
+        print("❌ Ошибка при отправке публичного поста (публичный канал)")
 
     # ---------- ПРИВАТНЫЙ КАНАЛ ----------
     print("\n🔒 Приватный канал:", PRIVATE_CHANNEL)
@@ -222,7 +248,7 @@ def main():
     if ok_priv:
         print("✅ Приватный пост отправлен")
     else:
-        print("❌ Ошибка при отправке приватного поста")
+        print("❌ Ошибка при отправке приватного поста (приватный канал)")
 
     print("\n" + "=" * 70)
     print("✅ Скрипт завершил работу")
