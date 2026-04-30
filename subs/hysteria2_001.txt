@@ -1,9 +1,8 @@
 hysteria2://56e1f11c-1217-46ab-b127-6afbc23bafba@208.87.243.155:443/?insecure=0&sni=20-24-33-134.nhost.00cdn.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B603-hy2
-hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2001
-hysteria2://hysteria_master_password@72.56.122.195:443/?insecure=1&sni=google.com#%3E%3E%40oneclickvpnkeys%3A%3AXX
 hysteria2://f8af73ed-363a-4dfb-b99f-65bd8ad1a329@jpaws.ccwink.photos:52348?insecure=1&amp;sni=sgdigital.ccwink.cc#🇸🇬SG_1|1.5MB/s
 hysteria2://f8af73ed-363a-4dfb-b99f-65bd8ad1a329@jpaws.ccwink.photos:6533?insecure=1&amp;sni=jpdigital.ccwink.cc#🇯🇵JP_2|3.0MB/s
-hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?sni=hy2-jp.onetaplink.app&obfs=salamander&obfs-password=CF7WJGiw6r1c8imX#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2006%20TG%3A%20%40nodpai
+hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?sni=hy2-jp.onetaplink.app&obfs=salamander&obfs-password=CF7WJGiw6r1c8imX#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2004%20TG%3A%20%40nodpai
+hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2001
+hysteria2://hysteria_master_password@72.56.122.195:443/?insecure=1&sni=google.com#%3E%3E%40oneclickvpnkeys%3A%3AXX
 hysteria2://de8e0342-ea12-4f9d-bc2a-e62409e1913f@zz.66jc.xyz:20003?insecure=1&obfs=salamander&obfs-password=YmGRdMZ74sEC91FN&sni=hkzz.66jc.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2008
 hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🚀91@proxy_kafee
-hysteria2://f8af73ed-363a-4dfb-b99f-65bd8ad1a329@hkaws.ccwink.photos:52348?insecure=1&sni=sgdigital.ccwink.cc#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.2MB/s
