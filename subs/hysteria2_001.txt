@@ -1,4 +1,5 @@
 hysteria2://56e1f11c-1217-46ab-b127-6afbc23bafba@208.87.243.155:443/?insecure=0&sni=20-24-33-134.nhost.00cdn.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B603-hy2
-hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&fp=&sni=www.microsoft.com&obfs=&obfs-password=#🌐سرور
-hysteria2://f8af73ed-363a-4dfb-b99f-65bd8ad1a329@jpaws.ccwink.photos:52348?insecure=1&amp;sni=sgdigital.ccwink.cc#🇸🇬SG_1|1.5MB/s
+hysteria2://ef92641c-c4d9-4b79-94ac-121dd7989d47@207.174.28.26:51372?insecure=1&sni=apple.com&obfs=salamander&obfs-password=nDneuR2isso8k79O#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2002%20TG%3A%20%40nodpai
+hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2002
 hysteria2://f8af73ed-363a-4dfb-b99f-65bd8ad1a329@jpaws.ccwink.photos:6533?insecure=1&amp;sni=jpdigital.ccwink.cc#🇯🇵JP_2|3.0MB/s
+hysteria2://f8af73ed-363a-4dfb-b99f-65bd8ad1a329@jpaws.ccwink.photos:52348?insecure=1&amp;sni=sgdigital.ccwink.cc#🇸🇬SG_1|1.5MB/s
