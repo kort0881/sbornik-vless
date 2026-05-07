@@ -1,5 +1,5 @@
 hysteria2://9e0f72bb-7ad6-4383-994a-497569a94d74@hkaws.ccwink.photos:6533?insecure=1&sni=jpdigital.ccwink.cc#🌐سرور
 hysteria2://9e0f72bb-7ad6-4383-994a-497569a94d74@jpaws.ccwink.photos:6533?insecure=1&sni=jpdigital.ccwink.cc#🌐سرور
 hysteria2://9e0f72bb-7ad6-4383-994a-497569a94d74@hkaws.ccwink.photos:58?insecure=1&sni=moak.ccwink.cc#🌐سرور
-hysteria2://9e0f72bb-7ad6-4383-994a-497569a94d74@hkaws.ccwink.photos:88?insecure=1&sni=hkak.ccwink.cc#🌐سرور
 hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🚀91@proxy_kafee
+hysteria2://9e0f72bb-7ad6-4383-994a-497569a94d74@hkaws.ccwink.photos:88?insecure=1&sni=hkak.ccwink.cc#🌐سرور
