@@ -1,0 +1,9 @@
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://8r%3C%5B9%27l6hAO%238ZQi@23.175.201.2:8443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AD%F0%9F%87%B0HK-23.175.201.2-1700
+trojan://8r%3C%5B9%27l6hAO%238ZQi@154.26.128.147:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#C%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2025%20TG%3A%20%40nodpai
+trojan://67f4b8ff-15cf-3ec9-b09d-c31a4728c652@strawberry.joe.dj:10777?sni=windows11.dpdns.org#4Nika-3855
+trojan://8r%3C%5B9%27l6hAO%238ZQi@83.229.121.78:8443?security=tls&sni=🔒#%F0%9F%87%AD%F0%9F%87%B0HK-83.229.121.78-1696
+trojan://02f0b784-1577-3d22-998a-23f372330b75@apple.1337.cx:13777?sni=windows11.dpdns.org#4Nika-3338
+trojan://JaFKnqNcvnBT63t3rquidGsln@91.210.108.201:443?security=tls&sni=HL-FREEDOM-1.UNDEF.NETWORK#%F0%9F%87%BA%F0%9F%87%A6UA-91.210.108.201-0777
+trojan://$Iu_sL4k*u,9@185.143.235.201:2096/?type=tcp&security=tls&sni=anten.ir#%F0%9F%87%AE%F0%9F%87%B7IR%28AzadNet.t.me%29
+trojan://8r%3C%5B9%27l6hAO%238ZQi@61.72.208.162:32768?allowInsecure=1&sni=Koma-YT.PAGeS.Dev#4Nika-4427
