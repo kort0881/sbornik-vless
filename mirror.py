@@ -186,7 +186,8 @@ URLS_BASE = [
     "https://raw.githubusercontent.com/abbasdvd3/abbasdvd10/73ec60de7a6c6aa6df4c14b511c1da60686891ca/ppo.txt",
     "https://raw.githubusercontent.com/acymz/AutoVPN/refs/heads/main/data/V2.txt",
     "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/EternityBase",
-    "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/EternityAir.txt"
+    "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/EternityAir.txt",
+    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/26.txt"   # <-- новая ссылка
 ]
 
 CONFIG_SOURCES_FILE = os.path.join(BASE_PATH, "config_sources.json")
