@@ -1,2 +1,3 @@
-hysteria2://dongtaiwang.com@157.254.223.43:27921?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2004
+hysteria2://dongtaiwang.com@157.254.223.43:27921?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2008
 hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🚀91@proxy_kafee
+hysteria2://74lcLz9V0V@167.71.235.75:443?security=tls&amp;fp=chrome&amp;alpn=h3&amp;sni=167.71.235.75#DO印度|联通移动可用
