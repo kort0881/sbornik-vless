@@ -1,3 +1,3 @@
-name = "vlesstrojan"  # имя вашего воркера (можно оставить как есть)
-main = "worker.js"     # имя файла с вашим основным кодом
+name = "vlesstrojan"
+main = "worker.js"
 compatibility_date = "2025-05-11"
