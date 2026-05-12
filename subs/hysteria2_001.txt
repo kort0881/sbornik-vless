@@ -1,2 +1,1 @@
 hysteria2://dongtaiwang.com@157.254.223.43:27921?insecure=1&sni=www.bing.com#🌐سرور
-hysteria2://74lcLz9V0V@167.71.235.75:443?security=tls&amp;fp=chrome&amp;alpn=h3&amp;sni=167.71.235.75#DO印度|联通移动可用
