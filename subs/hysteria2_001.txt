@@ -1,1 +1,2 @@
-hysteria2://dongtaiwang.com@157.254.223.43:27921?insecure=1&sni=www.bing.com#🌐سرور
+hysteria2://4ea3d542-c5a9-4f8e-9bce-d6f0e75e0fda@107.172.224.252:31663?insecure=1&fp=&sni=&obfs=&obfs-password=#%F0%9F%87%BA%F0%9F%87%B8US_2%7C1.3MB/s
+hysteria2://hy2_nrsipx3s%3AzpQI3Vu7o9NdC6rS3L8JYXC7Q58HYUjv@lv2.cleanersaz.help:443?sni=washing.help&insecure=1&allowInsecure=1#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D
