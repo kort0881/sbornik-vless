@@ -2,7 +2,7 @@ name: sbornik-vless
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # каждые 12 часов
+    - cron: "0 3 * * *"   # каждый день в 6:00 по Москве
   workflow_dispatch:
 
 jobs:
