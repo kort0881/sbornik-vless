@@ -1,3 +1,4 @@
 hysteria2://cca70979-4f99-449b-9a01-a3ad8d3d4481@142.171.241.143:41555?insecure=1#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2003%20TG%3A%20%40nodpai
-hysteria2://4ea3d542-c5a9-4f8e-9bce-d6f0e75e0fda@107.172.224.252:31663?insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_5%7C1.0MB/s
-hysteria2://hy2_nrsipx3s%3AzpQI3Vu7o9NdC6rS3L8JYXC7Q58HYUjv@lv2.cleanersaz.help:443?headerType=none&encryption=none&sni=washing.help&insecure=1#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D
+hysteria2://4ea3d542-c5a9-4f8e-9bce-d6f0e75e0fda@107.172.224.252:31663?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2003
+hysteria2://hy2_nrsipx3s%3AzpQI3Vu7o9NdC6rS3L8JYXC7Q58HYUjv@lv2.cleanersaz.help:443?sni=washing.help&insecure=1&allowInsecure=1#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?insecure=0&alpn=h3&fp=&sni=s516.okgfw.top&obfs=&obfs-password=#%F0%9F%87%B7%F0%9F%87%BARU_2%7C3.3MB/s
