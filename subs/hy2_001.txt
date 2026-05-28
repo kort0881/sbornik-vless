@@ -1,6 +1,2 @@
-hy2://ef92641c-c4d9-4b79-94ac-121dd7989d47@207.174.28.26:51372?sni=apple.com&obfs=salamander&obfs-password=nDneuR2isso8k79O#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2002%20TG%3A%20%40nodpai
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@116.206.92.109:443?sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapa...
-hy2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.201.25.156:443?sni=hls-svod.itunes.apple.com#%F0%9F%A7%B891%40oneclickvpnkeys
-hy2://0f771058-7892-4d46-b77e-a69e811b9cbc@89.124.73.31:443?sni=hls-svod.itunes.apple.com#%F0%9F%A7%B898%40oneclickvpnkeys
-hy2://de8e0342-ea12-4f9d-bc2a-e62409e1913f@66yun-link1.66jc.xyz:20001?sni=hkzz.66jc.xyz&obfs=salamander&obfs-password=sbE3r6694Lbhi2Jt#t.me%2FConfigFori%20%20-%20%20Config%20306...
-hy2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?sni=s516.okgfw.top#%F0%9F%87%B7%F0%9F%87%BARU_2%7C3.3MB%2Fs
+hy2://a1102edc-f382-4720-99f5-ecc0a74507af@207.174.28.26:51372?sni=apple.com&obfs=salamander&obfs-password=nDneuR2isso8k79O#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2002%20TG%3A%20%40nodpai
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-001.fastervpn.world:443?sni=vpn-jp-001.fastervpn.world#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2009%20TG%3A%20%40nodpai
