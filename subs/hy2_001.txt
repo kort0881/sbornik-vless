@@ -1,2 +1,3 @@
-hy2://a1102edc-f382-4720-99f5-ecc0a74507af@207.174.28.26:51372?sni=apple.com&obfs=salamander&obfs-password=nDneuR2isso8k79O#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2002%20TG%3A%20%40nodpai
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-001.fastervpn.world:443?sni=vpn-jp-001.fastervpn.world#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2009%20TG%3A%20%40nodpai
+hy2://9e0f72bb-7ad6-4383-994a-497569a94d74@jpaws.ccwink.photos:88?sni=hkak.ccwink.cc#B%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2015%20TG%3A%20%40nodpai
+hy2://c5ff9631-1d11-4298-8c79-27bc53e41a04@v4.yuetoto.net:443?sni=api-d0tv.yuetong.online#%E2%9D%93Other_2%7C4.4MB%2Fs
+hy2://0431fb27-cb95-4bc1-9638-33ef0c02dc3f@51.79.176.33:8262?sni=www.bing.com#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2024%20TG%3A%20%40nodpai
