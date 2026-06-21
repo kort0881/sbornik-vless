@@ -1,1 +1,5 @@
-hy2://rstnnl2705@reddeadfan.rd-team.ru:443?sni=reddeadfan.rd-team.ru&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2#4%F0%9F%94%8A%40oneclickvpnkeys
+hy2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-us4.mfa.cat:443?sni=www.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8US-%F0%9F%9A%80%40VPNine1%20%233
+hy2://升级订阅解锁全部节点@starlink-ca.mfa.cat:20000?sni=www.cloudflare.com#%F0%9F%87%A8%F0%9F%87%A6CA-%F0%9F%9A%80%40VPNine1
+hy2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-jp6.mfa.cat:20443?sni=www.cloudflare.com#%F0%9F%87%AF%F0%9F%87%B5JP-%F0%9F%9A%80%40VPNine1%20%235
+hy2://masir_sefid@18.194.63.255:443?sni=content.masir-sefid.shop&obfs=salamander&obfs-password=masir_sefid#%40NoxTunnel%20hmrah
+hy2://7ce9a8d0-2cb2-4b8d-8de9-262c1d6597ac@fd.gotogle.com:443?sni=fd.gotogle.com#%F0%9F%87%A9%F0%9F%87%AADE_2%7C1.3MB%2Fs
