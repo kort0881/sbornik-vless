@@ -154,7 +154,6 @@ def send_message_json(bot_token, chat_id, payload, max_retries: int = 3) -> bool
                 return True
 
         except (requests.ConnectionError, requests.Timeout) as e:
-            # сюда попадает и socket.gaierror -> NameResolutionError внутри requests
             print(
                 f"🌐 Ошибка сети/таймаута при отправке в Telegram "
                 f"(попытка {attempt}/{max_retries}): {type(e).__name__}: {e}"
@@ -206,6 +205,8 @@ def main():
     public_text = (
         "🔥 <b>Подписочные ссылки sbornik-vless</b>\n\n"
         f"📅 <code>{datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}</code>\n\n"
+        "ДРУЗЬЯ, ЭТИ СПИСКИ СОБРАНЫНЫ БЕЗ ПРОХОЖДЕНИЯ СТРОГИХ ФИЛЬТРОВ, "
+        "ТАК КАК НЕКОТОРЫЕ ТОЖЕ ПОДХОДЯТ ЛЮДЯМ, НО ОНИ ЧАСТО ОТБРАКОВЫВАЮТСЯ.\n\n"
         + WARNING_TEXT
         + CLIENTS
         + TAGS
@@ -218,9 +219,9 @@ def main():
         "disable_web_page_preview": True,
     }
     if keyboard:
-        # в паблик только первые 10 кнопок (тоже с copy_text)
+        # в паблик теперь 20 кнопок (вместо 10)
         payload_public["reply_markup"] = {
-            "inline_keyboard": build_keyboard(blocks, max_buttons=10)
+            "inline_keyboard": build_keyboard(blocks, max_buttons=20)
         }
 
     ok_pub = send_message_json(BOT_TOKEN_PUBLIC, PUBLIC_CHANNEL, payload_public)
