@@ -27,7 +27,11 @@ MAX_WORKERS = int(os.environ.get("MIRROR_MAX_WORKERS", "20"))
 TIMEOUT = int(os.environ.get("MIRROR_TIMEOUT", "10"))
 CHUNK_SIZE = 500
 
+# ------------------------------------------------------------
+# ПОЛНЫЙ СПИСОК ИСТОЧНИКОВ (все уникальные, включая добавленные)
+# ------------------------------------------------------------
 URLS_BASE = [
+    # ---- старые источники (были ранее) ----
     "http://104.168.244.47:12580/clash/proxies",
     "http://150.230.195.209:12580/clash/proxies",
     "http://155.248.172.106:12580/clash/proxies",
@@ -751,7 +755,69 @@ URLS_BASE = [
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/shadowsocks.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/mtproto.txt",
 
-    ]
+    # ================================================================
+    # НОВЫЕ ИСТОЧНИКИ (добавлены в июне 2026)
+    # ================================================================
+    "https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt",
+    "https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_lite.txt",
+    "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-SNI-RU-all.txt",
+    "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt",
+    "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt",
+    "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt",
+    "https://key.zarazaex.xyz/sub",
+    "https://rostunnel.vercel.app/mega.txt",
+    "https://subrostunnel.vercel.app/wl.txt",
+    "https://subrostunnel.vercel.app/gen.txt",
+    "https://etoneya.su/whitelist",
+    "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/refs/heads/main/WHITE-CIDR-RU-all.txt",
+    "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/refs/heads/main/WHITE-CIDR-RU-checked.txt",
+    "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt",
+    "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/refs/heads/main/WHITE-SNI-RU-all.txt",
+    "https://gist.githubusercontent.com/DestroyST6767/50af50221ca1858ba2084efc0f524fbc/raw/1dc2f8edf8b2d7ab2a85ffd970208aa6fbb65a8e/Destroy_ST%2520%25D0%2591%25D0%25A1",
+    "https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/selected.txt",
+    "https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/wl.txt",
+    "https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/merged.txt",
+    "https://raw.githubusercontent.com/Alex999ooo/VPN-for-Russia-/refs/heads/main/VPN%20by%20Alex999ooo%20%F0%9F%8F%B3%EF%B8%8F",
+    "https://raw.githubusercontent.com/prominbro/sub/refs/heads/main/212.txt",
+    "https://raw.githubusercontent.com/dmitriistekolnikov/Free_vpns_for_Russ/refs/heads/main/Vrema.txt",
+    "https://raw.githubusercontent.com/dmitriistekolnikov/Free_vpns_for_Russ/refs/heads/main/Vip.txt",
+    "https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/whitelist_full",
+    "https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/whitelist",
+    "https://raw.githubusercontent.com/ksenkovsolo/HardVPN-bypass-WhiteLists-/refs/heads/main/vpn-lte/WHITELIST-ALL.txt",
+    "https://raw.githubusercontent.com/ksenkovsolo/HardVPN-bypass-WhiteLists-/refs/heads/main/vpn-lte/subscriptions/1sub.txt",
+    "https://raw.githubusercontent.com/ksenkovsolo/HardVPN-bypass-WhiteLists-/refs/heads/main/vpn-lte/subscriptions/2sub.txt",
+    "https://raw.githubusercontent.com/ksenkovsolo/HardVPN-bypass-WhiteLists-/refs/heads/main/vpn-lte/subscriptions/3sub.txt",
+    "https://raw.githubusercontent.com/ksenkovsolo/HardVPN-bypass-WhiteLists-/refs/heads/main/vpn-lte/subscriptions/4sub.txt",
+    "https://raw.githubusercontent.com/ksenkovsolo/HardVPN-bypass-WhiteLists-/refs/heads/main/vpn-lte/subscriptions/5sub.txt",
+    "https://raw.githubusercontent.com/ksenkovsolo/HardVPN-bypass-WhiteLists-/refs/heads/main/vpn-lte/best_keys.txt",
+    "https://raw.githubusercontent.com/ksenkovsolo/HardVPN-bypass-WhiteLists-/refs/heads/main/vpn-lte/good_keys.txt",
+    "https://raw.githubusercontent.com/AirLinkVPN1/AirLinkVPN/refs/heads/main/rkn_white_list",
+    "https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyakbeta7.txt",
+    "https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyakbeta6.txt",
+    "https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyaktestru.txt",
+    "https://obwl.vercel.app/configs/configs.txt",
+    "https://obwl.vercel.app/configs/selected.txt",
+    "https://tinyurl.com/AeryxVPNyandexua",
+    "https://raw.githubusercontent.com/VOID-Anonymity/V.O.I.D-VPN_Bypass/refs/heads/main/url_work.txt",
+    "https://raw.githubusercontent.com/dequar/deqwl/refs/heads/main/deray.txt",
+    "https://tinyurl.com/scalavpnbot",
+    "https://raw.githubusercontent.com/kama55726/KomaryServers/refs/heads/main/KomaryServ",
+    "https://raw.githubusercontent.com/LimeHi/Old-Context-Menu/refs/heads/main/afg.txt",
+    "https://raw.githubusercontent.com/nzea243/ikoV31tud_vpn/refs/heads/main/tri_228.txt",
+    "https://raw.githubusercontent.com/mbelspb-gif/gdffgd/refs/heads/main/Swordware.net",
+    "https://gist.githubusercontent.com/flaafix/c79a81037d15163360571c7a7331b153/raw/AetrisVPN.txt",
+    "https://raw.githubusercontent.com/HalyavusVPNUS/halyava-vpn-lte/refs/heads/main/lte.txt",
+    "https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/refs/heads/main/Configs/Black_list.txt",
+    "https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/refs/heads/main/Configs/White_list.txt",
+    "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/configs.txt",
+    "https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/main/data/mermeroo_sources.txt",
+    "https://raw.githubusercontent.com/ZYFXS/ZYFXS001/refs/heads/main/19c-youtube%40ZYFXS",
+    "https://raw.githubusercontent.com/ZYFXS/ZYFXS001/refs/heads/main/19v-youtube%40ZYFXS",
+    "https://raw.githubusercontent.com/ZYFXS/ZYFXS001/refs/heads/main/youtube%40ZYFXS---18c",
+    "https://raw.githubusercontent.com/ZYFXS/ZYFXS001/refs/heads/main/youtube%40ZYFXS---18v",
+    "https://raw.githubusercontent.com/ZYFXS/ZYFXS001/refs/heads/main/youtube%40ZYFXS-19c",
+    "https://raw.githubusercontent.com/ZYFXS/ZYFXS001/refs/heads/main/youtube%40ZYFXS-19v",
+]
 
 CONFIG_SOURCES_FILE = os.path.join(BASE_PATH, "config_sources.json")
 
