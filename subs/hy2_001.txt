@@ -1,1 +1,1 @@
-hy2://elknam6l7izf3z71@assets.gateway-stream.com:52013?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=cukfjxud1ebjuuzs#%F0%9F%A7%B8%40v2ray_configs_pools
+hy2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?sni=se.esimpson.org&obfs=salamander&obfs-password=EsimObfs_9mK2x7#%E2%9C%85%20%20%40vistav2ray%20%20%F0%9F%91%88%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%E2%9C%85
