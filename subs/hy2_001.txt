@@ -1,4 +1,1 @@
-hy2://https://xship.2fa.cat@starlink-ft.251313.xyz:443/?insecure=1&sni=www.cloudflare.com#4Nika-a8a3aad317
-hy2://gf1:gfhysteria2024@5.129.235.85:443/?insecure=1&sni=www.linux.com#4Mohsen-b079b11123
-hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga4.api3-max.ru:443/?sni=taga4.api3-max.ru#4Nika-936edaed68
-hy2://c2948c84-748f-47f6-bc7a-b949ef279f85@78.159.240.215:443/?insecure=1&sni=quic.tyr-agentstvo.tech#1568.%20CONFIG%20%7C%20CIDR%3A%20%3F%20%7C%20TG%3A%20%40wlrustg
+hy2://hy2_czaawdhc@2.26.92.136:443?sni=nl2.cleanersaz.help&obfs=salamander&obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF#%40Napsternetvirani%20%231
