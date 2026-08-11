@@ -1,11 +1,3 @@
-hy2://hy2_czaawdhc:VwWo0eBZC9jU3xCE0FuTmbX6xmnj33Iq@2.26.92.136:443?sni=nl2.cleanersaz.help&obfs=salamander&obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF#%F0%9F%87%BA%F0%9F%87%B8US_4%7C2.4MB%2Fs
-hy2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ang.leontunel.ru:443/?sni=ang.leontunel.ru#3194.%20CONFIG%20%7C%20SNI%3A%20ang.leontunel.ru%20%7C%20TG%3A%20%40wlrustg
-hy2://71cada65-d23e-418c-88e4-a06188d14689@it-one.quiet-rogue.site:443/?sni=it-one.quiet-rogue.site#3198.%20CONFIG%20%7C%20SNI%3A%20it-one.quiet-rogue.site%20%7C%20TG%3A%20%40wlrustg
-hy2://elknam6l7izf3z71@assets.gateway-stream.com:52067?obfs=salamander&obfs-password=txwr28j1lntoy0sj#%40GozargahAzad%7C%F0%9F%87%AB%F0%9F%87%AE
-hy2://elknam6l7izf3z71@assets.gateway-stream.com:52079?obfs=salamander&obfs-password=gazf7r9a0d4hc5nz#%F0%9F%87%BA%F0%9F%87%B8US_4%7C2.1MB%2Fs
-hy2://71cada65-d23e-418c-88e4-a06188d14689@de-two.quiet-rogue.site:443/?sni=de-two.quiet-rogue.site#3197.%20CONFIG%20%7C%20SNI%3A%20de-two.quiet-rogue.site%20%7C%20TG%3A%20%40wlrustg
-hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga10.api3-max.ru:443/#3193.%20CONFIG%20%7C%20SNI%3A%20taga10.api3-max.ru%20%7C%20TG%3A%20%40wlrustg
-hy2://71cada65-d23e-418c-88e4-a06188d14689@144.31.166.91:443/?sni=de-two.quiet-rogue.site#3196.%20CONFIG%20%7C%20TG%3A%20%40wlrustg
-hy2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=fd3olglr2bmimgje#%40Daily_Configs
-hy2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443/?sni=nl1.noesissite.ru#3181.%20CONFIG%20%7C%20SNI%3A%20nl1.noesissite.ru%20%7C%20TG%3A%20%40wlrustg
-hy2://16ab4d4a-fd81-4535-9b7b-346677226ce8@pol.cryptoofarm.com:443/?sni=pol.cryptoofarm.com#3184.%20CONFIG%20%7C%20SNI%3A%20pol.cryptoofarm.com%20%7C%20TG%3A%20%40wlrustg
+hy2://DX1K7Xzundefined6V@86.105.252.115:80?sni=ftp.debian.org&obfs=salamander&obfs-password=%3Asmn%3EG%7E49-7%5B%3D%24%7D4n%3DA%24a94#%F0%9F%87%B3%F0%9F%87%B143685%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSO...
+hy2://4z2oldt85p494bgb@assets.gateway-stream.com:52059?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=vic6damutmthllnd#%F0%9F%87%AB%F0%9F%87%AEFI-%F0%9F%9A%80%40VPNine1%20%2322
+hy2://837e9ea2-cf0b-46a1-93a8-7e25c3a4066c@31.77.144.133:443?sni=argg9.auragg.org#%F0%9F%87%B8%F0%9F%87%AASE-%F0%9F%9A%80%40VPNine1
