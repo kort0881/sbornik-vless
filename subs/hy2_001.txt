@@ -1,4 +1,3 @@
-hy2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443?sni=usa1.spectrumproxy.shop#%F0%9F%9B%B0%EF%B8%8F57%40SHAHSERVER1
-hy2://Masir_Sefid@37.156.46.29:443?sni=api.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026
-hy2://71cada65-d23e-418c-88e4-a06188d14689@144.31.166.91:443/?sni=de-two.quiet-rogue.site#4944.%20CONFIG%20%7C%20TG%3A%20%40wlrustg
-hy2://FPSfGfmZs5rjz5dlqreuDK7B@37.120.189.107:62202?sni=de1.143259.xyz#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C1.2MB%2Fs
+hy2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ger.leontunel.ru:443?sni=ger.leontunel.ru#%F0%9F%87%A9%F0%9F%87%AADE_1%7C1.8MB%2Fs
+hy2://1g4quompn4f49wn9@104.253.25.160:8443?sni=104.253.25.160&obfs=salamander&obfs-password=hnig8m946a2rl0ll#%F0%9F%87%BA%F0%9F%87%B857237%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSO...
+hy2://elknam6l7izf3z71@assets.gateway-stream.com:52018?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=53cgqwhojoxri5lr#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C2.7MB%2Fs
