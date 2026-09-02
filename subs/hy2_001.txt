@@ -1,10 +1,1 @@
-hy2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?sni=www.microsoft.com#%F0%9F%87%B3%F0%9F%87%B1NL_2%7C2.7MB%2Fs
-hy2://cd74c0a406664a5bc0bac098220a2468@nl1.sferavpn.pro:443/?insecure=1&sni=nl1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#4738.%20CONFIG%20%7C%20SNI%3A%20nl1.sferavpn.pro%20%7C%20TG%3A%20%40wlrustg
-hy2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs=@fin14qr.wwwinternetvideo.click:443/?insecure=1&sni=fin14qr.wwwinternetvideo.click#4723.%20CONFIG%20%7C%20SNI%3A%20fin14qr.wwwinternetvideo.click%20%7C%20TG%3A%20%40wlrustg
-hy2://7c5566a7-4b55-4659-975f-06507d32fd3f@ltu-01.node.lumixnet.com:443/?insecure=1&sni=ltu-01.node.lumixnet.com#4717.%20CONFIG%20%7C%20SNI%3A%20ltu-01.node.lumixnet.com%20%7C%20TG%3A%20%40wlrustg
-hy2://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443?sni=swe-one.quiet-rogue.site#%F0%9F%87%B8%F0%9F%87%AASE_3%7C2.9MB%2Fs
-hy2://d86efa900c2f4bb6bde662f1ef6413b8@assets.gateway-stream.com:52029?obfs=salamander&obfs-password=v8h63irhnay97090#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%AE%C2%AE%EF%B8%8FFinl...
-hy2://t8t2qojzsykqazfu@assets.gateway-stream.com:52008?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=93lc6r07zfx4crct#%F0%9F%87%AB%F0%9F%87%AEFI-%F0%9F%9A%80%40VPNine1
-hy2://1ba59989-225e-4f1c-ab62-9bd7366009cb@194.135.34.130:443/?insecure=1&sni=194.135.34.130#4708.%20CONFIG%20%7C%20TG%3A%20%40wlrustg
-hy2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-tw5.mfa.cat:12405?sni=www.cloudflare.com#%F0%9F%87%B9%F0%9F%87%BCTW-%F0%9F%9A%80%40VPNine1%20%231
-hy2://f4927789e58bcd24b6f6@h.zz2233.cyou:10444/?sni=h.zz2233.cyou#4740.%20%F0%9F%87%AD%F0%9F%87%B0%20CONFIG%20%7C%20SNI%3A%20h.zz2233.cyou%20%7C%20TG%3A%20%40wlrustg
+hy2://DX1K7Xzundefined6V@86.105.252.115:80?sni=ftp.debian.org&obfs=salamander&obfs-password=%3Asmn%3EG%7E49-7%5B%3D%24%7D4n%3DA%24a94#%F0%9F%87%B3%F0%9F%87%B143685%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSO...
