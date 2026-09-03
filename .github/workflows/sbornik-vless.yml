@@ -26,6 +26,7 @@ jobs:
         run: python build_subscriptions.py
 
       - name: Post subscriptions to Telegram
+        if: vars.ENABLE_TELEGRAM_POSTS == 'true'   # <-- управление через переменную
         env:
           TELEGRAM_BOT_TOKEN_PUBLIC: ${{ secrets.TELEGRAM_BOT_TOKEN_PUBLIC }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
