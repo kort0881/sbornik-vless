@@ -1,2 +1,1 @@
-hy2://m3bqxk03mg221yi2@assets.gateway-stream.com:52067?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=txwr28j1lntoy0sj#%F0%9F%87%AB%F0%9F%87%AEFI-%F0%9F%9A%80%40VPNine1%20%232
-hy2://hysteria2_fastlane_f6dt3q19m@87.239.111.109:443?sni=ru2.h.smartaisupport.ru#%F0%9F%87%B7%F0%9F%87%BA156888%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FS...
+hy2://ef18d810-719c-4bf1-83c6-615d01f217eb@jp.cryptoofarm.com:443/?insecure=1&sni=jp.cryptoofarm.com#日本
