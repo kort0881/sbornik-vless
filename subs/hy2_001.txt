@@ -1,11 +1,4 @@
-hy2://f4281a5fdfb44e0744d6f683@devoracle.clarkpf.top:443?sni=devoracle.clarkpf.top#%F0%9F%87%BA%F0%9F%87%B8US_7%7C1.0MB%2Fs
-hy2://gf1@66.94.121.46:443?sni=www.broadcom.com#%F0%9F%93%8089%40oneclickvpnkeys
-hy2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs=@fin14qr.wwwinternetvideo.click:443/?insecure=1&sni=fin14qr.wwwinternetvideo.click#1892.%20CONFIG%20%7C%20SNI%3A%20fin14qr.wwwinternetvideo.click%20%7C%20TG%3A%20%40wlrustg
-hy2://t8t2qojzsykqazfu@assets.gateway-stream.com:52005?obfs=salamander&obfs-password=xurzv3qedv07k4f0#%F0%9F%91%89%F0%9F%86%94%40freenettir%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%AE%C2%AE%EF%B8%8FFinland%C2%A9%EF%B8%8FHel...%20%231
-hy2://7c5566a7-4b55-4659-975f-06507d32fd3f@ltu-01.node.lumixnet.com:443/?insecure=1&sni=ltu-01.node.lumixnet.com#1889.%20CONFIG%20%7C%20SNI%3A%20ltu-01.node.lumixnet.com%20%7C%20TG%3A%20%40wlrustg
-hy2://t8t2qojzsykqazfu@assets.gateway-stream.com:52018?obfs=salamander&obfs-password=53cgqwhojoxri5lr#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%AE%C2%AE%EF%B8%8FFinl...%20%231
-hy2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52000?obfs=salamander&obfs-password=gu74jg3ym0e21zco#%F0%9F%87%AB%F0%9F%87%AEFI-%F0%9F%9A%80%40VPNine1
-hy2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52087?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=bwgy7ppdoiz448uw#%F0%9F%87%AB%F0%9F%87%AEFI-%F0%9F%9A%80%40VPNine1%20%232
-hy2://gf1@185.156.44.99:443?sni=whatsapp.com#%F0%9F%87%B7%F0%9F%87%B4139093%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FS...
-hy2://elknam6l7izf3z71@assets.gateway-stream.com:52021?obfs=salamander&obfs-password=mtg2vchyir6la3et#%40GozargahAzad%7C%F0%9F%87%AB%F0%9F%87%AE
-hy2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@gta.internet-card.sbs:443/?insecure=1&sni=gta.internet-card.sbs#1912.%20CONFIG%20%7C%20SNI%3A%20gta.internet-card.sbs%20%7C%20TG%3A%20%40wlrustg
+hy2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@soskeynets.spectrumproxy.shop:443?sni=usa1.spectrumproxy.shop#%F0%9F%87%BA%F0%9F%87%B8125595%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FS...
+hy2://elknam6l7izf3z71@assets.gateway-stream.com:52013?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=cukfjxud1ebjuuzs#%F0%9F%A7%B8%40v2ray_configs_pools
+hy2://elknam6l7izf3z71@assets.gateway-stream.com:52002?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=ielzukpwth087afx#%40Napsternetvirani%F0%9F%91%BE
+hy2://4z2oldt85p494bgb@assets.gateway-stream.com:52021?obfs=salamander&obfs-password=mtg2vchyir6la3et#%40GozargahAzad%7C%F0%9F%87%AB%F0%9F%87%AE
