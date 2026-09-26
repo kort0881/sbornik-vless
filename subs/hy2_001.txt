@@ -1,12 +1,2 @@
-hy2://f4281a5fdfb44e0744d6f683@devoracle.clarkpf.top:443?sni=devoracle.clarkpf.top#%F0%9F%87%BA%F0%9F%87%B8US_7%7C1.0MB%2Fs
-hy2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?sni=www.microsoft.com#%F0%9F%87%B3%F0%9F%87%B1NL_2%7C2.5MB%2Fs
-hy2://98dab41c-f18a-406b-8de2-3cc8bb797d5d@144.31.224.188:443?sni=argglive.auragg.org#%F0%9F%87%B3%F0%9F%87%B1NL_2%7C1.6MB%2Fs
-hy2://c175d956-d1f4-4c53-b2b1-8493bf8529c6@87.120.84.189:443?sni=de1.apexvpn.space#%E5%BE%B7%E5%9B%BD
-hy2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@31.76.28.28:443?sni=argg5.auragg.org#%F0%9F%90%9928%40oneclickvpnkeys
-hy2://22j0d00lev7mq0yv@social.klipp.su:443?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#%F0%9F%9B%9752%40oneclickvpnkeys
-hy2://T$me$V2RayyNGvpn@70.34.206.217:443?sni=www.wordreference.com&obfs=salamander&obfs-password=T%24me%24V2RayyNGVpn%40V2RayyNGvpn#%F0%9F%87%B8%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%B8%F0%9F%87%AA
-hy2://t8t2qojzsykqazfu@assets.gateway-stream.com:52045?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=jg5vvom5svs9rmnx#%F0%9F%87%AB%F0%9F%87%AEFI-%F0%9F%9A%80%40VPNine1%20%235
-hy2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=fd3olglr2bmimgje#%40Alpha_v2rayIP
-hy2://elknam6l7izf3z71@assets.gateway-stream.com:52002?obfs=salamander&obfs-password=ielzukpwth087afx#%40GozargahAzad%7C%F0%9F%87%AB%F0%9F%87%AE%20%231
-hy2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-tw5.mfa.cat:12405?sni=www.cloudflare.com#%F0%9F%87%B9%F0%9F%87%BCTW-%F0%9F%9A%80%40VPNine1%20%231
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.233.127.26:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇮🇳IN_@WangCai_8
+hy2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?sni=5.255.102.165#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C2.0MB%2Fs
+hy2://T$me$V2RayyNGvpn@70.34.206.217:443?sni=www.wordreference.com&obfs=salamander&obfs-password=T%24me%24V2RayyNGVpn%40V2RayyNGvpn#%F0%9F%87%B8%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%B8%F0%9F%87%AA%20%231
