@@ -1,50 +1,44 @@
-trojan://fri4wn77p7urww5on3bt@185.212.171.204:58670?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#%F0%9F%87%AB%F0%9F%87%AE%20%5B%D0%91%D0%A1-TR%5D%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%239303%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-trojan://IQ68037294@proud-honeybee.rooster465.autos:443?sni=proud-honeybee.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | CC43F3
-trojan://8r%253C%255B9%2527l6hAO%25238ZQi@154.26.128.147:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha 💻
-trojan://fsoOufuTGmSKzRDaAwAbww@178.63.244.9:443?security=none&type=tcp#DE 🇩🇪 | @Raydikalx | BD46B5
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@64.120.94.225:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd#SG 🇸🇬 | @Raydikalx | BF3391
-trojan://fac593ac-d6aa-4523-bea9-b3eb2a2b3da3@f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com:13209?allowInsecure=0&sni=#%E4%BC%8A%E6%9C%97_1002004
-trojan://CF68213490@alert-redfish.rooster465.autos:443?allowInsecure=0&sni=#%E6%96%B0%E5%8A%A0%E5%9D%A1_1002027
-trojan://27390_t853d9c0b@tky8.ttddd.xyz:443/?type=tcp&security=tls&sni=tky8.cnedu2.com#2033.%20TROJAN%20%7C%20SNI%3A%20tky8.cnedu2.com%20%7C%20TG%3A%20%40wlrustg
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443/?type=tcp&security=tls# By EbraSha 🧠
-trojan://CF68213490@adapting-giraffe.rooster465.autos:443/?type=tcp&security=tls&sni=adapting-giraffe.rooster465.autos&fp=chrome#JP 🇯🇵 | @Raydikalx | 429612
-trojan://36d9d131-6319-4758-b4ce-3011f0afc72a@jp.iamnotagoodman.com:443
-trojan://AE62539071@glorious-lark.rooster465.autos:443?security=tls&path=/#KR 🇰🇷 | @Raydikalx | 5E59E6
-trojan://CF68213490@adapting-basilisk.rooster465.autos:443?allowInsecure=0&sni=#%E7%88%B1%E5%B0%94%E5%85%B0_1002002
-trojan://AE62539071@game-firefly.rooster465.autos:443?allowInsecure=0&sni=#%E5%8D%A2%E6%A3%AE%E5%A0%A1_1002003
-trojan://AE62539071@funny-hen.rooster465.autos:443?security=tls# By EbraSha 📛
-trojan://WaGG8TGpKhcMU-F-e9vrjB7MnUHGPhtt@188.225.37.70:11443?type=tcp&security=tls&fp=firefox&sni=msk1.cenza.cloud&alpn=http/1.1#RU 🇷🇺 | @Raydikalx | 1D35CD
-trojan://AE62539071@glowing-iguana.rooster465.autos:443?sni=glowing-iguana.rooster465.autos&allowInsecure=1&type=tcp#JP 🇯🇵 | @Raydikalx | D87E98
-trojan://9c2cd61e-fa64-3e6f-a817-132e17e11949@cranberry.timing.singer.aliyunglsb.com:443?sni=steampipe.akamaized.net&type=tcp#HK 🇭🇰 | @Raydikalx | 78A26F
-trojan://AE62539071@fun-poodle.rooster465.autos:443?sni=fun-poodle.rooster465.autos&allowInsecure=1&type=tcp#SG 🇸🇬 | @Raydikalx | D11FFF
-trojan://AE62539071@game-thrush.rooster465.autos:443?security=tls&path=/#JP 🇯🇵 | @Raydikalx | 98EE10
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443/?type=tcp&security=tls# By EbraSha 🚬
-trojan://WaGG8TGpKhcMU-F-e9vrjB7MnUHGPhtt@217.16.17.127:25565?type=grpc&security=tls&fp=firefox&sni=vkc2.safesurf.cloud&alpn=h2,http/1.1#RU 🇷🇺 | @Raydikalx | BE7D31
-trojan://WaGG8TGpKhcMU-F-e9vrjB7MnUHGPhtt@185.241.195.185:2224?type=tcp&security=tls&sni=vkc9.secured-by-tenzo.sbs&fp=firefox&alpn=http/1.1#RU 🇷🇺 | @Raydikalx | 478FC9
-trojan://AE62539071@firm-krill.rooster465.autos:443?allowInsecure=0&sni=#%E6%97%A5%E6%9C%AC_1002008
-trojan://AE62539071@exciting-grizzly.rooster465.autos:443?security=tls&sni=exciting-grizzly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.182.132-0180
-trojan://AE62539071@frank-frog.rooster465.autos:443?fp=chrome&security=tls&sni=frank-frog.rooster465.autos&type=tcp#KR 🇰🇷 | @Raydikalx | A55122
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@221.158.4.230:18853/?type=tcp&security=tls&sni=vpn1.rnmcnm.com&allowInsecure=1# By EbraSha 💣
-trojan://AE62539071@full-mayfly.rooster465.autos:443?sni=full-mayfly.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7KR_143%7C215KB%2Fs%7CC002-260622%2001
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a02.taipeicitygovernment.chernovtsy.ua:3462?sni=45.32.28.232&type=tcp#TW 🇹🇼 | @Raydikalx | 2282BC
-trojan://AE62539071@excited-sole.rooster465.autos:443#EPODONIOS
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053/?type=tcp&security=tls# By EbraSha 🐺
-trojan://AE62539071@engaged-skink.rooster465.autos:443?sni=engaged-skink.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7KR_152%7C142KB%2Fs%7CA004-260618%2001
-trojan://AE62539071@evolving-kangaroo.rooster465.autos:443?sni=evolving-kangaroo.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5JP_210%7C137KB%2Fs%7CA004-260618%2001
-trojan://AE62539071@gorgeous-hookworm.rooster465.autos:443?sni=gorgeous-hookworm.rooster465.autos&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | EB8B0B
-trojan://9efd3f19-c7cb-4fa9-8d66-0598043597dc@t2w2t2w2.bpca2026.top:443?allowInsecure=1&sni=t2w2t2w2.bpca2026.top#%F0%9F%87%B9%F0%9F%87%BC%20%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%20%7C%20TWN%20%231
-trojan://5505f6ba-cd37-30ce-8f92-be4120c83d7f@official.taipeicitygovernment.kiev.ua:8443?allowInsecure=1&sni=66.42.40.132
-trojan://EQ30679154@stable-racer.rooster465.autos:443?mux=1#IE 🇮🇪 | @Raydikalx | B3EA8E
-trojan://9efd3f19-c7cb-4fa9-8d66-0598043597dc@ttww11.bpca2026.top:443?allowInsecure=1&sni=ttww11.bpca2026.top#%F0%9F%87%B9%F0%9F%87%BC%20%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%20%7C%20TWN%20%231
-trojan://FH72359861@3.39.132.127:443?sni=star-bluejay.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7KR_307%7C110KB%2Fs%7CA004-260618%2001
-trojan://FH72359861@3.64.117.92:443?sni=epic-iguana.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AADE_147%7C520KB%2Fs%7CM003-260806%2001
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a10.taipeicitygovernment.kyiv.ua:3462/?type=tcp&security=tls&sni=45.32.28.232# By EbraSha 📀
-trojan://Z5poNZQCPP-eAkPP-dEHipok9pwv7tWu@ir.grilledeleaves.ir:2087?security=tls&type=ws&headerType=none&path=/AX-Core&host=ir.grilledeleaves.ir&sni=ir.grilledeleaves.ir# By EbraSha 🔮
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.105.39:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha 🐉
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a01.taipeicitygovernment.biz.ua:3462?sni=45.32.28.232&type=tcp#TW 🇹🇼 | @Raydikalx | 5C9DAF
-trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15005?allowInsecure=1&sni=data.steamdownload.top# By EbraSha 🌌
-trojan://HutaoCloud@185.220.238.77:11543?fp=chrome&path=%2Fapi&sni=185.220.238.77&type=ws#JP 🇯🇵 | @Raydikalx | 4B74E0
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?allowInsecure=1&sni=t11.qifei.app#JP 🇯🇵 | @Raydikalx | EE4F60
-trojan://PQ05174892@nice-elephant.rooster465.autos:443?sni=nice-elephant.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_82%7C127KB%2Fs%7CC002-260622%2001
-trojan://002023c45d18bca3eba2757bb683309a@42.51.25.69:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#CN 🇨🇳 | @Raydikalx | 3A2284
-trojan://0F22D008-24D4-4DFE-947B-8D2FD64CD24C@www.visa.com.sg:2053/?type=tcp&security=tls&sni=t.hongkong6.qzz.io# By EbraSha 🖥️
+trojan://AE62539071@main-impala.rooster465.autos:443?allowInsecure=1#KR 🇰🇷 | @Raydikalx | EB46FF
+trojan://AE62539071@modern-bulldog.rooster465.autos:443?sni=modern-bulldog.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5JP_222%7C191KB%2Fs%7CA004-260618%2001
+trojan://6cb6f769-b28e-4f7f-a593-8c0b0a161992@170.187.231.189:443?#SG 🇸🇬 | @Raydikalx | 05BF26
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443/?type=tcp&security=tls# By EbraSha 🃏
+trojan://3747000103274291200@185.67.125.147:443?peer=polished-collie.adder289.quest#IN 🇮🇳 | @Raydikalx | F736AA
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@221.158.4.230:18853/?type=tcp&security=tls&sni=vpn1.rnmcnm.com&allowInsecure=1# By EbraSha 📟
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a11.taipeicitygovernment.net.ua:3462?sni=45.32.28.232&type=tcp#TW 🇹🇼 | @Raydikalx | 916734
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.ddwhm.com:443?sni=sk.ylka.dpdns.org&peer=sk.ylka.dpdns.org&security=tls#SG 🇸🇬 | @Raydikalx | A104F2
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.105.39:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha ♦️
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.59.121.199:2053?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#Aetris%20%7C%20%F0%9F%87%A7%F0%9F%87%BB%20Svalbard%20and%20Jan%20Mayen
+trojan://CF68213490@active-hippo.rooster465.autos:443/?type=tcp&security=tls&sni=active-hippo.rooster465.autos#JP 🇯🇵 | @Raydikalx | ADCA32
+trojan://CF68213490@13.125.211.246:443?security=tls&sni=smooth-lark.rooster465.autos&allowInsecure=1#KR 🇰🇷 | @Raydikalx | 7254EE
+trojan://CF68213490@54.250.235.241:443?security=tls&sni=adapting-basilisk.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | B27824
+trojan://PQ05174892@glowing-filly.rooster465.autos:443?sni=glowing-filly.rooster465.autos&allowInsecure=1&type=tcp#KR 🇰🇷 | @Raydikalx | 3AC12D
+trojan://CF68213490@18.177.140.248:443?security=tls&sni=shining-piranha.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | D8A5B7
+trojan://CF68213490@43.206.224.40:443?security=tls&sni=alert-fish.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 3BE863
+trojan://CF68213490@35.72.9.75:443?security=tls&sni=caring-wallaby.rooster465.autos#JP 🇯🇵 | @Raydikalx | F710AF
+trojan://CF68213490@logical-koala.rooster465.autos:443?security=tls&sni=logical-koala.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-13.250.16.181-0179
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.80.31:8443?security=tls&sni=official.taipeicitygovernment.biz.ua&allowInsecure=1#TW 🇹🇼 | @Raydikalx | CC27DB
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@158.247.222.240:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=kr.freeguard.org#KR 🇰🇷 | @Raydikalx | 58F507
+trojan://Bw5Mz7QkVp@64.176.37.227:443?sni=z-v2-082533.kailib.com&peer=z-v2-082533.kailib.com&security=tls#JP 🇯🇵 | @Raydikalx | 56D64B
+trojan://CF68213490@43.203.172.115:443?security=tls&sni=funny-hen.rooster465.autos&allowInsecure=1#KR 🇰🇷 | @Raydikalx | BA5E63
+trojan://PQ05174892@pleased-mammal.rooster465.autos:443?sni=pleased-mammal.rooster465.autos&allowInsecure=1&type=tcp#KR 🇰🇷 | @Raydikalx | 5AC5F2
+trojan://581e14a5fcc14107b9326cc54f047891@177.3.208.169:443?security=tls&insecure=0&type=grpc&serviceName=/43588/G43plZahWW&allowInsecure=0&sni=titandarkness.mooo.com#
+trojan://ND91608427@3.34.42.123:443?sni=chief-bluegill.rooster465.autos&allowInsecure=1#KR 🇰🇷 | @Raydikalx | 20E4CF
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.209:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.net.ua&allowInsecure=1&fp=chrome# By EbraSha ♦️
+trojan://PQ05174892@lucky-albacore.rooster465.autos:443?sni=lucky-albacore.rooster465.autos&allowInsecure=1&type=tcp#SG 🇸🇬 | @Raydikalx | 182C31
+trojan://b7bc6b1c-610d-4d39-ad29-18a0d6902348@13.250.150.119:443/?type=tcp&security=tls&sni=usa.liangyuandian.top&allowInsecure=1# By EbraSha 🗿
+trojan://PQ05174892@perfect-emu.rooster465.autos:443?sni=perfect-emu.rooster465.autos&allowInsecure=1&type=tcp#SG 🇸🇬 | @Raydikalx | 21316D
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443/?type=tcp&security=tls# By EbraSha 🚀
+trojan://9879f2da-5bb6-41c3-af04-0770332f34f5@16.162.45.199:443?allowInsecure=1&sni=dl-hk5.steamdownload.top
+trojan://PQ05174892@casual-quail.rooster465.autos:443?sni=casual-quail.rooster465.autos&allowInsecure=1&type=tcp#KR 🇰🇷 | @Raydikalx | 221009
+trojan://CF68213490@alert-redfish.rooster465.autos:443?security=tls#SG 🇸🇬 | @Raydikalx | 6E4D66
+trojan://8r%3C%5B9%27l6hAO%238ZQi@188.239.9.91:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha 🪖
+trojan://PQ05174892@intense-kid.rooster465.autos:443?sni=intense-kid.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5JP_656%7C122KB%2Fs%7CC002-260622%2001
+trojan://PQ05174892@sensible-barnacle.rooster465.autos:443?sni=sensible-barnacle.rooster465.autos&allowInsecure=1&type=tcp#SG 🇸🇬 | @Raydikalx | 4705A5
+trojan://28d98f761aca9d636f44db62544628eb@184.168.127.50:443?allowInsecure=0
+trojan://PQ05174892@concise-guinea.rooster465.autos:443?sni=concise-guinea.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5JP_707%7C68KB%2Fs%7CC002-260622%2001
+trojan://CF68213490@bright-cicada.rooster465.autos:443/?type=tcp&security=tls&sni=bright-cicada.rooster465.autos&fp=chrome#KR 🇰🇷 | @Raydikalx | 371A49
+trojan://PQ05174892@game-ant.rooster465.autos:443?sni=game-ant.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7KR_380%7C153KB%2Fs%7CC002-260622%2001
+trojan://CF68213490@moral-basilisk.rooster465.autos:443?allowInsecure=0&sni=moral-basilisk.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG_27%7C3.7MB/s
+trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?mode=gun&security=tls&alpn=h2&insecure=0&fp=chrome&type=grpc&serviceName=ajv&allowInsecure=0&sni=d3-de2.cloud-cdn.xyz#[2616][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+trojan://AE62539071@central-jawfish.rooster465.autos:443?security=tls#KR 🇰🇷 | @Raydikalx | BBECE2
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443/?type=tcp&security=tls# By EbraSha 🦾
