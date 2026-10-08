@@ -1,1 +1,1 @@
-tuic://dfc04908-936e-4525-94a7-bd729d5f7d42:6ikEtHLn+sTihow2a41C@tuic8.iraniancpi.uk:443/?congestion_control=bbr&udp_relay_mode=native&sni=www.google.com&alpn=h3%2Cspdy#
+tuic://384d1b42-655f-11ed-a8bf-f23c91cfbbc9:384d1b42-655f-11ed-a8bf-f23c91cfbbc9@0e5d639f-tegxs0-tfs442-11p9g.hk2.hyhuawei.com:443?allow_insecure=0&alpn=h3&congestion_control=bbr&sni=0e5d639f-tegxs0-tfs442-11p9g.hk2.hyhuawei.com&udp_relay_mode=native#A%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2001%20TG%3A%20%40nodpai
