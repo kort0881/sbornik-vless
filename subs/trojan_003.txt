@@ -1,490 +1,385 @@
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50004?allowInsecure=1&sni=mpvideo.qpic.cn#4Jadi-9b91538555
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@152.175.38.171:2053?sni=official.tokyometropolis.odessa.ua&allowInsecure=1&type=tcp#JP 🇯🇵 | @Raydikalx | F9D77B
-trojan://TRY332RCOD4panalyy9nISleFSZDOYFwzXSSNaCCwYelEyDR230cxAZxDqFOTzA3AX68S@13.53.176.184:443?sni=otcele.golfland.club&type=tcp#SE 🇸🇪 | @Raydikalx | 0B2F84
-trojan://owreRY1bmquS1WcYN2@ty-3.tr202605.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#JP 🇯🇵 | @Raydikalx | E02E7A
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-jp2.1card.cc:10005?allowInsecure=1&sni=www.cloudflare.com#4Nika-9ec16cd92c
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@156.246.91.9:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20102
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@36d.catcat321.com:56438?allowInsecure=1&sni=d.usj3.cat.bilibili.com#4Kian-f5a715962e
-trojan://FH72359861@13.113.131.176:443?sni=wise-gibbon.rooster465.autos&allowInsecure=1&type=tcp#JP 🇯🇵 | @Raydikalx | BB4368
-trojan://af4b064a9c39472fb34ad8b113acdc6b@38.180.56.158:443?allowInsecure=1&sni=38.180.56.158#SE 🇸🇪 | @Raydikalx | B075B7
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-jp2.1card.cc:10009?allowInsecure=1&sni=www.cloudflare.com#4Mohsen-dadbb27d5b
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-jp4.1card.cc:443?allowInsecure=1&sni=www.cloudflare.com#4Sarina-fc278678ee
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-jp2.1card.cc:10004?allowInsecure=1&sni=www.cloudflare.com#4Mohsen-06868a811d
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-jp2.1card.cc:10003?allowInsecure=1&sni=www.cloudflare.com#4FreeIran-d707bde4b8
-trojan://af6a3685-c423-4579-bfea-784c453d5e23@146.59.3.14:443?security=tls&allowInsecure=1&type=tcp#PL 🇵🇱 | @Raydikalx | F55E8A
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-jp2.1card.cc:10008?allowInsecure=1&sni=www.cloudflare.com#4Sarina-d0e4a9ba7a
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-jp2.1card.cc:10002?allowInsecure=1&sni=www.cloudflare.com#4Jadi-e1430b93c1
-trojan://ND91608427@52.196.121.8:443?security=tls&sni=thankful-mustang.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#JP 🇯🇵 | @Raydikalx | 875292
-trojan://AnadoluSpeed@92.205.184.138:443?sni=telegram.org&type=tcp#DE 🇩🇪 | @Raydikalx | 82055A
-trojan://fivh9CYhgT@104.21.32.1:443/?type=httpupgrade&host=esna.twn24.ir&path=%2F16338%2Fmehdi&security=tls&sni=esna.twn24.ir#%40Hope_Net-join-us-on-Telegram
-trojan://Mj5nBFLSbUzPPJwjBa-WgS9ZnANpH01e@m2.mincreaft.com:5443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=m2.mincreaft.com#DE 🇩🇪 | @Raydikalx | 656869
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@36d.catcat321.com:11452?allowInsecure=1&sni=d.hkh2.cat.bilibili.com#4FreeIran-f660071489
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@36d.catcat321.com:58963?allowInsecure=1&sni=d.jpj1.cat.bilibili.com#4Mohsen-60df7e970e
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@07.tokyometropolis.odesa.ua:2053?sni=45.32.28.232&type=tcp#JP 🇯🇵 | @Raydikalx | 13B167
-trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@nnnmjju.131.pp.ua:443?security=tls#FI 🇫🇮 | @Raydikalx | EE1D28
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@172.237.13.221:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20160
-trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@bbbnhj.131.pp.ua:443?security=tls#FI 🇫🇮 | @Raydikalx | 66715F
-trojan://SoftNetConnect@185.204.169.164:8443/?type=tcp&sni=www.yahoo.com&allowInsecure=1&fp=chrome&security=reality&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&sid=ca14e14437#%40nekopingbot_5989
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@161.132.51.133:20040?allowInsecure=1&sni=www.cloudflare.com#4Sarina-9457e8d26a
-trojan://af4b064a9c39472fb34ad8b113acdc6b@38.54.27.117:443?allowInsecure=1&sni=38.54.27.117#BG 🇧🇬 | @Raydikalx | 2E614E
-trojan://af4b064a9c39472fb34ad8b113acdc6b@38.180.173.150:443?sni=38.180.173.150&type=tcp#PE 🇵🇪 | @Raydikalx | DB4CA5
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-jp1.1card.cc:10001?allowInsecure=1&sni=www.cloudflare.com#4Kian-7fb281e64f
-trojan://Bw5Mz7QkVp@64.176.37.227:443?sni=z-v2-082533.kailib.com&peer=z-v2-082533.kailib.com&security=tls#JP 🇯🇵 | @Raydikalx | 56D64B
-trojan://e79bb958-2a79-4eea-87a3-7e73d0059ebf@151.145.71.43:27777?security=tls&sni=ol2.ssn571.top#4Kian-c2b55314bc
-trojan://Fn9TZuYXiFYhsyp65T@45.80.191.177:443?sni=os-2.rise-fuji.com&type=tcp#JP 🇯🇵 | @Raydikalx | 65B61B
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@161.33.3.222:443?allowInsecure=0&sni=jy.hhllfly.kdns.fr#JP 🇯🇵 | @Raydikalx | 393B13
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@ddrr1.tube-cat.com:54000?allowInsecure=1&sni=r.tw4.cat.bilibili.com#4Nika-8a895e1952
-trojan://18844%40zxcvbn@49.212.203.7:443/?type=tcp&security=tls&sni=os-tr-2.cats22.net&alpn=http%2F1.1&allowInsecure=1&fp=chrome#JP 🇯🇵 | @Raydikalx | D56F9A
-trojan://%21str18844@49.212.193.129:443?type=tcp#JP 🇯🇵 | @Raydikalx | 7D91F6
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@96.126.130.217:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20196
-trojan://GUGm7DHtpSx7SuPyUD@45.139.194.80:443?alpn=h2%2Chttp%2F1.1&type=tcp#EE 🇪🇪 | @Raydikalx | F2D63C
-trojan://18844%40zxcvbn@49.212.209.180:443?allowInsecure=1&sni=os14.cats22.net
-trojan://NISHIKUITAN222@150.230.7.216:443?security=tls&type=ws&host=tz.ylks.xyz&path=%2F#%E6%97%A5%E6%9C%AC_Osaka
-trojan://18844%40zxcvbn@49.212.178.155:443?allowInsecure=1&sni=os13.cats22.net
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053/?type=tcp&security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-125.94.46.8-2740
-trojan://WaGG8TGpKhcMU-F-e9vrjB7MnUHGPhtt@188.225.37.70:11443?type=tcp&security=tls&fp=firefox&sni=msk1.cenza.cloud&alpn=http/1.1#RU 🇷🇺 | @Raydikalx | 1D35CD
-trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.skog.lalibobi.online:443?security=tls&sni=checkout.skog.lalibobi.online&fp=&type=tcp#SE 🇸🇪 | @Raydikalx | 764294
-trojan://1234567890@148.253.215.61:443?sni=kfm-bn0.pages.dev#%F0%9F%87%AC%F0%9F%87%A7GB_55
-trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@135.181.41.169:443?sni=nnnmjju.131.pp.ua&allowInsecure=1&type=tcp#FI 🇫🇮 | @Raydikalx | C1F675
-trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=kuame.missionsec.us#4Sarina-0eb8093e1a
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-jp5.1card.cc:443?allowInsecure=1&sni=www.cloudflare.com#4Jadi-472c3b03d4
-trojan://q6UYkw9nUn6MYZz8Sp@ty-2.tr202604.com:443?allowInsecure=0#JP 🇯🇵 | @Raydikalx | 409B3F
-trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@bbbnnmj.131.pp.ua:443?security=tls#FI 🇫🇮 | @Raydikalx | 46BABA
-trojan://af4b064a9c39472fb34ad8b113acdc6b@38.54.59.90:443?allowInsecure=1&sni=38.54.59.90#EG 🇪🇬 | @Raydikalx | 82EBB7
-trojan://24f9c0b4-f1c8-43a2-9c17-0a256b693db5@150.230.217.160:27777?security=tls&sni=ol1.ssn571.top#4Jadi-9e41d9a9df
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50055?allowInsecure=1&sni=mpvideo.qpic.cn#4Sarina-f15053fc00
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50052?allowInsecure=1&sni=mpvideo.qpic.cn#4Sarina-d8ff0eea1f
-trojan://5453ae26-250d-4e79-b4ec-016baf806865@d05f4aa7-92b1-a659-e3b9-695dd2870b3c.131.pp.ua:443?sni=D05F4aA7-92B1-a659-E3b9-695Dd2870B3c.131.Pp.UA&type=tcp#FI 🇫🇮 | @Raydikalx | 9EE96B
-trojan://hV66LcSGyxUdHq2aAeqxmLfpBDQmRYxo8Wte43oZr8L379SS@43.207.87.133:443/?type=ws&host=node2.bw8848.org&path=%2Fnode2-node2-gu7bfd&security=tls&sni=node2.bw8848.org#%F0%9F%87%AF%F0%9F%87%B568492
-trojan://3723507166611775488@94.177.131.199:443?security=tls&sni=smiling-marmoset.boa152.lol&type=tcp#JP 🇯🇵 | @Raydikalx | FB66F3
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@133.18.140.38:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20019
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50053?allowInsecure=1&sni=mpvideo.qpic.cn#4Jadi-2d8a6615bf
-trojan://18844%40zxcvbn@49.212.204.123:443?allowInsecure=1&sni=os-tr-5.cats22.net
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-jp2.1card.cc:10001?allowInsecure=1&sni=www.cloudflare.com#4Mohsen-4ad2189f85
-trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@144.22.250.122:443/?type=tcp&security=tls&sni=golinkwuxian.top#%F0%9F%87%A7%F0%9F%87%B7BR-144.22.250.122-1617
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-cl.251313.xyz:443?allowInsecure=1&sni=www.cloudflare.com#4Jadi-7a7a01d323
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50054?allowInsecure=1&sni=mpvideo.qpic.cn#4Jadi-bf8fc6b3bb
-trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@194.146.26.40:443?allowInsecure=1&sni=4-193-105-141.nhost.00cdn.com
-trojan://AG4yPUSazj57DBFnKG@ee-1.tr202604.com:443?security=tls&headerType=none&type=tcp#EE 🇪🇪 | @Raydikalx | 146093
-trojan://af4b064a9c39472fb34ad8b113acdc6b@185.247.224.136:443?allowInsecure=1&sni=185.247.224.136#RO 🇷🇴 | @Raydikalx | 928FAD
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1#@V2ray_Collector
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80/?type=ws&host=samane.ir&path=%2F4u7lAS4nPLtz0xPz%3Fed%3D2560&security=tls&sni=samane.ir#%40Hope_Net-join-us-on-Telegram
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443#BR 🇧🇷 | @Raydikalx | 2F52D9
-trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@vvbgh.131.pp.ua:443?security=tls#FI 🇫🇮 | @Raydikalx | 99D736
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?allowInsecure=0&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#%5Bwww.v2nodes.com%5D%20trojan-IL-...
-trojan://8r%3C%5B9%27l6hAO%238ZQi@94.156.180.215:8443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&fp=chrome&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#Aetris%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-trojan://8deb189a-3aed-4865-843b-b72dae954c46@172.233.91.12:443?sni=api.85s.me&type=ws&allowInsecure=1#4Sarina-7872298a6b
-trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.150:443?security=reality&pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&headerType=none&fp=firefox&type=tcp&sni=16.img.avito.st&sid=43dcff53849b81e6#@Vip_Security join us - 455
-trojan://Tw9Qyep73_9p-nHN0S8N7W7aJoB3dY2R@gw2.secured-by-tenzo.sbs:8443?sni=msk1.cenza.cloud&fp=firefox&alpn=http%2F1.1&type=tcp#RU 🇷🇺 | @Raydikalx | A82184
-trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443/?type=tcp&security=tls&sni=sto.freeguard.org#%F0%9F%8C%B012%40oneclickvpnkeys
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-br.251313.xyz:443?allowInsecure=1&sni=www.cloudflare.com#4Jadi-271d2d4faa
-trojan://3723507166611775488@195.133.93.234:443?sni=wise-cowbird.boa152.lol&allowInsecure=0#CY 🇨🇾 | @Raydikalx | 2A1D36
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@43.169.19.179:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20011
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@13.231.58.114:443?sni=sg01.trojanyyds.xyz&peer=sg01.trojanyyds.xyz&security=tls#JP 🇯🇵 | @Raydikalx | B18F8F
-trojan://af4b064a9c39472fb34ad8b113acdc6b@38.54.29.52:443?allowInsecure=1&sni=38.54.29.52#GR 🇬🇷 | @Raydikalx | 8E5DDE
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50001?allowInsecure=1&sni=mpvideo.qpic.cn#4Kian-e8c6693617
-trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.salu.lalibobi.online:443?security=tls&sni=checkout.salu.lalibobi.online&fp=&type=tcp#EE 🇪🇪 | @Raydikalx | 099345
-trojan://owreRY1bmquS1WcYN2@95.214.166.76:443?sni=ty-3.tr202605.com&allowInsecure=1&type=tcp#JP 🇯🇵 | @Raydikalx | EE6F3F
-trojan://5t6i121em5lkmsmk@130.94.19.95:57277?security=tls&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=us001.zestapp778.com#4FreeIran-ab11a27c7c
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@38.180.35.145:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bu2.freeguard.org#RO 🇷🇴 | @Raydikalx | F4A534
-trojan://zFOLEe09hogIoevLZ0VJslJepLsPSIBV@melli-shecan.tr:2095?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=mellishecan.com.tr#4Nika-527a1f45ec
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@43.174.247.41:443?sni=sk.ylka.dpdns.org&type=tcp#SG 🇸🇬 | @Raydikalx | 361A80
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.ddwhm.com:443?sni=sk.ylka.dpdns.org&peer=sk.ylka.dpdns.org&security=tls#SG 🇸🇬 | @Raydikalx | A104F2
-trojan://af4b064a9c39472fb34ad8b113acdc6b@194.87.39.133:443?allowInsecure=1&sni=194.87.39.133#TR 🇹🇷 | @Raydikalx | 628B7C
-trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#4Kian-a8ddf88425
-trojan://7a73f1dc97a70905870c0c0484b12145@trs22.bolab.net:443?security=tls&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP-133.242.55.38-0696
-trojan://Mj5nBFLSbUzPPJwjBa-WgS9ZnANpH01e@45.145.42.45:5443?sni=m3.mincreaft.com&type=tcp#DE 🇩🇪 | @Raydikalx | 9860BE
-trojan://AG4yPUSazj57DBFnKG@45.139.194.66:443?security=tls&headerType=none&type=tcp#EE 🇪🇪 | @Raydikalx | 7BEDE0
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@45.147.200.44:443/?type=tcp&security=tls&sni=%24%24paydiu.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#RU 🇷🇺 | @Raydikalx | 8637C5
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@64.110.70.64:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%A8%F0%9F%87%AD%20%E7%91%9E%E5%A3%AB%20003
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@43.174.246.41:443?sni=sk.ylka.dpdns.org&type=tcp#SG 🇸🇬 | @Raydikalx | 4C4B9F
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@132.226.23.185:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20009
-trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&headerType=none&allowInsecure=0&type=tcp&insecure=0&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=android#TR 🇹🇷 | @Raydikalx | CEF359
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-il.251313.xyz:14443?allowInsecure=1&sni=www.cloudflare.com#4Sarina-5452c4900d
-trojan://d2adff89-5143-4d67-921f-3478464de5bb@130.0.236.88:443?security=tls&sni=ua.freeguard.org&type=tcp#UA 🇺🇦 | @Raydikalx | E3194C
-trojan://NISHIKUITAN222@152.70.249.67:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@146.56.187.1:8443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20030
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@158.247.222.240:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=kr.freeguard.org#KR 🇰🇷 | @Raydikalx | 58F507
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@158.247.199.106:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20010
-trojan://NISHIKUITAN111@185.174.138.239:443#RU 🇷🇺 | @Raydikalx | B3BDEC
-trojan://pjqRC5wfEFhYTyiaKF@45.139.194.60:443?sni=ee-1.tr202604.com&allowInsecure=1&type=tcp#EE 🇪🇪 | @Raydikalx | 389C78
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@123.140.124.24:8443?type=tcp#KR 🇰🇷 | @Raydikalx | 528266
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@103.133.240.115:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20009
-trojan://5t6i121em5lkmsmk@158.247.220.26:48851?security=tls&sni=kr002.zestapp778.com&type=tcp&fp=chrome&allowInsecure=1#4Kian-1ae09f303f
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@ddrr2.tube-cat.com:33449?allowInsecure=1&sni=r.tw5.cat.bilibili.com#4Jadi-ce66c0f164
-trojan://share.mjj-home.com@185.212.56.168:443?allowInsecure=1&sni=share.softbank.mjj-home.com
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@123.140.124.25:8443/?type=tcp&security=tls&sni=official.seoulcityhall.com.ua&allowInsecure=1#KR 🇰🇷 | @Raydikalx | F069E6
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@ddrr1.tube-cat.com:16461?allowInsecure=1&sni=r.sg5.cat.bilibili.com#4Nika-e85bbd8950
-trojan://3747000103274291200@77.73.70.64:443?peer=better-crappie.treefrog761.one#Russia
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?allowInsecure=0&sni=kr002.zestapp778.com#4Nika-5166167b10
-trojan://WaGG8TGpKhcMU-F-e9vrjB7MnUHGPhtt@217.16.17.127:25565?type=grpc&security=tls&fp=firefox&sni=vkc2.safesurf.cloud&alpn=h2,http/1.1#RU 🇷🇺 | @Raydikalx | BE7D31
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@118.218.10.159:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20005
-trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=193.124.46.65#4Jadi-cb80581f91
-trojan://af4b064a9c39472fb34ad8b113acdc6b@156.244.6.115:443/?type=tcp&security=tls&sni=156.244.6.115#%F0%9F%87%B8%F0%9F%87%A8SC-156.244.6.115-1798
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:2053/?type=tcp&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-123.140.124.23-2678
-trojan://e1c12e6f-a555-4ff8-b071-1e09dd5d91e6@188.165.25.135:443?security=tls&type=tcp&headerType=none#FR 🇫🇷 | @Raydikalx | 3F595A
-trojan://FH72359861@3.36.49.203:443?sni=destined-skylark.rooster465.autos&fp=chrome&type=tcp&path=/#🏳️
-trojan://NISHIKUITAN111@104.18.202.154:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-T...
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443/?type=tcp&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-123.140.124.23-2549
-trojan://PU3f7528NtNXnQqb9X263rGSD@195.133.11.229:443/?type=ws&host=get.fragmentary.info&path=%2Fsocks5tobefree&security=tls&sni=get.fragmentary.info#%40Hope_Net-join-us-on-Telegram
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@54.180.151.15:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20013
-trojan://AE62539071@43.200.1.24:443?sni=square-gnat.rooster465.autos&allowInsecure=1&type=tcp#KR 🇰🇷 | @Raydikalx | 991919
-trojan://3747000103274291200@13.125.85.5:443?peer=moral-buffalo.treefrog761.one#South+Korea
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@101.3.47.51:443?type=tcp&security=tls#TW 🇹🇼 | @Raydikalx | 735D9F
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@220.128.128.151:8443?sni=official.taipeicitygovernment.net.ua&allowInsecure=1&type=tcp#TW 🇹🇼 | @Raydikalx | 04244E
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.230:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#TW 🇹🇼 | @Raydikalx | 5EC568
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.230:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.ivano-frankivsk.ua&allowInsecure=1#TW 🇹🇼 | @Raydikalx | A17D27
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.80.130:8443?sni=official.taipeicitygovernment.biz.ua&allowInsecure=1&type=tcp#TW 🇹🇼 | @Raydikalx | 412FF3
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@220.128.128.151:3462?sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1&type=tcp#TW 🇹🇼 | @Raydikalx | 2C861A
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.209-2749
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.234:3462?sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1&type=tcp#TW 🇹🇼 | @Raydikalx | 192C1B
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@220.128.135.193:3462?security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#TW 🇹🇼 | @Raydikalx | 34844B
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.80.130:3462?security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#TW 🇹🇼 | @Raydikalx | A6889B
-trojan://f25d1510-3763-4fcf-9804-86d6c1566629@31.40.212.163:443?sni=data.amazon-azure.com
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.229:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#TW 🇹🇼 | @Raydikalx | 61DFFD
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.80.31:8443?security=tls&sni=official.taipeicitygovernment.biz.ua&allowInsecure=1#TW 🇹🇼 | @Raydikalx | CC27DB
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.80.31:3462?security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#TW 🇹🇼 | @Raydikalx | BB3495
-trojan://xiubaixue000@160.251.136.55:443?security=tls&sni=hakuiteam.duckdns.org&allowInsecure=1&fp=chrome&type=tcp#JP 🇯🇵 | @Raydikalx | 74ACBD
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.229:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.chernovtsy.ua&allowInsecure=1#TW 🇹🇼 | @Raydikalx | AD48DC
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@210.203.60.190:443/?type=tcp&security=tls&sni=45.32.28.232#TW 🇹🇼 | @Raydikalx | 559066
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?allowInsecure=1&sni=www.discovergreatjobsandadvanceyourcareer.com&type=tcp#4Sarina-a0d0ac4497
+trojan://NISHIKUITAN222@158.180.231.216:443?security=tls&type=ws&host=tz.ylks.xyz&path=%2F#%E6%84%8F%E5%A4%A7%E5%88%A9_Siziano
+trojan://owreRY1bmquS1WcYN2@193.187.119.41:443?type=tcp#AU 🇦🇺 | @Raydikalx | 270EFC
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de10.dedushka.top#4Mohsen-46ef3ec9c4
+trojan://Masir_Sefid@84.234.29.238:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FzyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#CH 🇨🇭 | @Raydikalx | 6E4325
+trojan://bpb-trojan@92.243.74.60:443/?type=ws&host=bpb.my79801.com&path=%2Ftr&security=tls&sni=bpb.my79801.com&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo04a.kbservice.club:443?sni=45.32.28.232&type=tcp#TW 🇹🇼 | @Raydikalx | 302166
+trojan://bpb-trojan@www.vpslook.com:443?path=%2Ftr%3Fed%3D2560&amp;security=tls&amp;alpn=h3&amp;host=bpb-hd.aaronchin.xyz&amp;fp=randomized&amp;type=ws&amp;sni=bpb-hd.aaronchin.xyz#[1515][FR][0][TROJAN][None][vless_vmess][2024-12-09][2026-11-07 03:30]
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@kh.iamnotagoodman.com:443
+trojan://UX82473651%40meet-goshawk.rooster465.autos@162.19.10.99:443?sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#FR 🇫🇷 | @Raydikalx | 357A96
+trojan://FC60532879@193.169.239.198:443?sni=present-warthog.rooster465.autos&fp=chrome&type=tcp&path=/#NL 🇳🇱 | @Raydikalx | CF79C6
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.106.153-2768
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.209-2496
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@220.128.135.193:8443?sni=official.taipeicitygovernment.net.ua&allowInsecure=1&type=tcp#TW 🇹🇼 | @Raydikalx | 182F0E
-trojan://bVhfAPS7f_tagBb-G79z0zWB6L1yK84H@ru2.x8lab.org:9443?sni=ru2.x8lab.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=tcp#RU 🇷🇺 | @Raydikalx | A16971
-trojan://NISHIKUITAN111@104.18.19.56:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-tw3.251313.xyz:20110?allowInsecure=1&sni=www.cloudflare.com#4Kian-3dd2dd94f8
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-tw2.251313.xyz:15710?allowInsecure=1&sni=www.cloudflare.com#4Sarina-7b265bb00b
-trojan://FC60532879@giving-bird.rooster465.autos:443?sni=giving-bird.rooster465.autos&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | E26E0E
-trojan://b5a21d2a-6208-4e23-91ab-c2423c2ae362@tw2.microsoft-orgwly.vip:443?type=tcp&security=tls&sni=tls.microsoft-orgwly.vip&fp=chrome&alpn=http%2F1.1#TW 🇹🇼 | @Raydikalx | E1C4D2
-trojan://9efd3f19-c7cb-4fa9-8d66-0598043597dc@t2w2t2w2.bpca2026.top:443?sni=t2w2t2w2.bpca2026.top&allowInsecure=1&type=tcp#TW 🇹🇼 | @Raydikalx | 542CFD
-trojan://NISHIKUITAN111@194.53.53.140:443/?type=ws&host=za.ylks.xyz&path=%2F&security=tls&sni=za.ylks.xyz#%40Hope_Net-join-us-on-Telegram
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-tw4.251313.xyz:15710?allowInsecure=1&sni=www.cloudflare.com#4Nika-7a194e49d8
-trojan://owreRY1bmquS1WcYN2@193.187.119.75:443?security=tls&sni=au-3.tr202605.com&type=tcp&allowInsecure=1#AU 🇦🇺 | @Raydikalx | FCC189
-trojan://5t6i121em5lkmsmk@au001.zestapp778.com:54374?sni=au001.zestapp778.com&type=tcp&fp=chrome#4Nika-5eb610e706
-trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?allowInsecure=1&insecure=1&type=tcp&security=tls#4Kian-a262cee4b9
-trojan://469c8135-8aea-4c7f-8ec2-c5fdfa980b48@103.219.192.33:443?security=tls&sni=hkip5.686911.xyz&allowInsecure=true#HK 🇭🇰 | @Raydikalx | D7A1EB
-trojan://ef81a036-1db9-45ed-a3aa-f932a4750066@194.195.254.50:443?sni=cdn.qchwnd.moe#AU 🇦🇺 | @Raydikalx | AE928E
-trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@61.220.126.180:443?security=tls&sni=twnode11.oportal.cc&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
-trojan://amclubs2024@58.176.95.46:443?peer=tr.amclub.us.kg&plugin=obfs-local;obfs=websocket;obfs-host=tr.amclub.us.kg;obfs-uri=/?ed=2560#Hong+Kong
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@krhtybay.catcat321.com:20061?allowInsecure=1&sni=hk.catxstar.com#4Jadi-4d4805599a
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.255.74.102:443/?type=tcp&security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.255.249.111:443?sni=jp.mjt001.com&peer=jp.mjt001.com&security=tls#HK 🇭🇰 | @Raydikalx | A7052E
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d3.catcat321.com:20056?sni=hk.catxstar.com&type=tcp#4FreeIran-cda05b901b
-trojan://65fQmPHHbPcBCfvSHt@45.141.46.91:465?type=tcp#HK 🇭🇰 | @Raydikalx | 779A88
-trojan://65fQmPHHbPcBCfvSHt@45.141.46.78:465?security=tls&sni=hk-2.tr202605.com&type=tcp&fp=chrome&allowInsecure=0#HK 🇭🇰 | @Raydikalx | 023B4C
-trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@103.188.235.3:321?security=tls&sni=data.sub-zrj.com&allowInsecure=1&fp=chrome&type=tcp#HK 🇭🇰 | @Raydikalx | 862EBE
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@220.128.128.151:8443?sni=official.taipeicitygovernment.net.ua&allowInsecure=1&type=tcp#TW 🇹🇼 | @Raydikalx | 04244E
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@43.170.8.95:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20012
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.221.189.241-2474
+trojan://af4b064a9c39472fb34ad8b113acdc6b@57.129.54.253:443?sni=57.129.54.253&allowInsecure=1&type=tcp#DE 🇩🇪 | @Raydikalx | 20B177
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=api.yourultimateprofessionalcareerhub.com#%40ConfigV2RayNG
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443#4Nika-08c309a70e
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?allowInsecure=0&sni=courses.yourultimateprofessionalcareerhub.com#%5Bwww.v2nodes.com%5D%20trojan-
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gr.freeguard.org#AT 🇦🇹 | @Raydikalx | BA246D
+trojan://SEYnpOitNLndBhDtkZyeAShl@31.76.49.185:443?allowInsecure=0&sni=nl-vk.tkbvpcompany.site&alpn=http/1.1#NL 🇳🇱 | @Raydikalx | 17B449
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.209-2771
-trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443/?type=tcp&security=tls&sni=hkt.iamnotagoodman.com#%F0%9F%87%AD%F0%9F%87%B0HK-20.187.85.198-4277
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.255.152.222:443?sni=jp.iamnotagoodman.com&peer=jp.iamnotagoodman.com&security=tls#HK 🇭🇰 | @Raydikalx | 49B53E
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@216.236.38.234:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20209
-trojan://qhVUwyWuPbYCYH5Dum@45.90.208.21:443
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a11.taipeicitygovernment.net.ua:3462?sni=45.32.28.232&type=tcp#TW 🇹🇼 | @Raydikalx | 916734
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d3.catcat321.com:20014?sni=hk.catxstar.com&type=tcp#4Kian-c913072c67
-trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443/?type=tcp&security=tls&sni=arbettp.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.181-7030
-trojan://FC60532879@82.117.226.40:443?security=tls&path=/#KR 🇰🇷 | @Raydikalx | 9DE2ED
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-tw1.251313.xyz:12401?allowInsecure=1&sni=www.cloudflare.com#4Mohsen-820bc69b86
-trojan://owreRY1bmquS1WcYN2@au-3.tr202605.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#AU 🇦🇺 | @Raydikalx | C070B0
-trojan://76d630f2af6619c4a5de0ef953df3c6a@58.152.18.71:443?sni=www.nintendogames.net&type=tcp#HK 🇭🇰 | @Raydikalx | D47BD7
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-hkt1.251313.xyz:21520?allowInsecure=1&sni=www.cloudflare.com#4Jadi-78084b4381
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d3.catcat321.com:20060?sni=sg.catxstar.com&type=tcp#4FreeIran-8888933a5c
-trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.2.18.167:443?sni=jp.mjt001.com&peer=jp.mjt001.com&security=tls#HK 🇭🇰 | @Raydikalx | A30537
-trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.2.9.167:443?sni=jp.mjt001.com&type=tcp#HK 🇭🇰 | @Raydikalx | 2B50EA
+trojan://LSS6HLnp7IeEEJUcox@78.142.194.52:443?security=tls&sni=nl-1.tr202607.com&type=tcp&allowInsecure=1#NL 🇳🇱 | @Raydikalx | 808C9A
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@vn.iamnotagoodman.com:443
+trojan://RJbtIstwtcU5buDY3r@194.124.216.53:443?security=tls&type=tcp&headerType=none#NL 🇳🇱 | @Raydikalx | BCC9CA
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?sni=cdn.yourultimateprofessionalcareerhub.com&type=tcp#4Jadi-06adb8879e
+trojan://VuyKYqyDTU1GFaxF3o@194.124.216.55:443/?type=tcp&security=tls&sni=nl-4.tr202504.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#NL 🇳🇱 | @Raydikalx | 421917
+trojan://TRY332RCOD4panalyy9nISleFSZDOYFwzXSSNaCCwYelEyDR230cxAZxDqFOTzA3AX68S@13.53.176.184:443?sni=otcele.golfland.club&type=tcp#SE 🇸🇪 | @Raydikalx | 0B2F84
+trojan://72a9357f-8841-4229-ad79-c3fdee0aae51@193.180.211.52:443/?type=ws&path=%2FFree-VPN-CF-Geo-Project%2F193.180.211.52%3D443&security=tls&sni=joss.dus.biz.id#%F0%9F%87%A9%F0%9F%87%B0DK-193.180.211.52-1406
+trojan://RJbtIstwtcU5buDY3r@78.142.194.32:443?security=tls&type=tcp&headerType=none#NL 🇳🇱 | @Raydikalx | A15ADF
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?fp=chrome&amp;sni=yourultimateprofessionalcareerhub.com#[283][CH][0][TROJAN][None][oneclickvpnkeys][2026-11-06][2026-11-07 03:30]
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.230:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.ivano-frankivsk.ua&allowInsecure=1#TW 🇹🇼 | @Raydikalx | A17D27
+trojan://211f5876-8c89-4d97-9004-ff16acddd506@51.38.71.175:80?allowInsecure=1&sni=uk1.trojanvh.xyz
+trojan://af4b064a9c39472fb34ad8b113acdc6b@38.180.173.150:443?sni=38.180.173.150&type=tcp#PE 🇵🇪 | @Raydikalx | DB4CA5
+trojan://364d3aa0-58fc-11ed-b738-225401db9d57@54.36.191.211:443?security=tls&sni=ebank.bmi.ir&fp=chrome&type=tcp#FR 🇫🇷 | @Raydikalx | 7C92DC
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de4.dedushka.top#4FreeIran-b469185ad2
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.106.153-2598
+trojan://AG4yPUSazj57DBFnKG@193.8.169.66:443?type=tcp#DE 🇩🇪 | @Raydikalx | 56DA47
+trojan://owreRY1bmquS1WcYN2@78.142.194.38:443?sni=nl-1.tr202605.com&allowInsecure=1&type=tcp#NL 🇳🇱 | @Raydikalx | 1FB2B5
+trojan://VuyKYqyDTU1GFaxF3o@nl-4.tr202504.com:443?type=tcp&security=tls&sni=nl-4.tr202504.com&fp=chrome&alpn=http%2F1.1#NL 🇳🇱 | @Raydikalx | DA5193
+trojan://Mj5nBFLSbUzPPJwjBa-WgS9ZnANpH01e@194.48.217.22:5443?security=tls&sni=m2.mincreaft.com&type=tcp&allowInsecure=0#DE 🇩🇪 | @Raydikalx | 309522
+trojan://Sv5AzeZjawJfSMrhhS@78.142.194.9:443?alpn=h2%2Chttp%2F1.1&type=tcp#NL 🇳🇱 | @Raydikalx | 6E1663
+trojan://5505f6ba-cd37-30ce-8f92-be4120c83d7f@official.taipeicitygovernment.kiev.ua:8443?allowInsecure=1&sni=66.42.40.132
+trojan://Sv5AzeZjawJfSMrhhS@nl-1.tr202501.com:443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&type=tcp#NL 🇳🇱 | @Raydikalx | 367B48
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@158.180.71.69:443?allowInsecure=1&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20012
+trojan://RJbtIstwtcU5buDY3r@194.124.216.175:443?security=tls&sni=nl-4.tr202604.com&type=tcp&fp=android&allowInsecure=1#NL 🇳🇱 | @Raydikalx | 6E19ED
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.118.153-2552
+trojan://ASoZeIVwzX4w4wxwig@78.142.194.70:443?allowInsecure=1&type=tcp#NL 🇳🇱 | @Raydikalx | E7F8E2
+trojan://RJbtIstwtcU5buDY3r@78.142.194.31:443?security=tls&type=tcp&headerType=none#NL 🇳🇱 | @Raydikalx | B59C68
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@150.230.249.88:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20206
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443#4Nika-ce915845e4
+trojan://TAJhE0BC0_S1JDm9EmQxyLS64uC8ekbr@de2.x8lab.org:9433?sni=de2.x8lab.org&type=ws&path=/chatbot&fp=safari#%F0%9F%87%A9%F0%9F%87%AADE_211%7C610KB%2Fs%7CP002-260618%2001
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.209-2496
+trojan://LSS6HLnp7IeEEJUcox@nl-1.tr202607.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-78.142.194.98-5760
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443#4Jadi-149bec4527
+trojan://happybirthdaydaniel@79.182.70.207:25267?security=tls&sni=de-bots4.h1cloud.net&allowInsecure=1#NL 🇳🇱 | @Raydikalx | 339FCE
+trojan://8deb189a-3aed-4865-843b-b72dae954c46@5.75.244.105:443?host=api.85s.me&amp;path=%2F&amp;sni=api.85s.me&amp;type=ws#[1016][DE][0][TROJAN][None][oneclickvpnkeys][2026-11-03][2026-11-07 03:30]
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a03.taipeicitygovernment.cn.ua:3462/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.209-4717
+trojan://f87e594a-e538-464b-a20a-55a413cba306@51.210.146.244:443?sni=s100.myvmess.click#FR 🇫🇷 | @Raydikalx | 94E4BE
+trojan://ef81a036-1db9-45ed-a3aa-f932a4750066@194.195.254.50:443?sni=cdn.qchwnd.moe#AU 🇦🇺 | @Raydikalx | AE928E
+trojan://ASoZeIVwzX4w4wxwig@78.142.194.39:443?security=tls&sni=nl-1.tr202605.com&type=tcp&allowInsecure=1#NL 🇳🇱 | @Raydikalx | 7CD8E3
 trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@twnode11.oportal.cc:443?security=tls&amp;sni=twnode11.oportal.cc&amp;type=tcp&amp;headerType=none#[1069][TW][0][TROJAN][None][mftizi][2024-10-15][2026-11-07 03:30]
-trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@20.210.234.145:443?allowInsecure=1&sni=in.stablize.top
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-hkt2.251313.xyz:21520?allowInsecure=1&sni=www.cloudflare.com#4Mohsen-a7554d7bf5
-trojan://72d8e820-7926-4ce3-a87c-b6969f425c79@www.baidu.com:443/?type=tcp&security=tls&sni=%24%24www.baidu.com&allowInsecure=1#HK 🇭🇰 | @Raydikalx | 215A84
-trojan://q6UYkw9nUn6MYZz8Sp@au-2.tr202604.com:443?type=tcp&security=tls&allowInsecure=0#AU 🇦🇺 | @Raydikalx | 9E1839
-trojan://owreRY1bmquS1WcYN2@hk-2.tr202605.com:465?type=tcp&security=tls&headerType=none&allowInsecure=0#HK 🇭🇰 | @Raydikalx | 3E713A
-trojan://NISHIKUITAN111@104.18.198.40:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://72d8e820-7926-4ce3-a87c-b6969f425c79@103.235.46.115:443?sni=%24%24www.baidu.com&allowInsecure=1&type=tcp#HK 🇭🇰 | @Raydikalx | 15F30E
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-hkt3.251313.xyz:21520?allowInsecure=1&sni=www.cloudflare.com#4Jadi-b4fa959fef
-trojan://72d8e820-7926-4ce3-a87c-b6969f425c79@103.235.46.102:443?sni=%24%24www.baidu.com&allowInsecure=1&type=tcp#HK 🇭🇰 | @Raydikalx | 98364F
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a02.taipeicitygovernment.chernovtsy.ua:3462?sni=45.32.28.232&type=tcp#TW 🇹🇼 | @Raydikalx | 2282BC
+trojan://951f2298-f197-4b3f-b03a-85c4b12fc6aa@node17.botkeep.cloud:57760?host=node17.botkeep.cloud&security=none&type=ws&path=/free2-J-ORXm8UwLj7v9Ol-trojan#4Mohsen-24eae63f1a
+trojan://HTrovQkamDxNfaD5@185.253.46.69:443?allowInsecure=1&sni=cz5.v2ce.com
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?allowInsecure=0&sni=browseexecutivejobopeningsandenhanceleadershipcareer.com#%F0%9F%87%B5%F0%9F%87%B1%20%5Bwww.v2nodes.com%5D%20trojan-PL-...
+trojan://8r%3C%5B9%27l6hAO%238ZQi@62.84.103.249:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#NL 🇳🇱 | @Raydikalx | 123F5E
+trojan://ee339912-0c35-4fac-8d85-180b65bcd49c@81.22.132.183:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%B3%F0%9F%87%B1NL-81.22.132.183-1210
+trojan://6cddea99-9b18-4d42-8638-131bd9f5374f@jp1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net:443?allowInsecure=1#4Sarina-fa82af50aa
+trojan://5t6i121em5lkmsmk@au001.zestapp778.com:54374?sni=au001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_11%7C94KB%2Fs%7CM003-260806%20%5Bf48b9180f28a%5D
+trojan://3828095943467868160@103.106.231.55:443?sni=closing-longhorn.dolphin109.quest&type=tcp#AU 🇦🇺 | @Raydikalx | 910E67
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.106.153-2360
+trojan://RJbtIstwtcU5buDY3r@194.124.216.65:443?security=tls&sni=nl-4.tr202604.com&type=tcp&allowInsecure=1#NL 🇳🇱 | @Raydikalx | 7339AE
+trojan://RJbtIstwtcU5buDY3r@194.124.216.54:443?sni=nl-4.tr202604.com&fp=chrome&alpn=http%2F1.1&type=tcp#NL 🇳🇱 | @Raydikalx | CDA2A3
+trojan://1234567890@31.172.71.23:443?sni=kfm-bn0.pages.dev&type=tcp#DE 🇩🇪 | @Raydikalx | 679468
+trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0%2013.1MB%2Fs
+trojan://063bfa6d-c68f-4955-9b33-7555b95988bc@45.144.51.81:443/?type=tcp&security=tls#PL 🇵🇱 | @Raydikalx | CA36FB
+trojan://fsoOufuTGmSKzRDaAwAbww@178.63.244.9:443?security=none&type=tcp#DE 🇩🇪 | @Raydikalx | BD46B5
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.209-2710
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?allowInsecure=1&peer=nextstepcareer.online#Germany
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@216.236.38.234:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20215
+trojan://2ni2H9zUKdDCjREL8Z@au-1.tr202613.com:443?sni=au-1.tr202613.com&type=tcp#AU 🇦🇺 | @Raydikalx | 241968
+trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443/?type=tcp&security=tls&sni=arbettp.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.181-7030
+trojan://63872b0d-87dd-4474-b690-92773af2922e@d3.catcat321.com:20083?sni=sg.catxstar.com&type=tcp#4Nika-c2317f57e5
+trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.255.74.102:443/?type=tcp&security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@43.174.247.41:443?sni=sk.ylka.dpdns.org&type=tcp#SG 🇸🇬 | @Raydikalx | 361A80
+trojan://qhVUwyWuPbYCYH5Dum@45.90.208.21:443
+trojan://469c8135-8aea-4c7f-8ec2-c5fdfa980b48@103.219.192.33:443?security=tls&sni=hkip5.686911.xyz&allowInsecure=true#HK 🇭🇰 | @Raydikalx | D7A1EB
+trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80/?type=tcp&security=tls&sni=namayesh.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-8255
+trojan://nsKBtW4V7LPHG5.iSySU8_pNM88Gkxz7eE@64.176.75.215:443/?type=tcp&security=tls#PL 🇵🇱 | @Raydikalx | AB4EC1
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@43.169.19.179:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20011
+trojan://65fQmPHHbPcBCfvSHt@45.141.46.91:465?type=tcp#HK 🇭🇰 | @Raydikalx | 779A88
+trojan://8r%3C%5B9%27l6hAO%238ZQi@83.229.121.78:8443?allowInsecure=0&sni=Koma-YT.PAGeS.Dev#HK 🇭🇰 | @Raydikalx | 313AE3
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.ddwhm.com:443?sni=sk.ylka.dpdns.org&peer=sk.ylka.dpdns.org&security=tls#SG 🇸🇬 | @Raydikalx | A104F2
+trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.255.152.222:443?sni=jp.iamnotagoodman.com&peer=jp.iamnotagoodman.com&security=tls#HK 🇭🇰 | @Raydikalx | 49B53E
+trojan://65fQmPHHbPcBCfvSHt@45.141.46.78:465?security=tls&sni=hk-2.tr202605.com&type=tcp&fp=chrome&allowInsecure=0#HK 🇭🇰 | @Raydikalx | 023B4C
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267#4Kian-5df72d2ac2
+trojan://61d8077bfb174e171b8283f155a555ad@112.118.116.123:443?security=tls&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | DD606F
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443#4Sarina-2d526af668
+trojan://RJbtIstwtcU5buDY3r@194.124.216.52:443?security=tls&type=tcp&headerType=none#NL 🇳🇱 | @Raydikalx | B0EEF2
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.2.18.167:443?sni=jp.mjt001.com&peer=jp.mjt001.com&security=tls#HK 🇭🇰 | @Raydikalx | A30537
+trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@103.188.235.3:321?security=tls&sni=data.sub-zrj.com&allowInsecure=1&fp=chrome&type=tcp#HK 🇭🇰 | @Raydikalx | 862EBE
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.2.9.167:443?sni=jp.mjt001.com&type=tcp#HK 🇭🇰 | @Raydikalx | 2B50EA
+trojan://76d630f2af6619c4a5de0ef953df3c6a@58.152.18.71:443?sni=www.nintendogames.net&type=tcp#HK 🇭🇰 | @Raydikalx | D47BD7
+trojan://010bd080-2133-11f0-a064-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#GB 🇬🇧 | @Raydikalx | 838597
+trojan://d76294c5-a31f-408d-ba0b-89880107cab5@5.75.152.12:443/?type=tcp&security=tls&allowInsecure=1#DE 🇩🇪 | @Raydikalx | AB1651
+trojan://amclubs2024@58.176.95.46:443?peer=tr.amclub.us.kg&plugin=obfs-local;obfs=websocket;obfs-host=tr.amclub.us.kg;obfs-uri=/?ed=2560#Hong+Kong
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@kr.iamnotagoodman.com:443
+trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@61.220.126.180:443?security=tls&sni=twnode11.oportal.cc&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+trojan://28bccca2-43d2-47f8-bd63-b1361ce7d362@ussj.iamnotagoodman.com:443
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@93.152.223.201:443?security=tls&headerType=none&type=tcp&sni=ger2.fytpn.com#@Vip_Security join us - 232
+trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443/?type=tcp&security=tls&sni=hkt.iamnotagoodman.com#%F0%9F%87%AD%F0%9F%87%B0HK-20.187.85.198-4277
 trojan://72d8e820-7926-4ce3-a87c-b6969f425c79@103.235.46.40:443?security=tls&sni=www.baidu.com&allowInsecure=1&fp=chrome&type=tcp#HK 🇭🇰 | @Raydikalx | 196ACC
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-C1.catcat321.com:20029?allowInsecure=1&sni=hk.catxstar.com#4Sarina-0c648e7899
-trojan://q6UYkw9nUn6MYZz8Sp@au-3.tr202604.com:443?type=tcp#AU 🇦🇺 | @Raydikalx | 0A083B
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-C1.catcat321.com:20052?allowInsecure=1&sni=hk.catxstar.com#4Kian-6b3997a6cb
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-jp8.1card.cc:443?allowInsecure=1&sni=www.cloudflare.com#4Sarina-a19a42b091
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-00.catcat321.com:20123?allowInsecure=1&sni=hk.catxstar.com#4Sarina-f2c7cc685a
-trojan://8r%3C%5B9%27l6hAO%238ZQi@83.229.121.78:8443?allowInsecure=0&sni=Koma-YT.PAGeS.Dev#HK 🇭🇰 | @Raydikalx | 313AE3
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-hk2.251313.xyz:10006?allowInsecure=1&sni=www.cloudflare.com#4FreeIran-439361c4e5
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-hk2.251313.xyz:10202?allowInsecure=1&sni=www.cloudflare.com#4Kian-7bc19f2ab7
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-C1.catcat321.com:20065?allowInsecure=0&sni=hk.catxstar.com#4Mohsen-1db3a1b3af
-trojan://Trojan%4082164024@au.tronsg.com:443?sni=au.tronsg.com&fp=chrome&type=tcp#AU 🇦🇺 | @Raydikalx | FE8F3A
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-C1.catcat321.com:20086?allowInsecure=0&sni=hk.catxstar.com#4Sarina-ecd3f83673
+trojan://72d8e820-7926-4ce3-a87c-b6969f425c79@103.235.46.102:443?sni=%24%24www.baidu.com&allowInsecure=1&type=tcp#HK 🇭🇰 | @Raydikalx | 98364F
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-C1.catcat321.com:20145?allowInsecure=1&sni=hk.catxstar.com#4Kian-14492f8c9f
+trojan://72d8e820-7926-4ce3-a87c-b6969f425c79@103.235.46.115:443?sni=%24%24www.baidu.com&allowInsecure=1&type=tcp#HK 🇭🇰 | @Raydikalx | 15F30E
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-C1.catcat321.com:20086?allowInsecure=0&sni=hk.catxstar.com#4Sarina-ecd3f83673
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-C1.catcat321.com:20069?allowInsecure=1&sni=hk.catxstar.com#4Sarina-30b5b68607
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-au.251313.xyz:443?allowInsecure=1&sni=www.cloudflare.com#4Jadi-b02d1fcf6b
-trojan://NISHIKUITAN111@104.18.210.86:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-C1.catcat321.com:20065?allowInsecure=1&amp;sni=hk.catxstar.com#[1565][HK][0][TROJAN][None][oneclickvpnkeys][2026-11-04][2026-11-07 03:30]
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?allowInsecure=0&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#%5Bwww.v2nodes.com%5D%20trojan-SE-...
+trojan://af4b064a9c39472fb34ad8b113acdc6b@38.54.27.117:443?allowInsecure=1&sni=38.54.27.117#BG 🇧🇬 | @Raydikalx | 2E614E
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.209-2817
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@132.226.23.185:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20007
+trojan://0a906750-0f97-427b-969d-df235023c93b@16.163.194.6:443?allowInsecure=1&sni=data.amazon-azure.com
+trojan://3774827088566296576@194.62.96.160:443?peer=next-hippo.treefrog761.one#Spain
+trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru#4Jadi-a0e2e119c1
+trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@pl.zhabulik.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=pl.zhabulik.ru#@Vip_Security join us - 188
+trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#4Nika-e9c5f84fe1
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.255.249.111:443?sni=jp.mjt001.com&peer=jp.mjt001.com&security=tls#HK 🇭🇰 | @Raydikalx | A7052E
+trojan://65fQmPHHbPcBCfvSHt@hk-2.tr202605.com:465?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#HK 🇭🇰 | @Raydikalx | D550F5
+trojan://f426d3c9-fb43-43c0-868b-898dfa451a74@121.127.33.130:443?allowInsecure=0&sni=likejennie.pages.dev&ws=1&wspath=%2F#4Sarina-74f0e544af
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@43.174.246.41:443?sni=sk.ylka.dpdns.org&type=tcp#SG 🇸🇬 | @Raydikalx | 4C4B9F
+trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@nl.zhabulik.ru:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=nl.zhabulik.ru#🇦🇪[openproxylist.com]
+trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.32:443?type=tcp&security=tls&fp=chrome&sni=connect-se.mimowhat.online&alpn=h2,http/1.1#SE 🇸🇪 | @Raydikalx | 22BF10
+trojan://8deb189a-3aed-4865-843b-b72dae954c46@85.121.245.35:443?sni=api.85s.me&type=ws&allowInsecure=1#[1022][HK][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-07][2026-11-07 03:31]
+trojan://ZLNrfFIw6IXWvhFvGEWi4EcsWJ76ZiDh@160.21.74.183:8443?allowInsecure=1&sni=160.21.74.183#%5Bpeasoft%2FNoMoreWalls%5D%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@bbbnnmj.131.pp.ua:443?security=tls#%F0%9F%87%AB%F0%9F%87%AEFI-135.181.41.169-5814
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@ddrr1.tube-cat.com:54000?allowInsecure=1&sni=r.tw4.cat.bilibili.com#4Nika-8a895e1952
+trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&security=tls&sni=hk.freeguard.org#HK 🇭🇰 | @Raydikalx | 2D35B7
+trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443/?type=tcp&security=tls&sni=sto.freeguard.org#%F0%9F%8C%B012%40oneclickvpnkeys
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@135.181.41.169:443?sni=nnnmjju.131.pp.ua&allowInsecure=1&type=tcp#FI 🇫🇮 | @Raydikalx | C1F675
+trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443/?type=tcp&security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.99.96-1321
+trojan://pjqRC5wfEFhYTyiaKF@45.139.194.60:443?sni=ee-1.tr202604.com&allowInsecure=1&type=tcp#EE 🇪🇪 | @Raydikalx | 389C78
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@iepl2.catcat321.com:20114?allowInsecure=1&sni=iepl2.catcat321.com&type=tcp#4Mohsen-13dfe7ed9a
-trojan://aef2ca33-b162-409f-8f16-4c736c338412@20.205.37.136:443?security=tls&allowInsecure=1&type=tcp#HK 🇭🇰 | @Raydikalx | B25296
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-00.catcat321.com:20127?allowInsecure=1&sni=hk.catxstar.com#4FreeIran-f81867cc06
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-jp7.1card.cc:443?allowInsecure=1&sni=www.cloudflare.com#4Mohsen-a73a4bf56f
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-kr2.251313.xyz:443?allowInsecure=1&sni=www.cloudflare.com#4Nika-5ff42f29ce
-trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@ngzydd.sub-zrj.com:321?sni=streaming.sub-zrj.com&type=tcp#US 🇺🇸 | @Raydikalx | 920842
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-hk1.251313.xyz:10003?allowInsecure=1&sni=www.cloudflare.com#4Kian-c7b750faf4
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-hk2.251313.xyz:10003?allowInsecure=1&sni=www.cloudflare.com#4Jadi-b7c1216b9f
-trojan://9c2cd61e-fa64-3e6f-a817-132e17e11949@cranberry.timing.singer.aliyunglsb.com:37062?sni=steampipe.akamaized.net&type=tcp#HK 🇭🇰 | @Raydikalx | 895889
-trojan://pR320Cwdj7mJ9HKc_UVz-VJyuecT4qdh@91.240.87.108:443?security=tls&sni=z40.tgnn.live&fp=firefox&type=tcp#RU 🇷🇺 | @Raydikalx | D8F5C8
-trojan://q6UYkw9nUn6MYZz8Sp@185.49.34.54:443?security=tls&sni=uk-1.tr202604.com&type=tcp&allowInsecure=1#GB 🇬🇧 | @Raydikalx | 7C4BAD
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-sa.251313.xyz:443?allowInsecure=1&sni=www.cloudflare.com#4Sarina-1804d1feda
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@ct.877774.xyz:443/?type=ws&path=%2Fproxyip%3D210.61.97.241%3A81&security=tls&sni=cm3-bpg.filegear-sg.me#%F0%9F%8F%81RELAY-172.64.229.174-0586
-trojan://DyxOlYWfEYVf@193.8.139.22:443?sni=sb24.ir&type=tcp#IR 🇮🇷 | @Raydikalx | DE5916
-trojan://8deb189a-3aed-4865-843b-b72dae954c46@85.121.245.35:443?sni=api.85s.me&type=ws&allowInsecure=1#4Kian-57b3cb6080
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@104.253.175.99:443?allowInsecure=1&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20218
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@103.97.91.17:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=la.freeguard.org#NG 🇳🇬 | @Raydikalx | 110F61
-trojan://7118b5f4-0ea4-4c11-be7f-11471cb91e4a@144.24.72.126:443?allowInsecure=1
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@158.180.71.69:443?allowInsecure=1&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20012
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:48697?allowInsecure=1&sni=gh.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20032
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20054
-trojan://9c2cd61e-fa64-3e6f-a817-132e17e11949@radiance.occupy.hefty.aliyunglsb.com:12240?sni=www.microsoft365.com&type=tcp#SG 🇸🇬 | @Raydikalx | CFAA3E
-trojan://VuyKYqyDTU1GFaxF3o@nl-4.tr202504.com:443?type=tcp&security=tls&sni=nl-4.tr202504.com&fp=chrome&alpn=http%2F1.1#NL 🇳🇱 | @Raydikalx | DA5193
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:48697?allowInsecure=1&sni=gh.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20007
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.92:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20004
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20028
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20020
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20018
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20017
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.91:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20044
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.92:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20046
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20016
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20053
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@178.128.106.216:443/?type=tcp&security=tls&sni=www.baidu.com#SG 🇸🇬 | @Raydikalx | CF323D
-trojan://FC60532879@81.28.13.103:443?security=tls&path=/#SG 🇸🇬 | @Raydikalx | 5A0433
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.91:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20021
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20033
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20005
-trojan://b7bc6b1c-610d-4d39-ad29-18a0d6902348@13.214.81.104:443?sni=usa.liangyuandian.top&peer=usa.liangyuandian.top&security=tls#SG 🇸🇬 | @Raydikalx | 6C061F
-trojan://96dca130-61c6-11ed-bc37-1239d0255272@51.79.220.79:443?security=tls&headerType=none&type=tcp&sni=zoom.us#SG 🇸🇬 | @Raydikalx | 8ABF02
-trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886#4Kian-1f1054387c
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.91:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20041
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20024
-trojan://ND91608427@internal-sunbird.rooster465.autos:443?sni=internal-sunbird.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇺🇸
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@161.118.213.45:443?allowInsecure=1&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20029
-trojan://8a967ec0-634e-11ed-8ef5-1239d0255272@sgovh-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=www.namava.ir#SG 🇸🇬 | @Raydikalx | F566BD
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.91:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20013
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@103.25.202.114:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20003
-trojan://FH72359861@pleased-sawfly.rooster465.autos:443?sni=pleased-sawfly.rooster465.autos&fp=chrome&type=tcp&path=/#SG 🇸🇬 | @Raydikalx | 984C04
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20036
-trojan://IQ68037294@apt-midge.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-91.243.81.248-5743
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:48697?allowInsecure=1&sni=gh.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20008
-trojan://973c7f53-7411-4173-b805-d65c912e4d55@43.134.48.62:443?security=tls&headerType=none&type=tcp&sni=86sg.ljydw.top#SG 🇸🇬 | @Raydikalx | 627C61
-trojan://f3389204-7adb-45d8-906c-c17792336574@20.205.235.145:443
-trojan://842b5f9dd11e458d8613c907c4cc5723@149.28.151.140:443?sni=www.gpt123.one&allowInsecure=1&type=tcp#SG 🇸🇬 | @Raydikalx | 085F08
+trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=193.124.46.65#4Jadi-cb80581f91
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@38.180.35.145:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bu2.freeguard.org#RO 🇷🇴 | @Raydikalx | F4A534
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@vvbgh.131.pp.ua:443?security=tls#%F0%9F%87%AB%F0%9F%87%AEFI-135.181.41.169-5821
+trojan://05003b7a-8f03-41d5-b696-0119e8376a20@217.182.76.235:443/?type=tcp&security=tls&sni=t6.teslacdn2.live&allowInsecure=1#PL 🇵🇱 | @Raydikalx | 07A754
 trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.aava.lalibobi.online:443?security=tls&sni=checkout.aava.lalibobi.online&fp=&type=tcp#EE 🇪🇪 | @Raydikalx | 3EB5C0
-trojan://FnF2E0fmnd@146.190.86.235:443?sni=dl-media.viber.com&fp=chrome&alpn=http%2F1.1&type=tcp#SG 🇸🇬 | @Raydikalx | 97C27A
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo02a.kbservice.club:443?sni=45.32.28.232&type=tcp#TW 🇹🇼 | @Raydikalx | 86BB5F
+trojan://8r%3C%5B9%27l6hAO%238ZQi@94.156.180.215:8443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&fp=chrome&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#Aetris%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+trojan://pR320Cwdj7mJ9HKc_UVz-VJyuecT4qdh@ee1.nngo.cc:443?security=tls&sni=ee1.nngo.cc&fp=firefox&type=tcp#EE 🇪🇪 | @Raydikalx | F95145
+trojan://af4b064a9c39472fb34ad8b113acdc6b@38.54.29.52:443?allowInsecure=1&sni=38.54.29.52#GR 🇬🇷 | @Raydikalx | 8E5DDE
+trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:14699?sni=fe-static.deepseek.com&allowInsecure=1#[1480][JP][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-07][2026-11-07 03:31]
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443/?type=tcp&security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-2627
+trojan://jj59d0f73f5d6@ru-1.krugvpn.com:443?security=tls&alpn=h2%2Chttp%2F1.1&sni=ru-1.krugvpn.com&fp=chrome&type=tcp#RU 🇷🇺 | @Raydikalx | B87A6A
+trojan://1234567890@148.253.215.61:443?sni=kfm-bn0.pages.dev#%F0%9F%87%AC%F0%9F%87%A7GB_61
+trojan://ASoZeIVwzX4w4wxwig@uk-1.tr202605.com:443?allowInsecure=0#GB 🇬🇧 | @Raydikalx | 718521
+trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.salu.lalibobi.online:443?security=tls&sni=checkout.salu.lalibobi.online&fp=&type=tcp#EE 🇪🇪 | @Raydikalx | 099345
+trojan://5453ae26-250d-4e79-b4ec-016baf806865@d05f4aa7-92b1-a659-e3b9-695dd2870b3c.131.pp.ua:443?sni=D05F4aA7-92B1-a659-E3b9-695Dd2870B3c.131.Pp.UA&type=tcp#FI 🇫🇮 | @Raydikalx | 9EE96B
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@nnnmjju.131.pp.ua:443?security=tls#%F0%9F%87%AB%F0%9F%87%AEFI-135.181.41.169-5820
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.80.130:3462?security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#TW 🇹🇼 | @Raydikalx | A6889B
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?allowInsecure=0&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#%5Bwww.v2nodes.com%5D%20trojan-IL-...
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80/?type=tcp&security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-3656
+trojan://f25d1510-3763-4fcf-9804-86d6c1566629@31.40.212.163:443?sni=data.amazon-azure.com
+trojan://B7uhruMgFAykL-yBmo0ary0v1U0BFF9o@m6-alt.maxleshax.icu:5443?type=tcp&security=tls&sni=m6.mincreaft.com&fp=firefox&alpn=http/1.1#DE 🇩🇪 | @Raydikalx | F6E11E
+trojan://af4b064a9c39472fb34ad8b113acdc6b@38.180.56.158:443?allowInsecure=1&sni=38.180.56.158#SE 🇸🇪 | @Raydikalx | B075B7
+trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@144.22.250.122:443/?type=tcp&security=tls&sni=golinkwuxian.top#%F0%9F%87%A7%F0%9F%87%B7BR-144.22.250.122-1617
+trojan://E2hdVoElK6qS7AvxEKbot5lBsX00vZqb@77.246.100.139:8443?path=%2Fen%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=ws.universall.shop&fp=chrome&type=ws&allowInsecure=0&sni=ws.universall.shop#4FreeIran-fb309d12bf
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@104.253.175.99:443?allowInsecure=1&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20224
+trojan://d2adff89-5143-4d67-921f-3478464de5bb@130.0.236.88:443?security=tls&sni=ua.freeguard.org&type=tcp#UA 🇺🇦 | @Raydikalx | E3194C
+trojan://3747000103274291200@77.73.70.64:443?peer=better-crappie.treefrog761.one#Russia
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d3.catcat321.com:20060?sni=sg.catxstar.com&type=tcp#4FreeIran-8888933a5c
+trojan://6cb6f769-b28e-4f7f-a593-8c0b0a161992@170.187.231.189:443?#SG 🇸🇬 | @Raydikalx | 05BF26
+trojan://16877c70-e7b8-11ec-99f2-1239d0255272@139.162.61.193:443/?type=tcp&security=tls&sni=w13.udpgw.com&allowInsecure=1#SG 🇸🇬 | @Raydikalx | DE89F0
+trojan://cd41b9d7-df15-46ad-a778-257b0851525a@54.254.153.213:443?sni=sg01.trojanyyds.xyz&peer=sg01.trojanyyds.xyz&security=tls#SG 🇸🇬 | @Raydikalx | 547DBB
+trojan://q6UYkw9nUn6MYZz8Sp@sg-1.tr202604.com:443?type=tcp&security=tls&allowInsecure=0#SG 🇸🇬 | @Raydikalx | E1365B
+trojan://af4b064a9c39472fb34ad8b113acdc6b@38.54.59.90:443?allowInsecure=1&sni=38.54.59.90#EG 🇪🇬 | @Raydikalx | 82EBB7
+trojan://AG4yPUSazj57DBFnKG@ee-1.tr202604.com:443?security=tls&headerType=none&type=tcp#EE 🇪🇪 | @Raydikalx | 146093
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:48697?allowInsecure=1&sni=gh.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20008
+trojan://6a5d8ead-477a-4bc8-99ce-d9532a3ec5f1@139.162.35.118:443?security=tls&headerType=none&type=tcp&sni=sg-full.privateip.net#SG 🇸🇬 | @Raydikalx | EE42E5
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.144.96.147:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20220
+trojan://GUGm7DHtpSx7SuPyUD@45.139.194.80:443?alpn=h2%2Chttp%2F1.1&type=tcp#EE 🇪🇪 | @Raydikalx | F2D63C
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20054
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:48697?allowInsecure=1&sni=gh.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20032
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.92:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20029
+trojan://PQ05174892@13.251.133.9:443?sni=infinite-anteater.rooster465.autos&path=/#🇸🇬
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20023
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20016
+trojan://PQ05174892@54.169.255.178:443?sni=tops-owl.rooster465.autos&allowInsecure=1&type=tcp#SG 🇸🇬 | @Raydikalx | FE28B0
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20053
+trojan://7522e2c27233459aab8d0f1d715828d0@185.151.146.211:443?sni=www.gpt123.one&allowInsecure=1&type=tcp#SG 🇸🇬 | @Raydikalx | C6376A
+trojan://58dcd460-65df-47b1-b062-517df30bef29@46.137.203.18:443?sni=sg.liangyuandian.top&peer=sg.liangyuandian.top&security=tls#SG 🇸🇬 | @Raydikalx | C1AA71
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@18.143.76.130:443/?type=tcp&security=tls&sni=hhcm.hhxaf.cc.cd#SG 🇸🇬 | @Raydikalx | 5E998A
+trojan://b7bc6b1c-610d-4d39-ad29-18a0d6902348@13.214.81.104:443?sni=usa.liangyuandian.top&peer=usa.liangyuandian.top&security=tls#SG 🇸🇬 | @Raydikalx | 6C061F
+trojan://FH72359861@13.229.56.205:443?sni=exciting-turtle.rooster465.autos&fp=chrome&type=tcp&path=/#SG 🇸🇬 | @Raydikalx | 891DC0
+trojan://AE62539071@13.212.44.180:443?sni=smooth-hornet.rooster465.autos&type=tcp&path=/#SG 🇸🇬 | @Raydikalx | 8D1F89
+trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@46.137.251.176:443?sni=jp.iamnotagoodman.com&peer=jp.iamnotagoodman.com&security=tls#SG 🇸🇬 | @Raydikalx | CD3C46
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@161.118.213.45:443?allowInsecure=1&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20029
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20036
+trojan://cd41b9d7-df15-46ad-a778-257b0851525a@13.250.86.35:443?sni=jp01.trojanyyds.xyz&peer=jp01.trojanyyds.xyz&security=tls#SG 🇸🇬 | @Raydikalx | 511107
+trojan://aZsk43TyWBpjt%40A@vpn.qinfen180.cn:443/?type=tcp&security=tls&sni=vpn.qinfen180.cn#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.92:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20004
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20018
+trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80/?type=tcp&security=tls&sni=15.235.197.4#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-8862
+trojan://9c2cd61e-fa64-3e6f-a817-132e17e11949@192.238.238.62:443?sni=origin-a.akamaihd.net&type=tcp#US 🇺🇸 | @Raydikalx | DE62A7
+trojan://973c7f53-7411-4173-b805-d65c912e4d55@43.134.48.62:443?security=tls&headerType=none&type=tcp&sni=86sg.ljydw.top#SG 🇸🇬 | @Raydikalx | 627C61
+trojan://MwDUxmFOAo@152.42.162.175:443?sni=aka.ms&type=tcp#SG 🇸🇬 | @Raydikalx | 3A03C4
+trojan://16877c70-e7b8-11ec-99f2-1239d0255272@w13.udpgw.com:443?allowInsecure=0&sni=#SG 🇸🇬 | @Raydikalx | ACDE31
+trojan://ac590e89-ba43-49a1-a8b2-38ec70dc7907@sg008.421421.xyz:20230?allowInsecure=0&sni=421421.xyz#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20005
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20030
+trojan://a13820c547fa34c5c45515c12f0cd576@117.149.198.190:10051/?type=tcp&security=tls&sni=zz6.91js.pw&allowInsecure=1#CN 🇨🇳 | @Raydikalx | 3F11F4
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.91:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20013
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20047
+trojan://9006342b-be5d-4328-94a3-e54e4622d4d6@52.76.215.50:443?allowInsecure=1&sni=data.amazon-azure.com
+trojan://65086520307764900@18.136.95.35:443?sni=robust-redfish.shiner427.skin&peer=robust-redfish.shiner427.skin&security=tls#SG 🇸🇬 | @Raydikalx | 41C413
+trojan://JA96378052@47.130.185.122:443?allowInsecure=1&sni=WangCai.rooster465.autos#🇸🇬[openproxylist.com]
+trojan://XG59623478@18.143.139.228:443?allowInsecure=1#SG 🇸🇬 | @Raydikalx | C11549
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@45.147.200.44:443/?type=tcp&security=tls&sni=%24%24paydiu.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#RU 🇷🇺 | @Raydikalx | 8637C5
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:48697?allowInsecure=1&sni=gh.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20011
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20031
-trojan://FH72359861@touching-ostrich.rooster465.autos:443?allowInsecure=0&sni=touching-ostrich.rooster465.autos#🇺🇸
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@159.223.41.212:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20223
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20037
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20030
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-sg2.6send.com:10010?allowInsecure=1&sni=www.cloudflare.com#4Kian-ae69c166eb
-trojan://38f169d6-d202-4b1b-8db8-e6eb1648f5cf@43.160.197.160:443?security=tls#4Mohsen-ddda68b905
-trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-5740
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20034
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@46.137.251.176:443?sni=jp.iamnotagoodman.com&peer=jp.iamnotagoodman.com&security=tls#SG 🇸🇬 | @Raydikalx | CD3C46
-trojan://j0GM8nFJVq@167.71.209.134:443?sni=aka.ms&fp=chrome&alpn=http%2F1.1&type=tcp#SG 🇸🇬 | @Raydikalx | A24CE2
-trojan://FH72359861@sterling-fowl.rooster465.autos:443?security=tls&sni=sterling-fowl.rooster465.autos&path=/#🇯🇵
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20023
-trojan://7522e2c27233459aab8d0f1d715828d0@185.151.146.211:443?sni=www.gpt123.one&allowInsecure=1&type=tcp#SG 🇸🇬 | @Raydikalx | C6376A
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.128.222.55:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20008
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-sg2.6send.com:10045?allowInsecure=1&sni=www.cloudflare.com#4Kian-7289f8c628
-trojan://28d98f761aca9d636f44db62544628eb@184.168.127.50:443?allowInsecure=0
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@139.162.62.195:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20006
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-sg2.6send.com:10012?allowInsecure=1&sni=www.cloudflare.com#4Sarina-66b6b6b2ee
-trojan://PQ05174892@54.169.255.178:443?sni=tops-owl.rooster465.autos&allowInsecure=1&type=tcp#SG 🇸🇬 | @Raydikalx | FE28B0
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.92:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20029
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.144.96.147:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20214
-trojan://3690911436885991424@52.221.9.240:443?sni=master-boxer.pig299.lat&allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-52.221.9.240:443
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-sg1.6send.com:10001?allowInsecure=1&sni=www.cloudflare.com#4Sarina-82f14e842f
-trojan://3828095943467868160@103.106.229.111:443?sni=poetic-coral.dolphin109.quest&type=tcp#SG 🇸🇬 | @Raydikalx | 48ACBE
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-sg1.6send.com:10010?allowInsecure=1&sni=www.cloudflare.com#4Nika-b9cb281774
-trojan://MwDUxmFOAo@152.42.162.175:443?sni=aka.ms&type=tcp#SG 🇸🇬 | @Raydikalx | 3A03C4
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-sg3.6send.com:14443?allowInsecure=1&sni=www.cloudflare.com#4Kian-7f7f04d0ae
-trojan://83c66e32-1934-4b54-bd41-6f9908352162@146.190.90.40:443?allowInsecure=1&sni=sg.hktkcloud.cloud
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.144.109.68:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20206
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-sg1.6send.com:10006?allowInsecure=1&sni=www.cloudflare.com#4Kian-a78f920adc
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-sg2.6send.com:10005?allowInsecure=1&sni=www.cloudflare.com#4Sarina-55c1f2528c
-trojan://16877c70-e7b8-11ec-99f2-1239d0255272@139.162.61.193:443/?type=tcp&security=tls&sni=w13.udpgw.com&allowInsecure=1#SG 🇸🇬 | @Raydikalx | DE89F0
-trojan://AE62539071@balanced-goat.rooster465.autos:443?sni=balanced-goat.rooster465.autos&allowInsecure=1&type=tcp#🏳️
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de4.dedushka.top#4FreeIran-b469185ad2
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-id.251313.xyz:443?allowInsecure=1&sni=www.cloudflare.com#4FreeIran-6e5247dc89
-trojan://6cb6f769-b28e-4f7f-a593-8c0b0a161992@170.187.231.189:443?#SG 🇸🇬 | @Raydikalx | 05BF26
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-sg8.6send.com:443?allowInsecure=1&sni=www.cloudflare.com#4Jadi-3c0d25254b
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?peer=connectwithemployers.online#Singapore
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-kr4.251313.xyz:443?allowInsecure=1&sni=www.cloudflare.com#4Kian-4aaf2a5825
-trojan://FH72359861@13.229.56.205:443?sni=exciting-turtle.rooster465.autos&fp=chrome&type=tcp&path=/#SG 🇸🇬 | @Raydikalx | 891DC0
-trojan://3747000103274291200@18.139.99.11:443?peer=probable-drum.treefrog761.one#Singapore
-trojan://NQ26071394@13.212.151.64:443?allowInsecure=0&sni=able-dane.rooster465.autos#SG 🇸🇬 | @Raydikalx | 898F99
-trojan://16132fb0-4945-11f0-a95e-1239d0255272@91.192.81.167:443?security=tls&sni=sg4.6n6.net&allowInsecure=1&fp=chrome&type=tcp#SG 🇸🇬 | @Raydikalx | B8851B
-trojan://192a5fc9-2baa-4043-8655-d840d370cb86@13.229.160.122:443?sni=jp.liangyuandian.top&type=tcp#SG 🇸🇬 | @Raydikalx | 31CDAA
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-sg2.6send.com:10044?allowInsecure=1&sni=www.cloudflare.com#4Jadi-80cc496977
-trojan://f64e69c0-e7b7-11ec-ab81-1239d0255272@w11.udpgw.com:443?allowInsecure=0
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@13.229.1.82:443?sni=jp.iamnotagoodman.com&peer=jp.iamnotagoodman.com&security=tls#SG 🇸🇬 | @Raydikalx | B84171
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-sg2.6send.com:10046?allowInsecure=1&sni=www.cloudflare.com#4Sarina-f5a3388444
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-sg2.6send.com:10011?allowInsecure=1&sni=www.cloudflare.com#4Sarina-3fa9e0e67d
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-sg7.6send.com:443?allowInsecure=1&sni=www.cloudflare.com#4Jadi-2727e65b1a
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@54.254.153.213:443?sni=sg01.trojanyyds.xyz&peer=sg01.trojanyyds.xyz&security=tls#SG 🇸🇬 | @Raydikalx | 547DBB
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@13.250.86.35:443?sni=jp01.trojanyyds.xyz&peer=jp01.trojanyyds.xyz&security=tls#SG 🇸🇬 | @Raydikalx | 511107
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-sg4.6send.com:443?allowInsecure=1&sni=www.cloudflare.com#4Nika-7c3c6be5bc
-trojan://8deb189a-3aed-4865-843b-b72dae954c46@83.147.15.84:8443?sni=api.85s.me&type=ws&allowInsecure=1#4Sarina-0576414ebc
-trojan://XG59623478@18.143.139.228:443?allowInsecure=1#SG 🇸🇬 | @Raydikalx | C11549
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20042
-trojan://q6UYkw9nUn6MYZz8Sp@sg-1.tr202604.com:443?type=tcp&security=tls&allowInsecure=0#SG 🇸🇬 | @Raydikalx | E1365B
-trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?type=tcp&security=tls&headerType=none&sni=www.registry-monitor.click&fp=chrome&allowInsecure=1#%F0%9F%87%B5%F0%9F%87%B034489%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-trojan://GToK9gzuwh@146.190.84.34:443?allowInsecure=0&sni=aka.ms#SG 🇸🇬 | @Raydikalx | 4063B6
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-sg6.6send.com:443?allowInsecure=1&sni=www.cloudflare.com#4Nika-11624215ec
-trojan://65086520307764900@18.136.95.35:443?sni=robust-redfish.shiner427.skin&peer=robust-redfish.shiner427.skin&security=tls#SG 🇸🇬 | @Raydikalx | 41C413
-trojan://AE62539071@13.212.44.180:443?sni=smooth-hornet.rooster465.autos&type=tcp&path=/#SG 🇸🇬 | @Raydikalx | 8D1F89
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20052
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@18.143.76.130:443/?type=tcp&security=tls&sni=hhcm.hhxaf.cc.cd#SG 🇸🇬 | @Raydikalx | 5E998A
-trojan://3760559353321758720@18.141.59.72:443/?type=tcp&security=tls&sni=dear-sunbeam.treefrog761.one#%40Hope_Net-join-us-on-Telegram
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-kr1.251313.xyz:443?allowInsecure=1&sni=www.cloudflare.com#4Kian-93ac4b7ed7
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20047
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-kr3.251313.xyz:443?allowInsecure=1&sni=www.cloudflare.com#4FreeIran-d82cc78a47
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-sg2.6send.com:443?allowInsecure=1&sni=www.cloudflare.com#4Mohsen-9b5d02d9b1
-trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80/?type=tcp&security=tls&sni=15.235.197.4#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-8862
-trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@139.162.49.215:443?sni=139.162.49.215&type=tcp#SG 🇸🇬 | @Raydikalx | 6DC32D
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-hk1.251313.xyz:21521?allowInsecure=1&sni=www.cloudflare.com#4Jadi-1c78b1bf85
-trojan://a2940130-1c92-11ed-aebe-1239d0255272@sg8-trojan.bonds.id:443?allowInsecure=0
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80/?type=tcp&security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-3656
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-hk1.251313.xyz:10006?allowInsecure=1&sni=www.cloudflare.com#4Mohsen-bcc24813b1
-trojan://d6369144-4fb6-43e5-b9ca-255abf37607d@139.162.36.248:443/?type=tcp&security=tls&alpn=http%2F1.1&allowInsecure=1&fp=chrome#SG 🇸🇬 | @Raydikalx | 4E06D4
-trojan://c95357eb-2869-4511-8940-f0dc5e1ec9b1@103.72.96.55:443/?type=tcp&security=tls&sni=hanoiidc2.5gsieutocdo.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#VN 🇻🇳 | @Raydikalx | 663774
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-hk1.251313.xyz:10005?allowInsecure=1&sni=www.cloudflare.com#4Nika-b90aecb903
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-sg1.6send.com:443?allowInsecure=1&sni=www.cloudflare.com#4Jadi-629819491b
-trojan://owreRY1bmquS1WcYN2@193.187.119.41:443?type=tcp#AU 🇦🇺 | @Raydikalx | 270EFC
-trojan://iyinglong@18.140.67.76:443?allowInsecure=0
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#4Kian-7409c63e8b
-trojan://5a92d674-308c-4d95-b283-28383e63a59b@103.9.77.6:443?sni=103.9.77.6&type=tcp#VN 🇻🇳 | @Raydikalx | A83E23
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-hk1.251313.xyz:10004?allowInsecure=1&sni=www.cloudflare.com#4Kian-bc26c504ad
-trojan://253bc477d4e43c209f2d427272968280@165.22.55.206:443/?type=tcp&security=tls&sni=www.baidu.com#SG 🇸🇬 | @Raydikalx | 0A18E1
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443#4Jadi-6939f5b552
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:48697?allowInsecure=1&sni=gh.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20007
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.128.222.55:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20006
 trojan://FH72359861@56.10.68.149:443?allowInsecure=0&sni=square-guinea.rooster465.autos#SG 🇸🇬 | @Raydikalx | E8836E
-trojan://3ac6a6ca99f74941b1eaf892818e2ddb@185.151.146.40:443?allowInsecure=1#SG 🇸🇬 | @Raydikalx | B4EC4B
-trojan://af4b064a9c39472fb34ad8b113acdc6b@154.90.55.81:443?allowInsecure=1&sni=154.90.55.81#AE 🇦🇪 | @Raydikalx | 6A5013
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-sg5.6send.com:443?allowInsecure=1&sni=www.cloudflare.com#4Sarina-461fc68a19
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.38.60.139:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20245
-trojan://788f2b96-47e2-4302-a417-511b6fd7d09c@172.232.250.160:443?type=tcp&security=tls&fp=chrome&alpn=http%2F1.1#ID 🇮🇩 | @Raydikalx | 1BFF9A
-trojan://af4b064a9c39472fb34ad8b113acdc6b@210.187.176.154:443?allowInsecure=1&sni=210.187.176.154#MY 🇲🇾 | @Raydikalx | B69489
-trojan://af4b064a9c39472fb34ad8b113acdc6b@103.67.79.156:443?sni=103.67.79.156&allowInsecure=1&type=tcp#ID 🇮🇩 | @Raydikalx | 323809
-trojan://Mj5nBFLSbUzPPJwjBa-WgS9ZnANpH01e@194.48.217.22:5443?security=tls&sni=m2.mincreaft.com&type=tcp&allowInsecure=0#DE 🇩🇪 | @Raydikalx | 309522
-trojan://IQ68037294@91.199.84.34:443?sni=wealthy-loon.rooster465.autos&fp=chrome&type=tcp&path=/#HK 🇭🇰 | @Raydikalx | F700C6
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@159.223.41.212:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20229
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.144.109.68:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20212
+trojan://j0GM8nFJVq@167.71.209.134:443?sni=aka.ms&fp=chrome&alpn=http%2F1.1&type=tcp#SG 🇸🇬 | @Raydikalx | A24CE2
+trojan://3690911436885991424@52.221.9.240:443?sni=master-boxer.pig299.lat&allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-52.221.9.240:443
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20033
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886#4Kian-1f1054387c
+trojan://FC60532879@81.28.13.103:443?security=tls&path=/#SG 🇸🇬 | @Raydikalx | 5A0433
+trojan://83c66e32-1934-4b54-bd41-6f9908352162@146.190.90.40:443?allowInsecure=1&sni=sg.hktkcloud.cloud
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?peer=connectwithemployers.online#Singapore
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.92:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20046
+trojan://192a5fc9-2baa-4043-8655-d840d370cb86@13.229.160.122:443?sni=jp.liangyuandian.top&type=tcp#SG 🇸🇬 | @Raydikalx | 31CDAA
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20028
+trojan://96dca130-61c6-11ed-bc37-1239d0255272@51.79.220.79:443?security=tls&headerType=none&type=tcp&sni=zoom.us#SG 🇸🇬 | @Raydikalx | 8ABF02
+trojan://8a967ec0-634e-11ed-8ef5-1239d0255272@sgovh-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=www.namava.ir#SG 🇸🇬 | @Raydikalx | F566BD
+trojan://zFOLEe09hogIoevLZ0VJslJepLsPSIBV@melli-shecan.tr:2095?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=mellishecan.com.tr#4Nika-527a1f45ec
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20034
+trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@13.229.1.82:443?sni=jp.iamnotagoodman.com&peer=jp.iamnotagoodman.com&security=tls#SG 🇸🇬 | @Raydikalx | B84171
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@139.162.62.195:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20005
 trojan://IQ68037294@91.199.84.39:443?sni=magical-kodiak.rooster465.autos&fp=chrome&type=tcp&path=%2f#HK 🇭🇰 | @Raydikalx | B73B0C
-trojan://PD07395842@185.244.208.81:443?sni=free-tahr.rooster465.autos&fp=chrome&type=tcp&path=/#HK 🇭🇰 | @Raydikalx | C38498
-trojan://af4b064a9c39472fb34ad8b113acdc6b@38.54.15.140:443?allowInsecure=1&sni=38.54.15.140#VN 🇻🇳 | @Raydikalx | F1C381
-trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7669
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443/?type=tcp&security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-2627
-trojan://0a906750-0f97-427b-969d-df235023c93b@16.163.194.6:443?allowInsecure=1&sni=data.amazon-azure.com
-trojan://Tg3RnK7Xp8B1@65.20.82.177:443?sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#IN 🇮🇳 | @Raydikalx | B5A0AD
-trojan://a4408756-1d34-4df0-a6c9-e63226e0ab93@203.159.92.232:443?allowInsecure=1&sni=data.amazon-azure.com
-trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&security=tls&sni=hk.freeguard.org#HK 🇭🇰 | @Raydikalx | 2D35B7
-trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?allowInsecure=0&sni=th001.zestapp778.com#%5Bwww.v2nodes.com%5D%20trojan-TH-...%20%231
-trojan://5t6i121em5lkmsmk@38.60.233.126:33079?security=tls&sni=th001.zestapp778.com&type=tcp&fp=chrome#4Mohsen-63f4e46d68
-trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443/?type=tcp&security=tls#%F0%9F%87%B2%F0%9F%87%B3MN-103.168.56.77-2099
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50042?allowInsecure=1&sni=mpvideo.qpic.cn#4Mohsen-69719a0b19
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50043?allowInsecure=1&sni=mpvideo.qpic.cn#4Sarina-2822b9584f
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50051?allowInsecure=1&sni=mpvideo.qpic.cn#4Mohsen-214e418d26
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo02a.kbservice.club:443?sni=45.32.28.232&type=tcp#TW 🇹🇼 | @Raydikalx | 86BB5F
-trojan://695a74ed-6095-4f5a@idbiznetvip8.rajaserver.web.id:443?path=/trojan&security=tls&host=idbiznetvip8.rajaserver.web.id&type=ws&sni=idbiznetvip8.rajaserver.web.id#kacaww
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24543?allowInsecure=1&sni=mpvideo.qpic.cn#4FreeIran-451e8b4aa9
-trojan://21c6c7cb-332b-4a0c-9ad7-dff9c3111442@64.227.131.19:443?sni=us02web.zoom.us#IN 🇮🇳 | @Raydikalx | 8189BD
-trojan://5505f6ba-cd37-30ce-8f92-be4120c83d7f@60.250.152.234:8443?sni=66.42.40.132&fp=chrome&alpn=http%2F1.1&type=tcp#TW 🇹🇼 | @Raydikalx | 9483A7
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-sg2.6send.com:10016?allowInsecure=1&sni=www.cloudflare.com#4Sarina-d3df8ad222
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@150.230.249.88:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20200
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24547?allowInsecure=1&sni=mpvideo.qpic.cn#4FreeIran-d0101ffcc1
-trojan://94d219c9-1afc-4d42-b090-8b3794764380@36.50.134.29:443?allowInsecure=0#VN 🇻🇳 | @Raydikalx | 6B3976
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@143.110.246.228:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#IN 🇮🇳 | @Raydikalx | 787FF1
-trojan://3747000103274291200@185.67.125.119:443?security=tls&sni=oriented-pug.adder289.quest&type=tcp#IN 🇮🇳 | @Raydikalx | 4ED17A
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@02a.seoulcitygovernment.com.ua:2050?sni=45.32.28.232&type=tcp#KR 🇰🇷 | @Raydikalx | 8B028F
-trojan://5t6i121em5lkmsmk@130.94.51.219:46298?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ph001.zestapp778.com#4Mohsen-0157fe8364
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24545?allowInsecure=1&sni=mpvideo.qpic.cn#4Jadi-84598ab550
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@64.120.94.225:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd#SG 🇸🇬 | @Raydikalx | BF3391
-trojan://0255972f1b5cc33c6f87fbc561085684@tyy129.magiclampcloud.com:59443?allowInsecure=0&sni=tyy129.magiclampcloud.com&type=tcp#CN 🇨🇳 | @Raydikalx | 05C8C2
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-za.251313.xyz:443?allowInsecure=1&sni=www.cloudflare.com#4Nika-bfdc81c768
-trojan://Bw5Mz7QkVp@139.84.172.132:443/?type=tcp&security=tls&sni=z-v2-077924.kailib.com#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@104.24.145.39:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://3747000103274291200@185.67.125.147:443?peer=polished-collie.adder289.quest#IN 🇮🇳 | @Raydikalx | F736AA
-trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443/?type=tcp&security=tls#%F0%9F%87%AE%F0%9F%87%B3IN-152.67.160.174-0671
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-sg2.6send.com:10001?allowInsecure=1&sni=www.cloudflare.com#4Mohsen-3451e56333
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24542?allowInsecure=1&sni=mpvideo.qpic.cn#4FreeIran-ecbd0e5059
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=0&sni=connectwithemployerstohireyouridealteam.com#4Sarina-cd831c3a4c
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24541?allowInsecure=1&sni=mpvideo.qpic.cn#4Jadi-c95e847702
-trojan://53784f81-7b1a-468e-8792-756a2d4e744e@38.54.79.138:443?allowInsecure=0&sni=data.amazon-azure.com
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50041?allowInsecure=1&sni=mpvideo.qpic.cn#4Sarina-61117dba32
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24546?allowInsecure=1&sni=mpvideo.qpic.cn#4Sarina-392b225ad0
-trojan://002023c45d18bca3eba2757bb683309a@42.51.25.69:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#CN 🇨🇳 | @Raydikalx | 3A2284
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50034?allowInsecure=1&sni=mpvideo.qpic.cn#4FreeIran-16d1491415
-trojan://06cf12a7fab279375e55e2f0cfdef381@ja304.magiclampcloud.cn:59443?allowInsecure=0&sni=ja304.magiclampcloud.cn&type=tcp#CN 🇨🇳 | @Raydikalx | 4C4DD8
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de10.dedushka.top#4Mohsen-46ef3ec9c4
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50056?allowInsecure=1&sni=mpvideo.qpic.cn#4Jadi-f0c1900ba9
-trojan://c25c4610-489e-11f0-bd10-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp#SG 🇸🇬 | @Raydikalx | B20D0A
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24544?allowInsecure=1&sni=mpvideo.qpic.cn#4Mohsen-7c7908bb0e
-trojan://NISHIKUITAN222@104.24.1.154:443?allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.1.154:443
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-sg1.6send.com:10046?allowInsecure=1&sni=www.cloudflare.com#4Mohsen-54a2292de4
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-sg1.6send.com:10016?allowInsecure=1&sni=www.cloudflare.com#4Jadi-ca9a71f5cb
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-sg1.6send.com:10045?allowInsecure=1&sni=www.cloudflare.com#4Sarina-30a94df80a
-trojan://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@hk-1.gsafevpnapi.com:44370?allowInsecure=1&sni=www.yahoo.com#4Sarina-7580756062
-trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443/?type=tcp&security=tls&sni=38.54.64.247&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BF%F0%9F%87%A6%C2%AE%EF%B8%8FSouth%20Africa%C2%A9%EF%B8%8FJohannesburg%F0%9F%85%BF%EF%B8%8Fping%3A199.98ms
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50033?allowInsecure=1&sni=mpvideo.qpic.cn#4Nika-4ca073371f
-trojan://06cf12a7fab279375e55e2f0cfdef381@171.15.37.203:59443?#CN 🇨🇳 | @Raydikalx | 9792B5
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50032?allowInsecure=1&sni=mpvideo.qpic.cn#4Mohsen-2c6de5df9e
-trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?allowInsecure=0&sni=ph001.zestapp778.com#%F0%9F%87%B5%F0%9F%87%AD%20%5Bwww.v2nodes.com%5D%20trojan-PH-...%20%231
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-sg1.6send.com:10044?allowInsecure=1&sni=www.cloudflare.com#4Mohsen-4431dae125
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-my.251313.xyz:443?allowInsecure=1&sni=www.cloudflare.com#4Nika-d51da8d12f
-trojan://S.ibYdZshHTF-ne.M%2B.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#4FreeIran-c90b42e89a
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50031?allowInsecure=1&sni=mpvideo.qpic.cn#4Jadi-bebf01b394
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50024?allowInsecure=1&sni=mpvideo.qpic.cn#4Kian-927b3a2efc
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@ddrr2.tube-cat.com:12934?allowInsecure=1&sni=r.hk10.cat.bilibili.com#4FreeIran-aa358df211
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50007?allowInsecure=1&sni=mmbiz.qpic.cn#4Nika-e42c69f535
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-sg1.6send.com:10012?allowInsecure=1&sni=www.cloudflare.com#4Jadi-659ce425bf
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50023?allowInsecure=1&sni=mpvideo.qpic.cn#4Kian-004b5d82a2
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50022?allowInsecure=1&sni=mpvideo.qpic.cn#4FreeIran-9156618cee
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50011?allowInsecure=1&sni=mpvideo.qpic.cn#4FreeIran-2445b7dee5
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@ddrr2.tube-cat.com:23091?allowInsecure=1&sni=r.sg2.cat.bilibili.com#4Jadi-5543f08502
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443#4Kian-82379d8840
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-sg1.6send.com:10011?allowInsecure=1&sni=www.cloudflare.com#4Kian-09849dc678
-trojan://63872b0d-87dd-4474-b690-92773af2922e@d3.catcat321.com:20083?sni=sg.catxstar.com&type=tcp#4Nika-c2317f57e5
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50013?allowInsecure=1&sni=mpvideo.qpic.cn#4Nika-7264114f81
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50012?allowInsecure=1&sni=mpvideo.qpic.cn#4Jadi-79f5428d08
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50021?allowInsecure=1&sni=mpvideo.qpic.cn#4Nika-f5fd6cfdd1
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-sg1.6send.com:10005?allowInsecure=1&sni=www.cloudflare.com#4Jadi-a48288ddad
-trojan://67828a6e-0144-4e57-8169-2447a3dd2e61@ssrsub.cloudflare.182682.xyz:8443/?type=ws&host=cdn-node-oss-99.paofu.de&path=%2Fprofile%2Ftelegram%40ssrsub&security=tls&sni=cdn-node-oss-99.paofu.de&allowInsecure=1#%E7%BE%8E%E5%9B%BD05%20%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fdafei.de
-trojan://21887810-2e7d-11ed-918b-1239d0255272@idtj-ikd.bonds.id:443?allowInsecure=0
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50005?allowInsecure=1&sni=mpvideo.qpic.cn#4Jadi-e26320394a
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnt2b.tntbooms.com:50006?allowInsecure=1&sni=mpvideo.qpic.cn#4FreeIran-e7814c5c21
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24549?allowInsecure=1&sni=mpvideo.qpic.cn#4Kian-71487d3641
-trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24548?allowInsecure=1&sni=mpvideo.qpic.cn#4Mohsen-5a0d371b1d
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053/?type=tcp&security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-125.94.46.8-2769
-trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:43992?sni=wximg.qq.com&allowInsecure=1#4Jadi-590ea26b5f
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053/?type=tcp&security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-125.94.46.8-2604
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@221.158.4.230:18853/?type=tcp&security=tls&sni=vpn1.rnmcnm.com&allowInsecure=1#%F0%9F%93%A1%40DeamNet%2B%282882%29
-trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:29628?sni=cm.g.doubleclick.net&allowInsecure=1#4Mohsen-ffe62313a0
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.209-2710
-trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:47786?sni=cm.g.doubleclick.net&allowInsecure=1#4Nika-d808104fe7
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a12.taipeicitygovernment.org.ua:3462?sni=45.32.28.232&type=tcp#TW 🇹🇼 | @Raydikalx | 71E93B
-trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:14699?sni=fe-static.deepseek.com&allowInsecure=1#4FreeIran-0854b73a46
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.106.153-2360
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a05.taipeicitygovernment.co.ua:3462?sni=45.32.28.232&type=tcp#TW 🇹🇼 | @Raydikalx | 51AD67
-trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:38994?sni=cm.g.doubleclick.net&allowInsecure=1#4Mohsen-a41430bbc2
-trojan://22367c45-f6c4-4ca8-1d52-d9787d7bbe91@time.is:8443/?type=ws&path=%2Fproxyip%3Dtw.ttzxw.cf%3A443&security=tls&sni=cm3-bpg.filegear-sg.me#%F0%9F%8F%81RELAY-104.26.13.54-1507
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.209-2817
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053/?type=tcp&security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-125.94.46.8-2482
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.118.153-2552
-trojan://5t6i121em5lkmsmk@149.248.50.252:46977?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ca001.zestapp778.com#4Jadi-5912bf3b5b
-trojan://5t6i121em5lkmsmk@de001.zestapp778.com:51520?allowInsecure=1#[852][DE][0][TROJAN][None][oneclickvpnkeys][2026-10-31][2026-11-07 03:30]
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=api.yourultimateprofessionalcareerhub.com#%40ConfigV2RayNG
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443#4Nika-ce915845e4
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443#4Nika-08c309a70e
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?fp=chrome&amp;sni=yourultimateprofessionalcareerhub.com#[283][CH][0][TROJAN][None][oneclickvpnkeys][2026-11-06][2026-11-07 03:30]
-trojan://Tg3RnK7Xp8B1@45.32.157.84:443?allowInsecure=1&amp;fp=chrome&amp;sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#[1425][DE][0][TROJAN][None][oneclickvpnkeys][2026-10-30][2026-11-07 03:30]
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@ddrr2.tube-cat.com:37908?allowInsecure=1&sni=r.JP3.cat.bilibili.com#4Nika-df0032b5bf
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@ddrr2.tube-cat.com:56165?allowInsecure=1&sni=r.KR1.cat.bilibili.com#4Jadi-39a98fe746
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443#4Jadi-149bec4527
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?allowInsecure=1&sni=cdn.yourultimateprofessionalcareerhub.com#4Mohsen-bfeffa9335
+trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@139.162.49.215:443?sni=139.162.49.215&type=tcp#SG 🇸🇬 | @Raydikalx | 6DC32D
+trojan://iyinglong@18.140.67.76:443?allowInsecure=0
+trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-5740
+trojan://38f169d6-d202-4b1b-8db8-e6eb1648f5cf@43.160.197.160:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-43.160.197.160-5705
+trojan://3ac6a6ca99f74941b1eaf892818e2ddb@185.151.146.40:443?allowInsecure=1#SG 🇸🇬 | @Raydikalx | B4EC4B
+trojan://842b5f9dd11e458d8613c907c4cc5723@149.28.151.140:443?sni=www.gpt123.one&allowInsecure=1&type=tcp#SG 🇸🇬 | @Raydikalx | 085F08
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@178.128.106.216:443/?type=tcp&security=tls&sni=www.baidu.com#SG 🇸🇬 | @Raydikalx | CF323D
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20024
+trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?type=tcp&amp;headerType=none&amp;security=tls&amp;sni=node-tr-1.v2sv.top#[2447][TR][0][TROJAN][None][kiava][2026-01-23][2026-11-07 03:30]
+trojan://NQ26071394@13.212.151.64:443?allowInsecure=0&sni=able-dane.rooster465.autos#SG 🇸🇬 | @Raydikalx | 898F99
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20042
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@ddrr2.tube-cat.com:45630?allowInsecure=1&sni=r.JP3.cat.bilibili.com#4Kian-7d87414e73
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?allowInsecure=0&sni=courses.yourultimateprofessionalcareerhub.com#%5Bwww.v2nodes.com%5D%20trojan-CH-...%20%232
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@ddrr2.tube-cat.com:13330?allowInsecure=1&sni=r.US9.cat.bilibili.com#4Jadi-347e9c8fc2
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@z-hk2.251313.xyz:10302?allowInsecure=1&sni=www.cloudflare.com#4FreeIran-83dec7906a
+trojan://67828a6e-0144-4e57-8169-2447a3dd2e61@ssrsub.cloudflare.182682.xyz:8443/?type=ws&host=cdn-node-oss-99.paofu.de&path=%2Fprofile%2Ftelegram%40ssrsub&security=tls&sni=cdn-node-oss-99.paofu.de&allowInsecure=1#%E7%BE%8E%E5%9B%BD05%20%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fdafei.de
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.91:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20041
+trojan://PD07395842@185.244.208.81:443?sni=free-tahr.rooster465.autos&fp=chrome&type=tcp&path=/#HK 🇭🇰 | @Raydikalx | C38498
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20052
+trojan://sshs8_6481354771@86.38.247.109:2087?sni=ul-singapore1.09vpn.com#4Nika-63bb6fc92d
+trojan://a2940130-1c92-11ed-aebe-1239d0255272@sg8-trojan.bonds.id:443?allowInsecure=0
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20037
+trojan://c95357eb-2869-4511-8940-f0dc5e1ec9b1@103.72.96.55:443/?type=tcp&security=tls&sni=hanoiidc2.5gsieutocdo.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#VN 🇻🇳 | @Raydikalx | 663774
+trojan://3760559353321758720@18.141.59.72:443/?type=tcp&security=tls&sni=dear-sunbeam.treefrog761.one#%40Hope_Net-join-us-on-Telegram
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20020
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#4Kian-7409c63e8b
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@ddrr2.tube-cat.com:37908?allowInsecure=1&sni=r.JP3.cat.bilibili.com#4Nika-df0032b5bf
+trojan://16132fb0-4945-11f0-a95e-1239d0255272@91.192.81.167:443?security=tls&sni=sg4.6n6.net&allowInsecure=1&fp=chrome&type=tcp#SG 🇸🇬 | @Raydikalx | B8851B
+trojan://af4b064a9c39472fb34ad8b113acdc6b@156.244.6.115:443/?type=tcp&security=tls&sni=156.244.6.115#%F0%9F%87%B8%F0%9F%87%A8SC-156.244.6.115-1798
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20017
+trojan://f3389204-7adb-45d8-906c-c17792336574@20.205.235.145:443
+trojan://5a92d674-308c-4d95-b283-28383e63a59b@103.9.77.6:443?sni=103.9.77.6&type=tcp#VN 🇻🇳 | @Raydikalx | A83E23
+trojan://pR320Cwdj7mJ9HKc_UVz-VJyuecT4qdh@91.240.87.108:443?security=tls&sni=z40.tgnn.live&fp=firefox&type=tcp#RU 🇷🇺 | @Raydikalx | D8F5C8
+trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@194.146.26.40:443?allowInsecure=1&sni=4-193-105-141.nhost.00cdn.com
+trojan://788f2b96-47e2-4302-a417-511b6fd7d09c@172.232.250.160:443?type=tcp&security=tls&fp=chrome&alpn=http%2F1.1#ID 🇮🇩 | @Raydikalx | 1BFF9A
+trojan://21887810-2e7d-11ed-918b-1239d0255272@idtj-ikd.bonds.id:443?allowInsecure=0
+trojan://af4b064a9c39472fb34ad8b113acdc6b@103.67.79.156:443?sni=103.67.79.156&allowInsecure=1&type=tcp#ID 🇮🇩 | @Raydikalx | 323809
+trojan://28d98f761aca9d636f44db62544628eb@184.168.127.50:443?allowInsecure=0
+trojan://AG4yPUSazj57DBFnKG@45.139.194.66:443?security=tls&headerType=none&type=tcp#EE 🇪🇪 | @Raydikalx | 7BEDE0
+trojan://16132fb0-4945-11f0-a95e-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp#SG 🇸🇬 | @Raydikalx | 900213
+trojan://ASoZeIVwzX4w4wxwig@nl-1.tr202605.com:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#NL 🇳🇱 | @Raydikalx | 803945
+trojan://GToK9gzuwh@146.190.84.34:443?allowInsecure=0&sni=aka.ms#SG 🇸🇬 | @Raydikalx | 4063B6
+trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?type=tcp&amp;headerType=none&amp;security=tls&amp;sni=node-id-1.v2sv.top#[2446][ID][0][TROJAN][None][kiava][2026-01-23][2026-11-07 03:30]
+trojan://IQ68037294@91.199.84.34:443?sni=wealthy-loon.rooster465.autos&fp=chrome&type=tcp&path=/#HK 🇭🇰 | @Raydikalx | F700C6
+trojan://ca01d94c-238b-42db-9302-054335319068@51.75.118.79:20140?path=%2Fbp-trojan&security=none&type=ws#4Sarina-20b90580a4
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443#4Jadi-6939f5b552
+trojan://NISHIKUITAN111@194.53.53.140:443/?type=ws&host=za.ylks.xyz&path=%2F&security=tls&sni=za.ylks.xyz#%40Hope_Net-join-us-on-Telegram
+trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7551
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.38.60.139:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20251
+trojan://a4408756-1d34-4df0-a6c9-e63226e0ab93@203.159.92.232:443?allowInsecure=1&sni=data.amazon-azure.com
+trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?allowInsecure=0&sni=th001.zestapp778.com#%5Bwww.v2nodes.com%5D%20trojan-TH-...%20%231
+trojan://af4b064a9c39472fb34ad8b113acdc6b@210.187.176.154:443?allowInsecure=1&sni=210.187.176.154#MY 🇲🇾 | @Raydikalx | B69489
+trojan://af4b064a9c39472fb34ad8b113acdc6b@185.247.224.136:443?allowInsecure=1&sni=185.247.224.136#RO 🇷🇴 | @Raydikalx | 928FAD
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@92.243.75.178:2096?sni=vle.amclubdns.dpdns.org#DE 🇩🇪 | @Raydikalx | D4C994
+trojan://ASoZeIVwzX4w4wxwig@de-3.tr202605.com:443?allowInsecure=0#DE 🇩🇪 | @Raydikalx | FD3E4B
+trojan://3747000103274291200@195.133.93.135:443/?type=tcp&security=tls&sni=epic-weasel.treefrog761.one#%F0%9F%9A%8037%40oneclickvpnkeys
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo03a.kbservice.club:443/?type=tcp&security=tls#TW 🇹🇼 | @Raydikalx | 4B16E8
+trojan://5t6i121em5lkmsmk@38.60.233.126:33079?security=tls&sni=th001.zestapp778.com&type=tcp&allowInsecure=0#4Jadi-8e321d5577
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1#@V2ray_Collector
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@bbbnhj.131.pp.ua:443?security=tls#%F0%9F%87%AB%F0%9F%87%AEFI-135.181.41.169-5819
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@ddrr2.tube-cat.com:45585?allowInsecure=1&sni=r.JP16.cat.bilibili.com#4Sarina-5574f59ce9
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@ddrr2.tube-cat.com:12934?allowInsecure=1&sni=r.hk10.cat.bilibili.com#4FreeIran-aa358df211
+trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443/?type=tcp&security=tls#%F0%9F%87%B2%F0%9F%87%B3MN-103.168.56.77-2099
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.91:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20044
+trojan://3747000103274291200@18.139.99.11:443?peer=probable-drum.treefrog761.one#Singapore
+trojan://f64e69c0-e7b7-11ec-ab81-1239d0255272@w11.udpgw.com:443?allowInsecure=0
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24544?security=tls&sni=mpvideo.qpic.cn&insecure=0&allowInsecure=0&type=tcp&headerType=none#CN 🇨🇳 | @Raydikalx | EF8208
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.91:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20021
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@124.156.208.160:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20018
+trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?peer=yourjobnavigator.online#United+Kingdom
+trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:38994?sni=cm.g.doubleclick.net&allowInsecure=1#4Mohsen-a41430bbc2
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24542?security=tls&sni=mpvideo.qpic.cn&insecure=0&allowInsecure=0&type=tcp&headerType=none#CN 🇨🇳 | @Raydikalx | FF51FE
+trojan://30f05ba0-9b94-422e-887c-d2d45918a06b@ngzydd.sub-zrj.com:6811?sni=streaming.sub-zrj.com&type=tcp#US 🇺🇸 | @Raydikalx | 061723
+trojan://002023c45d18bca3eba2757bb683309a@42.51.25.69:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#CN 🇨🇳 | @Raydikalx | 3A2284
+trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443/?type=tcp&security=tls#%F0%9F%87%AE%F0%9F%87%B3IN-152.67.160.174-0671
+trojan://a6xjq4UD2t@ir1.iobase.ir:443/?type=tcp&security=tls&alpn=http%2F1.1&allowInsecure=1&fp=chrome#IR 🇮🇷 | @Raydikalx | 2E83A5
+trojan://06cf12a7fab279375e55e2f0cfdef381@171.15.37.203:59443?#CN 🇨🇳 | @Raydikalx | 9792B5
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@36d.catcat321.com:12763?allowInsecure=1&sni=d.hkj1.cat.bilibili.com#4FreeIran-9c0f9f909b
+trojan://d6cbceb1-901e-44e1-b68e-0199063eb35f@141.95.74.53:443/?type=tcp&security=tls&sni=google.com.progt.cf&alpn=http%2F1.1&allowInsecure=1&fp=chrome#DE 🇩🇪 | @Raydikalx | DA2E6D
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@210.203.60.190:443/?type=tcp&security=tls&sni=45.32.28.232#TW 🇹🇼 | @Raydikalx | 559066
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.234:3462?sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1&type=tcp#TW 🇹🇼 | @Raydikalx | 192C1B
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@ktc1k.xmrthnode.com:24509?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#KR 🇰🇷 | @Raydikalx | C2B50C
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@220.128.135.193:3462?security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#TW 🇹🇼 | @Raydikalx | 34844B
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@ktc1k.xmrthnode.com:24501?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#KR 🇰🇷 | @Raydikalx | 50A9C7
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.230:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#TW 🇹🇼 | @Raydikalx | 5EC568
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@ktc1k.xmrthnode.com:41300?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#KR 🇰🇷 | @Raydikalx | D895D5
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@ktc1k.xmrthnode.com:41305?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#KR 🇰🇷 | @Raydikalx | 94F406
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@ktc1k.xmrthnode.com:41303?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#KR 🇰🇷 | @Raydikalx | 65C1D6
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@ktc1k.xmrthnode.com:41014?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#KR 🇰🇷 | @Raydikalx | 8ECEFC
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@ktc1k.xmrthnode.com:41011?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#KR 🇰🇷 | @Raydikalx | 0F911B
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@ktc1k.xmrthnode.com:24505?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#KR 🇰🇷 | @Raydikalx | E38D2B
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@64.120.94.225:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd#SG 🇸🇬 | @Raydikalx | BF3391
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@ktc1k.xmrthnode.com:41306?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#KR 🇰🇷 | @Raydikalx | 3DF71D
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24543?security=tls&sni=mpvideo.qpic.cn&insecure=0&allowInsecure=0&type=tcp&headerType=none#CN 🇨🇳 | @Raydikalx | 79EF88
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@ktc1k.xmrthnode.com:41040?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#KR 🇰🇷 | @Raydikalx | 74340F
+trojan://253bc477d4e43c209f2d427272968280@165.22.55.206:443/?type=tcp&security=tls&sni=www.baidu.com#SG 🇸🇬 | @Raydikalx | 0A18E1
+trojan://Tg3RnK7Xp8B1@65.20.82.177:443?sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#IN 🇮🇳 | @Raydikalx | B5A0AD
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@101.3.47.51:443?type=tcp&security=tls#TW 🇹🇼 | @Raydikalx | 735D9F
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@ddrr2.tube-cat.com:23091?allowInsecure=1&sni=r.sg2.cat.bilibili.com#4Jadi-5543f08502
+trojan://3747000103274291200@185.67.125.147:443?peer=polished-collie.adder289.quest#IN 🇮🇳 | @Raydikalx | F736AA
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?allowInsecure=0&sni=cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%E7%BE%8E%E5%9B%BD_110719083+H
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24546?security=tls&sni=mpvideo.qpic.cn&insecure=0&allowInsecure=0&type=tcp&headerType=none#CN 🇨🇳 | @Raydikalx | 5A85E7
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.229:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#TW 🇹🇼 | @Raydikalx | 61DFFD
+trojan://21c6c7cb-332b-4a0c-9ad7-dff9c3111442@64.227.131.19:443?sni=us02web.zoom.us#IN 🇮🇳 | @Raydikalx | 8189BD
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24545?security=tls&sni=mpvideo.qpic.cn&insecure=0&allowInsecure=0&type=tcp&headerType=none#CN 🇨🇳 | @Raydikalx | 01BBF7
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@143.110.246.228:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#IN 🇮🇳 | @Raydikalx | 787FF1
+trojan://DyxOlYWfEYVf@193.8.139.22:443?sni=sb24.ir&type=tcp#IR 🇮🇷 | @Raydikalx | DE5916
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443/?type=tcp&security=tls&sni=38.54.64.247&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BF%F0%9F%87%A6%C2%AE%EF%B8%8FSouth%20Africa%C2%A9%EF%B8%8FJohannesburg%F0%9F%85%BF%EF%B8%8Fping%3A199.98ms
+trojan://mainssh-niwrhf87@95.179.246.122:443/?type=grpc&serviceName=trojangrpc&security=tls&sni=getgrpc.mainssh.xyz#%F0%9F%87%A9%F0%9F%87%AADE-95.179.246.122-8207
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-wien.unlimited-access.ru:443?security=tls&type=tcp&headerType=none&sni=tr-wien.unlimited-access.ru&fp=firefox&alpn=http%2F1.1#AT 🇦🇹 | @Raydikalx | 509CC4
+trojan://Bw5Mz7QkVp@139.84.172.132:443/?type=tcp&security=tls&sni=z-v2-077924.kailib.com#%40Hope_Net-join-us-on-Telegram
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.214:443?allowInsecure=0&sni=courses.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%E7%BE%8E%E5%9B%BD_110719066+H
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@05.tokyometropolis.kiev.ua:2053?sni=45.32.28.232&type=tcp#JP 🇯🇵 | @Raydikalx | 3EBF21
+trojan://af4b064a9c39472fb34ad8b113acdc6b@154.90.55.81:443?allowInsecure=1&sni=154.90.55.81#AE 🇦🇪 | @Raydikalx | 6A5013
 trojan://14bac0e43c849123ccb0fd0690f24316@118.253.167.243:59443?allowInsecure=1&sni=tyy129.magiclampcloud.com&type=tcp#CN 🇨🇳 | @Raydikalx | 6F59DB
+trojan://Cl150MQWlG@209.250.236.93:443/?type=grpc&security=tls&sni=irancell-ir-4.mmdruby13.store#%F0%9F%87%A9%F0%9F%87%AADE-209.250.236.93-8502
+trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?mode=gun&security=tls&alpn=h2&insecure=0&fp=chrome&type=grpc&serviceName=ajv&allowInsecure=0&sni=d3-de2.cloud-cdn.xyz#@Vip_Security join us - 103
+trojan://53784f81-7b1a-468e-8792-756a2d4e744e@38.54.79.138:443?allowInsecure=0&sni=data.amazon-azure.com
+trojan://SoftNetConnect@83.228.230.226:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=reality&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&sid=c7&spx=/#CH 🇨🇭 | @Raydikalx | E7C258
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-00.catcat321.com:20123?allowInsecure=1&sni=hk.catxstar.com#4Sarina-f2c7cc685a
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@02.tokyometropolis.ivano-frankivsk.ua:2053?sni=45.32.28.232&type=tcp#JP 🇯🇵 | @Raydikalx | 4C980A
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@118.218.10.159:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20006
+trojan://ComYEI7fQv@51.68.215.55:443?security=tls&sni=uk-04.allhubb.info&type=ws&path=%2FTBHDjkhbgbygcvbjhbfrASDFASdfapoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🇫🇷 FR-51.68.215.55:443
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d3.catcat321.com:20056?sni=hk.catxstar.com&type=tcp#4FreeIran-cda05b901b
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443#4FreeIran-c4c9b67240
+trojan://SoftNetConnect@83.228.224.161:443#CH 🇨🇭 | @Raydikalx | 6F7849
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@103.25.202.114:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20002
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d3.catcat321.com:20014?sni=hk.catxstar.com&type=tcp#4Kian-c913072c67
+trojan://SoftNetConnect@185.204.169.164:8443/?type=tcp&sni=www.yahoo.com&allowInsecure=1&fp=chrome&security=reality&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&sid=ca14e14437#%40nekopingbot_5989
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@02a.seoulcitygovernment.com.ua:2050?sni=45.32.28.232&type=tcp#KR 🇰🇷 | @Raydikalx | 8B028F
+trojan://SoftNetConnect@185.204.169.164:443/?type=xhttp&sni=www.yahoo.com&fp=chrome&security=reality&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&sid=d591#%40SONIC_2524%20%285%29
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@krhtybay.catcat321.com:20061?sni=hk.catxstar.com&type=raw#4Kian-987ed61659
+trojan://7418004a-0ecd-41c0-a062-42bf966d3fb2@cf.877774.xyz:443/?type=ws&path=%2F&security=tls&sni=guang.bgm2024.dpdns.org#%F0%9F%8F%81RELAY-172.64.146.66-0935
+trojan://SoftNetConnect@185.204.169.164:2087/?type=grpc&sni=www.yahoo.com&fp=chrome&security=reality&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&sid=160b91b3#%40nekopingbot_6019
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@ddrr2.tube-cat.com:33449?allowInsecure=1&sni=r.tw5.cat.bilibili.com#4Jadi-ce66c0f164
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443#4Kian-82379d8840
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@221.158.4.230:18853/?type=tcp&security=tls&sni=vpn1.rnmcnm.com&allowInsecure=1#%F0%9F%93%A1%40DeamNet%2B%282882%29
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@ddrr2.tube-cat.com:56165?allowInsecure=1&sni=r.KR1.cat.bilibili.com#4Jadi-39a98fe746
+trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?type=tcp&security=tls&headerType=none&sni=www.registry-monitor.click&fp=chrome&allowInsecure=1#%F0%9F%87%B5%F0%9F%87%B034489%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+trojan://S.ibYdZshHTF-ne.M%2B.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#4FreeIran-c90b42e89a
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@saas.sin.fan:443/?type=tcp&security=tls&sni=_acme-challenge.2go.cloudns.be#%F0%9F%8F%81RELAY-162.159.36.20-1565
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@36d.catcat321.com:59527?allowInsecure=1&sni=d.twj1.cat.bilibili.com#4Mohsen-470f9387d1
+trojan://9816e1ac-3aa2-39ff-be40-0a93ad9c7ee3@tnnip2.tntbooms.com:24547?security=tls&sni=mpvideo.qpic.cn&insecure=0&allowInsecure=0&type=tcp&headerType=none#CN 🇨🇳 | @Raydikalx | F21497
